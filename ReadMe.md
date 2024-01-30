@@ -113,8 +113,8 @@ id: Turkey
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Turkey//
-markerFolder: ./Turkey//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Turkey] 
