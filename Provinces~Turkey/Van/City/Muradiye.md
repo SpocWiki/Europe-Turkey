@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::43.77] 
-[geo-lat::38.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.77] 
+[has_place_latitude::38.98] 
 [name::Muradiye] 
 State ::  
 Country :: [[Russia]]  

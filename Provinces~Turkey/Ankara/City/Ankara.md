@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::32.84] 
-[geo-lat::39.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::32.84] 
+[has_place_latitude::39.92] 
 [name::Ankara] 
 State ::  
 Country :: [[Turkey]]  

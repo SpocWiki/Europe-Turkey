@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::35.3] 
-[geo-lat::37.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.3] 
+[has_place_latitude::37.02] 
 [name::Adana] 
 State ::  
 Country :: [[Turkey]]  
