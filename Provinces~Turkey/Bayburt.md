@@ -40,11 +40,16 @@ markerFolder: ./Bayburt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt|Bayburt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.public|Bayburt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.internal|Bayburt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.protect|Bayburt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.private|Bayburt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.personal|Bayburt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bayburt.secret|Bayburt.secret]] 
+
+### [Bayburt.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.public.md) 
+
+### [Bayburt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.internal.md) 
+
+### [Bayburt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.protect.md) 
+
+### [Bayburt.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.private.md) 
+
+### [Bayburt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.personal.md) 
+
+### [Bayburt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.secret.md)
 

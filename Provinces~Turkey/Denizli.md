@@ -40,11 +40,16 @@ markerFolder: ./Denizli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli|Denizli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.public|Denizli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.internal|Denizli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.protect|Denizli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.private|Denizli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.personal|Denizli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Denizli.secret|Denizli.secret]] 
+
+### [Denizli.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.public.md) 
+
+### [Denizli.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.internal.md) 
+
+### [Denizli.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.protect.md) 
+
+### [Denizli.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.private.md) 
+
+### [Denizli.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.personal.md) 
+
+### [Denizli.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.secret.md)
 

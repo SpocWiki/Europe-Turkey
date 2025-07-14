@@ -40,11 +40,16 @@ markerFolder: ./Eskisehir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir|Eskisehir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.public|Eskisehir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.internal|Eskisehir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.protect|Eskisehir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.private|Eskisehir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.personal|Eskisehir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Eskisehir.secret|Eskisehir.secret]] 
+
+### [Eskisehir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.public.md) 
+
+### [Eskisehir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.internal.md) 
+
+### [Eskisehir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.protect.md) 
+
+### [Eskisehir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.private.md) 
+
+### [Eskisehir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.personal.md) 
+
+### [Eskisehir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.secret.md)
 

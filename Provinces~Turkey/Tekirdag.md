@@ -40,11 +40,16 @@ markerFolder: ./Tekirdag/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Tekirdag|Tekirdag]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Tekirdag.public|Tekirdag.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tekirdag.internal|Tekirdag.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Tekirdag.protect|Tekirdag.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Tekirdag.private|Tekirdag.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tekirdag.personal|Tekirdag.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Tekirdag.secret|Tekirdag.secret]] 
+
+### [Tekirdag.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.public.md) 
+
+### [Tekirdag.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.internal.md) 
+
+### [Tekirdag.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.protect.md) 
+
+### [Tekirdag.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.private.md) 
+
+### [Tekirdag.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.personal.md) 
+
+### [Tekirdag.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Çankiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Çankiri|Çankiri]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Çankiri.public|Çankiri.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çankiri.internal|Çankiri.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Çankiri.protect|Çankiri.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Çankiri.private|Çankiri.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çankiri.personal|Çankiri.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Çankiri.secret|Çankiri.secret]] 
+
+### [Çankiri.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.public.md) 
+
+### [Çankiri.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.internal.md) 
+
+### [Çankiri.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.protect.md) 
+
+### [Çankiri.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.private.md) 
+
+### [Çankiri.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.personal.md) 
+
+### [Çankiri.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.secret.md)
 

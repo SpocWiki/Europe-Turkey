@@ -40,11 +40,16 @@ markerFolder: ./Trabzon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon|Trabzon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.public|Trabzon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.internal|Trabzon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.protect|Trabzon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.private|Trabzon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.personal|Trabzon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Trabzon.secret|Trabzon.secret]] 
+
+### [Trabzon.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.public.md) 
+
+### [Trabzon.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.internal.md) 
+
+### [Trabzon.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.protect.md) 
+
+### [Trabzon.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.private.md) 
+
+### [Trabzon.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.personal.md) 
+
+### [Trabzon.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.secret.md)
 

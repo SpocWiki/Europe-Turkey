@@ -40,11 +40,16 @@ markerFolder: ./Nigde/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde|Nigde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.public|Nigde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.internal|Nigde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.protect|Nigde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.private|Nigde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.personal|Nigde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Nigde.secret|Nigde.secret]] 
+
+### [Nigde.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNigde.public.md) 
+
+### [Nigde.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNigde.internal.md) 
+
+### [Nigde.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNigde.protect.md) 
+
+### [Nigde.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNigde.private.md) 
+
+### [Nigde.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNigde.personal.md) 
+
+### [Nigde.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNigde.secret.md)
 

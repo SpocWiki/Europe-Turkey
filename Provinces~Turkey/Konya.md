@@ -40,11 +40,16 @@ markerFolder: ./Konya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya|Konya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.public|Konya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.internal|Konya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.protect|Konya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.private|Konya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.personal|Konya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Konya.secret|Konya.secret]] 
+
+### [Konya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKonya.public.md) 
+
+### [Konya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKonya.internal.md) 
+
+### [Konya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKonya.protect.md) 
+
+### [Konya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKonya.private.md) 
+
+### [Konya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKonya.personal.md) 
+
+### [Konya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKonya.secret.md)
 

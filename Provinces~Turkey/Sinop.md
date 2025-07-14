@@ -40,11 +40,16 @@ markerFolder: ./Sinop/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop|Sinop]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.public|Sinop.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.internal|Sinop.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.protect|Sinop.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.private|Sinop.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.personal|Sinop.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Sinop.secret|Sinop.secret]] 
+
+### [Sinop.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.public.md) 
+
+### [Sinop.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.internal.md) 
+
+### [Sinop.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.protect.md) 
+
+### [Sinop.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.private.md) 
+
+### [Sinop.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.personal.md) 
+
+### [Sinop.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.secret.md)
 

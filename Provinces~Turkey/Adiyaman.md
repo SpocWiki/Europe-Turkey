@@ -40,11 +40,16 @@ markerFolder: ./Adiyaman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman|Adiyaman]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.public|Adiyaman.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.internal|Adiyaman.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.protect|Adiyaman.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.private|Adiyaman.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.personal|Adiyaman.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Adiyaman.secret|Adiyaman.secret]] 
+
+### [Adiyaman.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.public.md) 
+
+### [Adiyaman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.internal.md) 
+
+### [Adiyaman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.protect.md) 
+
+### [Adiyaman.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.private.md) 
+
+### [Adiyaman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.personal.md) 
+
+### [Adiyaman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.secret.md)
 

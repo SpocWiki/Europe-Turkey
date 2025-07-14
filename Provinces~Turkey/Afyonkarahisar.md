@@ -40,11 +40,16 @@ markerFolder: ./Afyonkarahisar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Afyonkarahisar|Afyonkarahisar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Afyonkarahisar.public|Afyonkarahisar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Afyonkarahisar.internal|Afyonkarahisar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Afyonkarahisar.protect|Afyonkarahisar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Afyonkarahisar.private|Afyonkarahisar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Afyonkarahisar.personal|Afyonkarahisar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Afyonkarahisar.secret|Afyonkarahisar.secret]] 
+
+### [Afyonkarahisar.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAfyonkarahisar.public.md) 
+
+### [Afyonkarahisar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAfyonkarahisar.internal.md) 
+
+### [Afyonkarahisar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAfyonkarahisar.protect.md) 
+
+### [Afyonkarahisar.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAfyonkarahisar.private.md) 
+
+### [Afyonkarahisar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAfyonkarahisar.personal.md) 
+
+### [Afyonkarahisar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAfyonkarahisar.secret.md)
 

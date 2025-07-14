@@ -40,11 +40,16 @@ markerFolder: ./Çanakkale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale|Çanakkale]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.public|Çanakkale.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.internal|Çanakkale.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.protect|Çanakkale.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.private|Çanakkale.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.personal|Çanakkale.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Çanakkale.secret|Çanakkale.secret]] 
+
+### [Çanakkale.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇanakkale.public.md) 
+
+### [Çanakkale.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇanakkale.internal.md) 
+
+### [Çanakkale.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇanakkale.protect.md) 
+
+### [Çanakkale.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇanakkale.private.md) 
+
+### [Çanakkale.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇanakkale.personal.md) 
+
+### [Çanakkale.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇanakkale.secret.md)
 

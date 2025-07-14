@@ -40,11 +40,16 @@ markerFolder: ./Diyarbakir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Diyarbakir|Diyarbakir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Diyarbakir.public|Diyarbakir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Diyarbakir.internal|Diyarbakir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Diyarbakir.protect|Diyarbakir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Diyarbakir.private|Diyarbakir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Diyarbakir.personal|Diyarbakir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Diyarbakir.secret|Diyarbakir.secret]] 
+
+### [Diyarbakir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDiyarbakir.public.md) 
+
+### [Diyarbakir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDiyarbakir.internal.md) 
+
+### [Diyarbakir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDiyarbakir.protect.md) 
+
+### [Diyarbakir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDiyarbakir.private.md) 
+
+### [Diyarbakir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDiyarbakir.personal.md) 
+
+### [Diyarbakir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDiyarbakir.secret.md)
 

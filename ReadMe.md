@@ -137,12 +137,17 @@ Capital :: [[Istanbul]]
 [has_place_latitude::39.3233] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey|Turkey]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~East/Turkey.public|Turkey.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~East/Turkey.private|Turkey.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.secret.md)
+

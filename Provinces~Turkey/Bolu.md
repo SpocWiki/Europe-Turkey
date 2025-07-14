@@ -40,11 +40,16 @@ markerFolder: ./Bolu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu|Bolu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.public|Bolu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.internal|Bolu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.protect|Bolu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.private|Bolu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.personal|Bolu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bolu.secret|Bolu.secret]] 
+
+### [Bolu.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBolu.public.md) 
+
+### [Bolu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBolu.internal.md) 
+
+### [Bolu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBolu.protect.md) 
+
+### [Bolu.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBolu.private.md) 
+
+### [Bolu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBolu.personal.md) 
+
+### [Bolu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBolu.secret.md)
 

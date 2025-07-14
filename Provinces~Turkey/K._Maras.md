@@ -40,11 +40,16 @@ markerFolder: ./K._Maras/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/K._Maras|K._Maras]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/K._Maras.public|K._Maras.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/K._Maras.internal|K._Maras.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/K._Maras.protect|K._Maras.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/K._Maras.private|K._Maras.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/K._Maras.personal|K._Maras.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/K._Maras.secret|K._Maras.secret]] 
+
+### [K._Maras.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyK._Maras.public.md) 
+
+### [K._Maras.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyK._Maras.internal.md) 
+
+### [K._Maras.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyK._Maras.protect.md) 
+
+### [K._Maras.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyK._Maras.private.md) 
+
+### [K._Maras.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyK._Maras.personal.md) 
+
+### [K._Maras.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyK._Maras.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Kilis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kilis|Kilis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kilis.public|Kilis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kilis.internal|Kilis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kilis.protect|Kilis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kilis.private|Kilis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kilis.personal|Kilis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kilis.secret|Kilis.secret]] 
+
+### [Kilis.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.public.md) 
+
+### [Kilis.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.internal.md) 
+
+### [Kilis.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.protect.md) 
+
+### [Kilis.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.private.md) 
+
+### [Kilis.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.personal.md) 
+
+### [Kilis.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.secret.md)
 

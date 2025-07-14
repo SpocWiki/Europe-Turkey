@@ -39,11 +39,16 @@ markerFolder: ./Mus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus|Mus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.public|Mus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.internal|Mus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.protect|Mus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.private|Mus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.personal|Mus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Mus.secret|Mus.secret]] 
+
+### [Mus.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMus.public.md) 
+
+### [Mus.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMus.internal.md) 
+
+### [Mus.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMus.protect.md) 
+
+### [Mus.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMus.private.md) 
+
+### [Mus.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMus.personal.md) 
+
+### [Mus.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMus.secret.md)
 

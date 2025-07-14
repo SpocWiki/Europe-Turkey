@@ -40,11 +40,16 @@ markerFolder: ./Kars/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars|Kars]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.public|Kars.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.internal|Kars.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.protect|Kars.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.private|Kars.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.personal|Kars.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kars.secret|Kars.secret]] 
+
+### [Kars.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKars.public.md) 
+
+### [Kars.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKars.internal.md) 
+
+### [Kars.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKars.protect.md) 
+
+### [Kars.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKars.private.md) 
+
+### [Kars.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKars.personal.md) 
+
+### [Kars.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKars.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Gaziantep/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep|Gaziantep]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.public|Gaziantep.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.internal|Gaziantep.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.protect|Gaziantep.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.private|Gaziantep.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.personal|Gaziantep.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Gaziantep.secret|Gaziantep.secret]] 
+
+### [Gaziantep.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.public.md) 
+
+### [Gaziantep.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.internal.md) 
+
+### [Gaziantep.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.protect.md) 
+
+### [Gaziantep.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.private.md) 
+
+### [Gaziantep.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.personal.md) 
+
+### [Gaziantep.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.secret.md)
 

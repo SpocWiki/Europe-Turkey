@@ -40,11 +40,16 @@ markerFolder: ./Karaman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Karaman|Karaman]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Karaman.public|Karaman.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Karaman.internal|Karaman.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Karaman.protect|Karaman.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Karaman.private|Karaman.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Karaman.personal|Karaman.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Karaman.secret|Karaman.secret]] 
+
+### [Karaman.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.public.md) 
+
+### [Karaman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.internal.md) 
+
+### [Karaman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.protect.md) 
+
+### [Karaman.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.private.md) 
+
+### [Karaman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.personal.md) 
+
+### [Karaman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.secret.md)
 

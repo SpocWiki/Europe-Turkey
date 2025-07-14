@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kars|Kars]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kars.public|Kars.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kars.internal|Kars.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kars.protect|Kars.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kars.private|Kars.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kars.personal|Kars.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kars.secret|Kars.secret]] 
+
+### [Kars.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Kars\CityKars.public.md) 
+
+### [Kars.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Kars\CityKars.internal.md) 
+
+### [Kars.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Kars\CityKars.protect.md) 
+
+### [Kars.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Kars\CityKars.private.md) 
+
+### [Kars.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Kars\CityKars.personal.md) 
+
+### [Kars.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Kars\CityKars.secret.md)
+

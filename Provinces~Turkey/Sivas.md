@@ -40,11 +40,16 @@ markerFolder: ./Sivas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas|Sivas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.public|Sivas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.internal|Sivas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.protect|Sivas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.private|Sivas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.personal|Sivas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Sivas.secret|Sivas.secret]] 
+
+### [Sivas.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySivas.public.md) 
+
+### [Sivas.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySivas.internal.md) 
+
+### [Sivas.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySivas.protect.md) 
+
+### [Sivas.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySivas.private.md) 
+
+### [Sivas.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySivas.personal.md) 
+
+### [Sivas.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySivas.secret.md)
 

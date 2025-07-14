@@ -40,11 +40,16 @@ markerFolder: ./Izmir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir|Izmir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.public|Izmir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.internal|Izmir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.protect|Izmir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.private|Izmir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.personal|Izmir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Izmir.secret|Izmir.secret]] 
+
+### [Izmir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIzmir.public.md) 
+
+### [Izmir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIzmir.internal.md) 
+
+### [Izmir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIzmir.protect.md) 
+
+### [Izmir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIzmir.private.md) 
+
+### [Izmir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIzmir.personal.md) 
+
+### [Izmir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIzmir.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Sirnak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak|Sirnak]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.public|Sirnak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.internal|Sirnak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.protect|Sirnak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.private|Sirnak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.personal|Sirnak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Sirnak.secret|Sirnak.secret]] 
+
+### [Sirnak.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySirnak.public.md) 
+
+### [Sirnak.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySirnak.internal.md) 
+
+### [Sirnak.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySirnak.protect.md) 
+
+### [Sirnak.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySirnak.private.md) 
+
+### [Sirnak.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySirnak.personal.md) 
+
+### [Sirnak.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySirnak.secret.md)
 

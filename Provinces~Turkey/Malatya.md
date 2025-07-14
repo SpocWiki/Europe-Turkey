@@ -40,11 +40,16 @@ markerFolder: ./Malatya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya|Malatya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.public|Malatya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.internal|Malatya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.protect|Malatya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.private|Malatya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.personal|Malatya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Malatya.secret|Malatya.secret]] 
+
+### [Malatya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.public.md) 
+
+### [Malatya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.internal.md) 
+
+### [Malatya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.protect.md) 
+
+### [Malatya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.private.md) 
+
+### [Malatya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.personal.md) 
+
+### [Malatya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/City/Ankara|Ankara]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/City/Ankara.public|Ankara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/City/Ankara.internal|Ankara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/City/Ankara.protect|Ankara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/City/Ankara.private|Ankara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/City/Ankara.personal|Ankara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/City/Ankara.secret|Ankara.secret]] 
+
+### [Ankara.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Ankara\CityAnkara.public.md) 
+
+### [Ankara.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Ankara\CityAnkara.internal.md) 
+
+### [Ankara.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Ankara\CityAnkara.protect.md) 
+
+### [Ankara.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Ankara\CityAnkara.private.md) 
+
+### [Ankara.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Ankara\CityAnkara.personal.md) 
+
+### [Ankara.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Ankara\CityAnkara.secret.md)
+

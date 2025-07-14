@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 41.3
 - 28.6
@@ -241,11 +241,16 @@ markerFolder: ./Istanbul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul|Istanbul]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.public|Istanbul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.internal|Istanbul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.protect|Istanbul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.private|Istanbul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.personal|Istanbul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Istanbul.secret|Istanbul.secret]] 
+
+### [Istanbul.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.public.md) 
+
+### [Istanbul.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.internal.md) 
+
+### [Istanbul.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.protect.md) 
+
+### [Istanbul.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.private.md) 
+
+### [Istanbul.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.personal.md) 
+
+### [Istanbul.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.secret.md)
 

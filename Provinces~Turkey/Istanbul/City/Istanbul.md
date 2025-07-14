@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/City/Istanbul|Istanbul]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/City/Istanbul.public|Istanbul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/City/Istanbul.internal|Istanbul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/City/Istanbul.protect|Istanbul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/City/Istanbul.private|Istanbul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/City/Istanbul.personal|Istanbul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/City/Istanbul.secret|Istanbul.secret]] 
+
+### [Istanbul.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Istanbul\CityIstanbul.public.md) 
+
+### [Istanbul.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Istanbul\CityIstanbul.internal.md) 
+
+### [Istanbul.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Istanbul\CityIstanbul.protect.md) 
+
+### [Istanbul.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Istanbul\CityIstanbul.private.md) 
+
+### [Istanbul.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Istanbul\CityIstanbul.personal.md) 
+
+### [Istanbul.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Istanbul\CityIstanbul.secret.md)
+

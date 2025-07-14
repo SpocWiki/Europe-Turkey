@@ -39,11 +39,16 @@ markerFolder: ./Van/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Van|Van]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.public|Van.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.internal|Van.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.protect|Van.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.private|Van.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.personal|Van.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Van.secret|Van.secret]] 
+
+### [Van.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.public.md) 
+
+### [Van.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.internal.md) 
+
+### [Van.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.protect.md) 
+
+### [Van.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.private.md) 
+
+### [Van.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.personal.md) 
+
+### [Van.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.secret.md)
 

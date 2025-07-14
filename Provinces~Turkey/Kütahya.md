@@ -40,11 +40,16 @@ markerFolder: ./Kütahya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya|Kütahya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.public|Kütahya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.internal|Kütahya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.protect|Kütahya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.private|Kütahya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.personal|Kütahya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kütahya.secret|Kütahya.secret]] 
+
+### [Kütahya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKütahya.public.md) 
+
+### [Kütahya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKütahya.internal.md) 
+
+### [Kütahya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKütahya.protect.md) 
+
+### [Kütahya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKütahya.private.md) 
+
+### [Kütahya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKütahya.personal.md) 
+
+### [Kütahya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKütahya.secret.md)
 

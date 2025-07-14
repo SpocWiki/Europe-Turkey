@@ -40,11 +40,16 @@ markerFolder: ./Çorum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum|Çorum]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.public|Çorum.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.internal|Çorum.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.protect|Çorum.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.private|Çorum.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.personal|Çorum.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Çorum.secret|Çorum.secret]] 
+
+### [Çorum.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.public.md) 
+
+### [Çorum.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.internal.md) 
+
+### [Çorum.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.protect.md) 
+
+### [Çorum.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.private.md) 
+
+### [Çorum.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.personal.md) 
+
+### [Çorum.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.secret.md)
 

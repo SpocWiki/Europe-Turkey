@@ -40,11 +40,16 @@ markerFolder: ./Balikesir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Balikesir|Balikesir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Balikesir.public|Balikesir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Balikesir.internal|Balikesir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Balikesir.protect|Balikesir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Balikesir.private|Balikesir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Balikesir.personal|Balikesir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Balikesir.secret|Balikesir.secret]] 
+
+### [Balikesir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBalikesir.public.md) 
+
+### [Balikesir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBalikesir.internal.md) 
+
+### [Balikesir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBalikesir.protect.md) 
+
+### [Balikesir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBalikesir.private.md) 
+
+### [Balikesir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBalikesir.personal.md) 
+
+### [Balikesir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBalikesir.secret.md)
 

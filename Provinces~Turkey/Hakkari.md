@@ -40,11 +40,16 @@ markerFolder: ./Hakkari/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari|Hakkari]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.public|Hakkari.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.internal|Hakkari.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.protect|Hakkari.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.private|Hakkari.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.personal|Hakkari.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Hakkari.secret|Hakkari.secret]] 
+
+### [Hakkari.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.public.md) 
+
+### [Hakkari.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.internal.md) 
+
+### [Hakkari.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.protect.md) 
+
+### [Hakkari.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.private.md) 
+
+### [Hakkari.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.personal.md) 
+
+### [Hakkari.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.secret.md)
 

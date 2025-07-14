@@ -40,11 +40,16 @@ markerFolder: ./Antalya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya|Antalya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.public|Antalya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.internal|Antalya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.protect|Antalya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.private|Antalya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.personal|Antalya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Antalya.secret|Antalya.secret]] 
+
+### [Antalya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.public.md) 
+
+### [Antalya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.internal.md) 
+
+### [Antalya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.protect.md) 
+
+### [Antalya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.private.md) 
+
+### [Antalya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.personal.md) 
+
+### [Antalya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.secret.md)
 

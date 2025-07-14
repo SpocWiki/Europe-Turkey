@@ -40,11 +40,16 @@ markerFolder: ./Nevsehir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir|Nevsehir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.public|Nevsehir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.internal|Nevsehir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.protect|Nevsehir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.private|Nevsehir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.personal|Nevsehir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Nevsehir.secret|Nevsehir.secret]] 
+
+### [Nevsehir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNevsehir.public.md) 
+
+### [Nevsehir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNevsehir.internal.md) 
+
+### [Nevsehir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNevsehir.protect.md) 
+
+### [Nevsehir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNevsehir.private.md) 
+
+### [Nevsehir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNevsehir.personal.md) 
+
+### [Nevsehir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyNevsehir.secret.md)
 

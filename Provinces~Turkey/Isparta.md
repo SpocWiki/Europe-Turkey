@@ -40,11 +40,16 @@ markerFolder: ./Isparta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta|Isparta]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta.public|Isparta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta.internal|Isparta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta.protect|Isparta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta.private|Isparta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta.personal|Isparta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Isparta.secret|Isparta.secret]] 
+
+### [Isparta.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.public.md) 
+
+### [Isparta.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.internal.md) 
+
+### [Isparta.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.protect.md) 
+
+### [Isparta.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.private.md) 
+
+### [Isparta.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.personal.md) 
+
+### [Isparta.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.secret.md)
 

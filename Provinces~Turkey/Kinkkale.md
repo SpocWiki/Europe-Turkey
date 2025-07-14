@@ -40,11 +40,16 @@ markerFolder: ./Kinkkale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale|Kinkkale]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.public|Kinkkale.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.internal|Kinkkale.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.protect|Kinkkale.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.private|Kinkkale.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.personal|Kinkkale.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kinkkale.secret|Kinkkale.secret]] 
+
+### [Kinkkale.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.public.md) 
+
+### [Kinkkale.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.internal.md) 
+
+### [Kinkkale.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.protect.md) 
+
+### [Kinkkale.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.private.md) 
+
+### [Kinkkale.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.personal.md) 
+
+### [Kinkkale.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.secret.md)
 

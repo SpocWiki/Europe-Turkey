@@ -40,11 +40,16 @@ markerFolder: ./Tokat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat|Tokat]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.public|Tokat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.internal|Tokat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.protect|Tokat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.private|Tokat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.personal|Tokat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Tokat.secret|Tokat.secret]] 
+
+### [Tokat.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTokat.public.md) 
+
+### [Tokat.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTokat.internal.md) 
+
+### [Tokat.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTokat.protect.md) 
+
+### [Tokat.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTokat.private.md) 
+
+### [Tokat.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTokat.personal.md) 
+
+### [Tokat.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTokat.secret.md)
 

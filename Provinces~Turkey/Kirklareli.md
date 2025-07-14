@@ -40,11 +40,16 @@ markerFolder: ./Kirklareli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli|Kirklareli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.public|Kirklareli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.internal|Kirklareli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.protect|Kirklareli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.private|Kirklareli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.personal|Kirklareli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirklareli.secret|Kirklareli.secret]] 
+
+### [Kirklareli.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirklareli.public.md) 
+
+### [Kirklareli.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirklareli.internal.md) 
+
+### [Kirklareli.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirklareli.protect.md) 
+
+### [Kirklareli.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirklareli.private.md) 
+
+### [Kirklareli.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirklareli.personal.md) 
+
+### [Kirklareli.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirklareli.secret.md)
 

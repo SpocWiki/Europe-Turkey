@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Muradiye|Muradiye]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Muradiye.public|Muradiye.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Muradiye.internal|Muradiye.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Muradiye.protect|Muradiye.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Muradiye.private|Muradiye.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Muradiye.personal|Muradiye.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Muradiye.secret|Muradiye.secret]] 
+
+### [Muradiye.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Van\CityMuradiye.public.md) 
+
+### [Muradiye.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Van\CityMuradiye.internal.md) 
+
+### [Muradiye.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Van\CityMuradiye.protect.md) 
+
+### [Muradiye.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Van\CityMuradiye.private.md) 
+
+### [Muradiye.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Van\CityMuradiye.personal.md) 
+
+### [Muradiye.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Van\CityMuradiye.secret.md)
+

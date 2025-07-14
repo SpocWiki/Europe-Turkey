@@ -40,11 +40,16 @@ markerFolder: ./Yalova/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Yalova|Yalova]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Yalova.public|Yalova.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Yalova.internal|Yalova.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Yalova.protect|Yalova.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Yalova.private|Yalova.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Yalova.personal|Yalova.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Yalova.secret|Yalova.secret]] 
+
+### [Yalova.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYalova.public.md) 
+
+### [Yalova.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYalova.internal.md) 
+
+### [Yalova.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYalova.protect.md) 
+
+### [Yalova.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYalova.private.md) 
+
+### [Yalova.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYalova.personal.md) 
+
+### [Yalova.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYalova.secret.md)
 

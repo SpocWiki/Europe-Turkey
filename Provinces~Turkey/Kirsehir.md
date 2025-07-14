@@ -40,11 +40,16 @@ markerFolder: ./Kirsehir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir|Kirsehir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.public|Kirsehir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.internal|Kirsehir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.protect|Kirsehir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.private|Kirsehir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.personal|Kirsehir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Kirsehir.secret|Kirsehir.secret]] 
+
+### [Kirsehir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.public.md) 
+
+### [Kirsehir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.internal.md) 
+
+### [Kirsehir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.protect.md) 
+
+### [Kirsehir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.private.md) 
+
+### [Kirsehir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.personal.md) 
+
+### [Kirsehir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.secret.md)
 

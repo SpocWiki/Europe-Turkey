@@ -40,11 +40,16 @@ markerFolder: ./Karabük/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük|Karabük]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.public|Karabük.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.internal|Karabük.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.protect|Karabük.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.private|Karabük.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.personal|Karabük.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Karabük.secret|Karabük.secret]] 
+
+### [Karabük.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKarabük.public.md) 
+
+### [Karabük.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKarabük.internal.md) 
+
+### [Karabük.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKarabük.protect.md) 
+
+### [Karabük.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKarabük.private.md) 
+
+### [Karabük.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKarabük.personal.md) 
+
+### [Karabük.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKarabük.secret.md)
 

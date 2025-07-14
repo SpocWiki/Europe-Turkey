@@ -40,11 +40,16 @@ markerFolder: ./Artvin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Artvin|Artvin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Artvin.public|Artvin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Artvin.internal|Artvin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Artvin.protect|Artvin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Artvin.private|Artvin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Artvin.personal|Artvin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Artvin.secret|Artvin.secret]] 
+
+### [Artvin.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArtvin.public.md) 
+
+### [Artvin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArtvin.internal.md) 
+
+### [Artvin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArtvin.protect.md) 
+
+### [Artvin.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArtvin.private.md) 
+
+### [Artvin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArtvin.personal.md) 
+
+### [Artvin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArtvin.secret.md)
 

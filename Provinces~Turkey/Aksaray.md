@@ -40,11 +40,16 @@ markerFolder: ./Aksaray/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Aksaray|Aksaray]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Aksaray.public|Aksaray.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Aksaray.internal|Aksaray.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Aksaray.protect|Aksaray.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Aksaray.private|Aksaray.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Aksaray.personal|Aksaray.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Aksaray.secret|Aksaray.secret]] 
+
+### [Aksaray.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAksaray.public.md) 
+
+### [Aksaray.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAksaray.internal.md) 
+
+### [Aksaray.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAksaray.protect.md) 
+
+### [Aksaray.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAksaray.private.md) 
+
+### [Aksaray.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAksaray.personal.md) 
+
+### [Aksaray.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAksaray.secret.md)
 

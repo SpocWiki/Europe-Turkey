@@ -40,11 +40,16 @@ markerFolder: ./Erzurum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum|Erzurum]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.public|Erzurum.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.internal|Erzurum.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.protect|Erzurum.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.private|Erzurum.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.personal|Erzurum.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Erzurum.secret|Erzurum.secret]] 
+
+### [Erzurum.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzurum.public.md) 
+
+### [Erzurum.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzurum.internal.md) 
+
+### [Erzurum.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzurum.protect.md) 
+
+### [Erzurum.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzurum.private.md) 
+
+### [Erzurum.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzurum.personal.md) 
+
+### [Erzurum.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzurum.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Bilecik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Bilecik|Bilecik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Bilecik.public|Bilecik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bilecik.internal|Bilecik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Bilecik.protect|Bilecik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Bilecik.private|Bilecik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Bilecik.personal|Bilecik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Bilecik.secret|Bilecik.secret]] 
+
+### [Bilecik.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.public.md) 
+
+### [Bilecik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.internal.md) 
+
+### [Bilecik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.protect.md) 
+
+### [Bilecik.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.private.md) 
+
+### [Bilecik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.personal.md) 
+
+### [Bilecik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.secret.md)
 

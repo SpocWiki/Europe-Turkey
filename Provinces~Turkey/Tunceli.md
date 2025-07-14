@@ -40,11 +40,16 @@ markerFolder: ./Tunceli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli|Tunceli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.public|Tunceli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.internal|Tunceli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.protect|Tunceli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.private|Tunceli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.personal|Tunceli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Tunceli.secret|Tunceli.secret]] 
+
+### [Tunceli.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.public.md) 
+
+### [Tunceli.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.internal.md) 
+
+### [Tunceli.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.protect.md) 
+
+### [Tunceli.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.private.md) 
+
+### [Tunceli.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.personal.md) 
+
+### [Tunceli.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.secret.md)
 

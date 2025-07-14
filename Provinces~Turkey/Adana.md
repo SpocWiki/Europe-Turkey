@@ -40,11 +40,16 @@ markerFolder: ./Adana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana|Adana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.public|Adana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.internal|Adana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.protect|Adana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.private|Adana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.personal|Adana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Adana.secret|Adana.secret]] 
+
+### [Adana.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdana.public.md) 
+
+### [Adana.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdana.internal.md) 
+
+### [Adana.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdana.protect.md) 
+
+### [Adana.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdana.private.md) 
+
+### [Adana.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdana.personal.md) 
+
+### [Adana.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdana.secret.md)
 

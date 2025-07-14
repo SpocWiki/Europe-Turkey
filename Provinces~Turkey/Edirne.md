@@ -40,11 +40,16 @@ markerFolder: ./Edirne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Turkey/Counties/Edirne|Edirne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Turkey/Counties/Edirne.public|Edirne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Turkey/Counties/Edirne.internal|Edirne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Turkey/Counties/Edirne.protect|Edirne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Turkey/Counties/Edirne.private|Edirne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Turkey/Counties/Edirne.personal|Edirne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Turkey/Counties/Edirne.secret|Edirne.secret]] 
+
+### [Edirne.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.public.md) 
+
+### [Edirne.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.internal.md) 
+
+### [Edirne.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.protect.md) 
+
+### [Edirne.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.private.md) 
+
+### [Edirne.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.personal.md) 
+
+### [Edirne.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.secret.md)
 
