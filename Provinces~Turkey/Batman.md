@@ -41,15 +41,17 @@ markerFolder: ./Batman/
 
 ## Confidential Links & Embeds: 
 
-### [Batman.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBatman.public.md) 
+### [Batman](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.md) 
 
-### [Batman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBatman.internal.md) 
+### [Batman.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.public.md) 
 
-### [Batman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBatman.protect.md) 
+### [Batman.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.internal.md) 
 
-### [Batman.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBatman.private.md) 
+### [Batman.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.protect.md) 
 
-### [Batman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBatman.personal.md) 
+### [Batman.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.private.md) 
 
-### [Batman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBatman.secret.md)
+### [Batman.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.personal.md) 
+
+### [Batman.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.secret.md)
 

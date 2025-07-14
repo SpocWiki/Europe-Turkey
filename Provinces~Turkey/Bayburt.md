@@ -41,15 +41,17 @@ markerFolder: ./Bayburt/
 
 ## Confidential Links & Embeds: 
 
-### [Bayburt.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.public.md) 
+### [Bayburt](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bayburt.md) 
 
-### [Bayburt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.internal.md) 
+### [Bayburt.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bayburt.public.md) 
 
-### [Bayburt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.protect.md) 
+### [Bayburt.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bayburt.internal.md) 
 
-### [Bayburt.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.private.md) 
+### [Bayburt.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bayburt.protect.md) 
 
-### [Bayburt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.personal.md) 
+### [Bayburt.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bayburt.private.md) 
 
-### [Bayburt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBayburt.secret.md)
+### [Bayburt.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bayburt.personal.md) 
+
+### [Bayburt.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bayburt.secret.md)
 

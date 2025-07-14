@@ -41,15 +41,17 @@ markerFolder: ./Osmaniye/
 
 ## Confidential Links & Embeds: 
 
-### [Osmaniye.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOsmaniye.public.md) 
+### [Osmaniye](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Osmaniye.md) 
 
-### [Osmaniye.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOsmaniye.internal.md) 
+### [Osmaniye.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Osmaniye.public.md) 
 
-### [Osmaniye.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOsmaniye.protect.md) 
+### [Osmaniye.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Osmaniye.internal.md) 
 
-### [Osmaniye.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOsmaniye.private.md) 
+### [Osmaniye.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Osmaniye.protect.md) 
 
-### [Osmaniye.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOsmaniye.personal.md) 
+### [Osmaniye.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Osmaniye.private.md) 
 
-### [Osmaniye.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOsmaniye.secret.md)
+### [Osmaniye.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Osmaniye.personal.md) 
+
+### [Osmaniye.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Osmaniye.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Rize/
 
 ## Confidential Links & Embeds: 
 
-### [Rize.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyRize.public.md) 
+### [Rize](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.md) 
 
-### [Rize.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyRize.internal.md) 
+### [Rize.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.public.md) 
 
-### [Rize.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyRize.protect.md) 
+### [Rize.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.internal.md) 
 
-### [Rize.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyRize.private.md) 
+### [Rize.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.protect.md) 
 
-### [Rize.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyRize.personal.md) 
+### [Rize.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.private.md) 
 
-### [Rize.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyRize.secret.md)
+### [Rize.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.personal.md) 
+
+### [Rize.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.secret.md)
 

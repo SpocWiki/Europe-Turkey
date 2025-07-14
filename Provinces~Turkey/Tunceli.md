@@ -41,15 +41,17 @@ markerFolder: ./Tunceli/
 
 ## Confidential Links & Embeds: 
 
-### [Tunceli.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.public.md) 
+### [Tunceli](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.md) 
 
-### [Tunceli.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.internal.md) 
+### [Tunceli.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.public.md) 
 
-### [Tunceli.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.protect.md) 
+### [Tunceli.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.internal.md) 
 
-### [Tunceli.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.private.md) 
+### [Tunceli.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.protect.md) 
 
-### [Tunceli.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.personal.md) 
+### [Tunceli.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.private.md) 
 
-### [Tunceli.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTunceli.secret.md)
+### [Tunceli.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.personal.md) 
+
+### [Tunceli.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.secret.md)
 

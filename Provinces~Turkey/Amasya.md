@@ -41,15 +41,17 @@ markerFolder: ./Amasya/
 
 ## Confidential Links & Embeds: 
 
-### [Amasya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAmasya.public.md) 
+### [Amasya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.md) 
 
-### [Amasya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAmasya.internal.md) 
+### [Amasya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.public.md) 
 
-### [Amasya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAmasya.protect.md) 
+### [Amasya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.internal.md) 
 
-### [Amasya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAmasya.private.md) 
+### [Amasya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.protect.md) 
 
-### [Amasya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAmasya.personal.md) 
+### [Amasya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.private.md) 
 
-### [Amasya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAmasya.secret.md)
+### [Amasya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.personal.md) 
+
+### [Amasya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.secret.md)
 

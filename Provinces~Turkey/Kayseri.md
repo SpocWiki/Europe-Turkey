@@ -41,15 +41,17 @@ markerFolder: ./Kayseri/
 
 ## Confidential Links & Embeds: 
 
-### [Kayseri.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKayseri.public.md) 
+### [Kayseri](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.md) 
 
-### [Kayseri.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKayseri.internal.md) 
+### [Kayseri.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.public.md) 
 
-### [Kayseri.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKayseri.protect.md) 
+### [Kayseri.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.internal.md) 
 
-### [Kayseri.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKayseri.private.md) 
+### [Kayseri.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.protect.md) 
 
-### [Kayseri.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKayseri.personal.md) 
+### [Kayseri.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.private.md) 
 
-### [Kayseri.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKayseri.secret.md)
+### [Kayseri.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.personal.md) 
+
+### [Kayseri.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.secret.md)
 

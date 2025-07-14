@@ -41,15 +41,17 @@ markerFolder: ./Ardahan/
 
 ## Confidential Links & Embeds: 
 
-### [Ardahan.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArdahan.public.md) 
+### [Ardahan](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.md) 
 
-### [Ardahan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArdahan.internal.md) 
+### [Ardahan.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.public.md) 
 
-### [Ardahan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArdahan.protect.md) 
+### [Ardahan.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.internal.md) 
 
-### [Ardahan.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArdahan.private.md) 
+### [Ardahan.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.protect.md) 
 
-### [Ardahan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArdahan.personal.md) 
+### [Ardahan.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.private.md) 
 
-### [Ardahan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyArdahan.secret.md)
+### [Ardahan.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.personal.md) 
+
+### [Ardahan.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.secret.md)
 

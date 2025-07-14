@@ -41,15 +41,17 @@ markerFolder: ./Gaziantep/
 
 ## Confidential Links & Embeds: 
 
-### [Gaziantep.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.public.md) 
+### [Gaziantep](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.md) 
 
-### [Gaziantep.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.internal.md) 
+### [Gaziantep.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.public.md) 
 
-### [Gaziantep.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.protect.md) 
+### [Gaziantep.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.internal.md) 
 
-### [Gaziantep.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.private.md) 
+### [Gaziantep.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.protect.md) 
 
-### [Gaziantep.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.personal.md) 
+### [Gaziantep.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.private.md) 
 
-### [Gaziantep.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGaziantep.secret.md)
+### [Gaziantep.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.personal.md) 
+
+### [Gaziantep.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.secret.md)
 

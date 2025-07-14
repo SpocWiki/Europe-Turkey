@@ -41,15 +41,17 @@ markerFolder: ./Mardin/
 
 ## Confidential Links & Embeds: 
 
-### [Mardin.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMardin.public.md) 
+### [Mardin](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.md) 
 
-### [Mardin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMardin.internal.md) 
+### [Mardin.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.public.md) 
 
-### [Mardin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMardin.protect.md) 
+### [Mardin.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.internal.md) 
 
-### [Mardin.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMardin.private.md) 
+### [Mardin.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.protect.md) 
 
-### [Mardin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMardin.personal.md) 
+### [Mardin.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.private.md) 
 
-### [Mardin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMardin.secret.md)
+### [Mardin.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.personal.md) 
+
+### [Mardin.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.secret.md)
 

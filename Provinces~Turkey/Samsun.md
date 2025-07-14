@@ -41,15 +41,17 @@ markerFolder: ./Samsun/
 
 ## Confidential Links & Embeds: 
 
-### [Samsun.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySamsun.public.md) 
+### [Samsun](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.md) 
 
-### [Samsun.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySamsun.internal.md) 
+### [Samsun.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.public.md) 
 
-### [Samsun.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySamsun.protect.md) 
+### [Samsun.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.internal.md) 
 
-### [Samsun.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySamsun.private.md) 
+### [Samsun.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.protect.md) 
 
-### [Samsun.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySamsun.personal.md) 
+### [Samsun.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.private.md) 
 
-### [Samsun.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySamsun.secret.md)
+### [Samsun.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.personal.md) 
+
+### [Samsun.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Agri/
 
 ## Confidential Links & Embeds: 
 
-### [Agri.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAgri.public.md) 
+### [Agri](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.md) 
 
-### [Agri.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAgri.internal.md) 
+### [Agri.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.public.md) 
 
-### [Agri.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAgri.protect.md) 
+### [Agri.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.internal.md) 
 
-### [Agri.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAgri.private.md) 
+### [Agri.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.protect.md) 
 
-### [Agri.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAgri.personal.md) 
+### [Agri.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.private.md) 
 
-### [Agri.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAgri.secret.md)
+### [Agri.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.personal.md) 
+
+### [Agri.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.secret.md)
 

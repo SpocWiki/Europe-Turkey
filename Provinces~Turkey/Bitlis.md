@@ -41,15 +41,17 @@ markerFolder: ./Bitlis/
 
 ## Confidential Links & Embeds: 
 
-### [Bitlis.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBitlis.public.md) 
+### [Bitlis](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.md) 
 
-### [Bitlis.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBitlis.internal.md) 
+### [Bitlis.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.public.md) 
 
-### [Bitlis.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBitlis.protect.md) 
+### [Bitlis.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.internal.md) 
 
-### [Bitlis.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBitlis.private.md) 
+### [Bitlis.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.protect.md) 
 
-### [Bitlis.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBitlis.personal.md) 
+### [Bitlis.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.private.md) 
 
-### [Bitlis.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBitlis.secret.md)
+### [Bitlis.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.personal.md) 
+
+### [Bitlis.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.secret.md)
 

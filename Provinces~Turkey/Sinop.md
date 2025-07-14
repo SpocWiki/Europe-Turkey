@@ -41,15 +41,17 @@ markerFolder: ./Sinop/
 
 ## Confidential Links & Embeds: 
 
-### [Sinop.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.public.md) 
+### [Sinop](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.md) 
 
-### [Sinop.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.internal.md) 
+### [Sinop.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.public.md) 
 
-### [Sinop.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.protect.md) 
+### [Sinop.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.internal.md) 
 
-### [Sinop.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.private.md) 
+### [Sinop.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.protect.md) 
 
-### [Sinop.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.personal.md) 
+### [Sinop.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.private.md) 
 
-### [Sinop.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySinop.secret.md)
+### [Sinop.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.personal.md) 
+
+### [Sinop.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.secret.md)
 

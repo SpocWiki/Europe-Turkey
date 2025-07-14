@@ -41,15 +41,17 @@ markerFolder: ./Ordu/
 
 ## Confidential Links & Embeds: 
 
-### [Ordu.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOrdu.public.md) 
+### [Ordu](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.md) 
 
-### [Ordu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOrdu.internal.md) 
+### [Ordu.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.public.md) 
 
-### [Ordu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOrdu.protect.md) 
+### [Ordu.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.internal.md) 
 
-### [Ordu.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOrdu.private.md) 
+### [Ordu.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.protect.md) 
 
-### [Ordu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOrdu.personal.md) 
+### [Ordu.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.private.md) 
 
-### [Ordu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyOrdu.secret.md)
+### [Ordu.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.personal.md) 
+
+### [Ordu.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.secret.md)
 

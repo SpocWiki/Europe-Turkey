@@ -40,15 +40,17 @@ markerFolder: ./Van/
 
 ## Confidential Links & Embeds: 
 
-### [Van.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.public.md) 
+### [Van](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.md) 
 
-### [Van.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.internal.md) 
+### [Van.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.public.md) 
 
-### [Van.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.protect.md) 
+### [Van.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.internal.md) 
 
-### [Van.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.private.md) 
+### [Van.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.protect.md) 
 
-### [Van.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.personal.md) 
+### [Van.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.private.md) 
 
-### [Van.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyVan.secret.md)
+### [Van.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.personal.md) 
+
+### [Van.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.secret.md)
 

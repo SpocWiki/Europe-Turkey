@@ -41,15 +41,17 @@ markerFolder: ./Kinkkale/
 
 ## Confidential Links & Embeds: 
 
-### [Kinkkale.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.public.md) 
+### [Kinkkale](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.md) 
 
-### [Kinkkale.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.internal.md) 
+### [Kinkkale.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.public.md) 
 
-### [Kinkkale.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.protect.md) 
+### [Kinkkale.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.internal.md) 
 
-### [Kinkkale.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.private.md) 
+### [Kinkkale.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.protect.md) 
 
-### [Kinkkale.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.personal.md) 
+### [Kinkkale.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.private.md) 
 
-### [Kinkkale.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKinkkale.secret.md)
+### [Kinkkale.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.personal.md) 
+
+### [Kinkkale.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.secret.md)
 

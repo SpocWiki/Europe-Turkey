@@ -41,15 +41,17 @@ markerFolder: ./Kastamonu/
 
 ## Confidential Links & Embeds: 
 
-### [Kastamonu.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKastamonu.public.md) 
+### [Kastamonu](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.md) 
 
-### [Kastamonu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKastamonu.internal.md) 
+### [Kastamonu.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.public.md) 
 
-### [Kastamonu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKastamonu.protect.md) 
+### [Kastamonu.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.internal.md) 
 
-### [Kastamonu.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKastamonu.private.md) 
+### [Kastamonu.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.protect.md) 
 
-### [Kastamonu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKastamonu.personal.md) 
+### [Kastamonu.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.private.md) 
 
-### [Kastamonu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKastamonu.secret.md)
+### [Kastamonu.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.personal.md) 
+
+### [Kastamonu.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Adiyaman/
 
 ## Confidential Links & Embeds: 
 
-### [Adiyaman.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.public.md) 
+### [Adiyaman](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.md) 
 
-### [Adiyaman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.internal.md) 
+### [Adiyaman.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.public.md) 
 
-### [Adiyaman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.protect.md) 
+### [Adiyaman.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.internal.md) 
 
-### [Adiyaman.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.private.md) 
+### [Adiyaman.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.protect.md) 
 
-### [Adiyaman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.personal.md) 
+### [Adiyaman.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.private.md) 
 
-### [Adiyaman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAdiyaman.secret.md)
+### [Adiyaman.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.personal.md) 
+
+### [Adiyaman.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.secret.md)
 

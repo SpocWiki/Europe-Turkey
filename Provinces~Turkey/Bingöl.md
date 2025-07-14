@@ -41,15 +41,17 @@ markerFolder: ./Bingöl/
 
 ## Confidential Links & Embeds: 
 
-### [Bingöl.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBingöl.public.md) 
+### [Bingöl](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.md) 
 
-### [Bingöl.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBingöl.internal.md) 
+### [Bingöl.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.public.md) 
 
-### [Bingöl.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBingöl.protect.md) 
+### [Bingöl.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.internal.md) 
 
-### [Bingöl.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBingöl.private.md) 
+### [Bingöl.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.protect.md) 
 
-### [Bingöl.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBingöl.personal.md) 
+### [Bingöl.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.private.md) 
 
-### [Bingöl.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBingöl.secret.md)
+### [Bingöl.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.personal.md) 
+
+### [Bingöl.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.secret.md)
 

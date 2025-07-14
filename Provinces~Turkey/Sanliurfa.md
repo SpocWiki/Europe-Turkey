@@ -41,15 +41,17 @@ markerFolder: ./Sanliurfa/
 
 ## Confidential Links & Embeds: 
 
-### [Sanliurfa.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySanliurfa.public.md) 
+### [Sanliurfa](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.md) 
 
-### [Sanliurfa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySanliurfa.internal.md) 
+### [Sanliurfa.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.public.md) 
 
-### [Sanliurfa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySanliurfa.protect.md) 
+### [Sanliurfa.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.internal.md) 
 
-### [Sanliurfa.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySanliurfa.private.md) 
+### [Sanliurfa.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.protect.md) 
 
-### [Sanliurfa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySanliurfa.personal.md) 
+### [Sanliurfa.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.private.md) 
 
-### [Sanliurfa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySanliurfa.secret.md)
+### [Sanliurfa.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.personal.md) 
+
+### [Sanliurfa.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.secret.md)
 

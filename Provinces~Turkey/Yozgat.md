@@ -41,15 +41,17 @@ markerFolder: ./Yozgat/
 
 ## Confidential Links & Embeds: 
 
-### [Yozgat.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYozgat.public.md) 
+### [Yozgat](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.md) 
 
-### [Yozgat.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYozgat.internal.md) 
+### [Yozgat.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.public.md) 
 
-### [Yozgat.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYozgat.protect.md) 
+### [Yozgat.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.internal.md) 
 
-### [Yozgat.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYozgat.private.md) 
+### [Yozgat.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.protect.md) 
 
-### [Yozgat.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYozgat.personal.md) 
+### [Yozgat.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.private.md) 
 
-### [Yozgat.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyYozgat.secret.md)
+### [Yozgat.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.personal.md) 
+
+### [Yozgat.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Hakkari/
 
 ## Confidential Links & Embeds: 
 
-### [Hakkari.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.public.md) 
+### [Hakkari](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.md) 
 
-### [Hakkari.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.internal.md) 
+### [Hakkari.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.public.md) 
 
-### [Hakkari.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.protect.md) 
+### [Hakkari.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.internal.md) 
 
-### [Hakkari.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.private.md) 
+### [Hakkari.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.protect.md) 
 
-### [Hakkari.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.personal.md) 
+### [Hakkari.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.private.md) 
 
-### [Hakkari.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHakkari.secret.md)
+### [Hakkari.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.personal.md) 
+
+### [Hakkari.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.secret.md)
 

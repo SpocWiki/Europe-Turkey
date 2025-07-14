@@ -41,15 +41,17 @@ markerFolder: ./Denizli/
 
 ## Confidential Links & Embeds: 
 
-### [Denizli.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.public.md) 
+### [Denizli](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.md) 
 
-### [Denizli.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.internal.md) 
+### [Denizli.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.public.md) 
 
-### [Denizli.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.protect.md) 
+### [Denizli.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.internal.md) 
 
-### [Denizli.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.private.md) 
+### [Denizli.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.protect.md) 
 
-### [Denizli.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.personal.md) 
+### [Denizli.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.private.md) 
 
-### [Denizli.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDenizli.secret.md)
+### [Denizli.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.personal.md) 
+
+### [Denizli.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.secret.md)
 

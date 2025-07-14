@@ -41,15 +41,17 @@ markerFolder: ./Bursa/
 
 ## Confidential Links & Embeds: 
 
-### [Bursa.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBursa.public.md) 
+### [Bursa](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.md) 
 
-### [Bursa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBursa.internal.md) 
+### [Bursa.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.public.md) 
 
-### [Bursa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBursa.protect.md) 
+### [Bursa.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.internal.md) 
 
-### [Bursa.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBursa.private.md) 
+### [Bursa.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.protect.md) 
 
-### [Bursa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBursa.personal.md) 
+### [Bursa.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.private.md) 
 
-### [Bursa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBursa.secret.md)
+### [Bursa.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.personal.md) 
+
+### [Bursa.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.secret.md)
 

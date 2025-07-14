@@ -41,15 +41,17 @@ markerFolder: ./Kirsehir/
 
 ## Confidential Links & Embeds: 
 
-### [Kirsehir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.public.md) 
+### [Kirsehir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.md) 
 
-### [Kirsehir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.internal.md) 
+### [Kirsehir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.public.md) 
 
-### [Kirsehir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.protect.md) 
+### [Kirsehir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.internal.md) 
 
-### [Kirsehir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.private.md) 
+### [Kirsehir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.protect.md) 
 
-### [Kirsehir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.personal.md) 
+### [Kirsehir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.private.md) 
 
-### [Kirsehir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKirsehir.secret.md)
+### [Kirsehir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.personal.md) 
+
+### [Kirsehir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.secret.md)
 

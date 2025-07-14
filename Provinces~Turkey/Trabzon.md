@@ -41,15 +41,17 @@ markerFolder: ./Trabzon/
 
 ## Confidential Links & Embeds: 
 
-### [Trabzon.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.public.md) 
+### [Trabzon](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.md) 
 
-### [Trabzon.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.internal.md) 
+### [Trabzon.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.public.md) 
 
-### [Trabzon.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.protect.md) 
+### [Trabzon.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.internal.md) 
 
-### [Trabzon.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.private.md) 
+### [Trabzon.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.protect.md) 
 
-### [Trabzon.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.personal.md) 
+### [Trabzon.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.private.md) 
 
-### [Trabzon.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTrabzon.secret.md)
+### [Trabzon.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.personal.md) 
+
+### [Trabzon.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.secret.md)
 

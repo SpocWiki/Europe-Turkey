@@ -41,15 +41,17 @@ markerFolder: ./Aydin/
 
 ## Confidential Links & Embeds: 
 
-### [Aydin.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAydin.public.md) 
+### [Aydin](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.md) 
 
-### [Aydin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAydin.internal.md) 
+### [Aydin.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.public.md) 
 
-### [Aydin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAydin.protect.md) 
+### [Aydin.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.internal.md) 
 
-### [Aydin.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAydin.private.md) 
+### [Aydin.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.protect.md) 
 
-### [Aydin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAydin.personal.md) 
+### [Aydin.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.private.md) 
 
-### [Aydin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAydin.secret.md)
+### [Aydin.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.personal.md) 
+
+### [Aydin.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.secret.md)
 

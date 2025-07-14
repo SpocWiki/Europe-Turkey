@@ -41,15 +41,17 @@ markerFolder: ./Usak/
 
 ## Confidential Links & Embeds: 
 
-### [Usak.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyUsak.public.md) 
+### [Usak](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.md) 
 
-### [Usak.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyUsak.internal.md) 
+### [Usak.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.public.md) 
 
-### [Usak.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyUsak.protect.md) 
+### [Usak.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.internal.md) 
 
-### [Usak.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyUsak.private.md) 
+### [Usak.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.protect.md) 
 
-### [Usak.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyUsak.personal.md) 
+### [Usak.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.private.md) 
 
-### [Usak.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyUsak.secret.md)
+### [Usak.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.personal.md) 
+
+### [Usak.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Edirne/
 
 ## Confidential Links & Embeds: 
 
-### [Edirne.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.public.md) 
+### [Edirne](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.md) 
 
-### [Edirne.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.internal.md) 
+### [Edirne.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.public.md) 
 
-### [Edirne.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.protect.md) 
+### [Edirne.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.internal.md) 
 
-### [Edirne.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.private.md) 
+### [Edirne.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.protect.md) 
 
-### [Edirne.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.personal.md) 
+### [Edirne.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.private.md) 
 
-### [Edirne.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEdirne.secret.md)
+### [Edirne.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.personal.md) 
+
+### [Edirne.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.secret.md)
 

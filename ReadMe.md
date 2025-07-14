@@ -139,15 +139,17 @@ Capital :: [[Istanbul]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\TurkeyReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.secret.md)
 

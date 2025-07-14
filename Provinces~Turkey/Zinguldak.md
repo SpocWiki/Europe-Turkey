@@ -41,15 +41,17 @@ markerFolder: ./Zinguldak/
 
 ## Confidential Links & Embeds: 
 
-### [Zinguldak.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyZinguldak.public.md) 
+### [Zinguldak](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Zinguldak.md) 
 
-### [Zinguldak.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyZinguldak.internal.md) 
+### [Zinguldak.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Zinguldak.public.md) 
 
-### [Zinguldak.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyZinguldak.protect.md) 
+### [Zinguldak.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Zinguldak.internal.md) 
 
-### [Zinguldak.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyZinguldak.private.md) 
+### [Zinguldak.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Zinguldak.protect.md) 
 
-### [Zinguldak.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyZinguldak.personal.md) 
+### [Zinguldak.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Zinguldak.private.md) 
 
-### [Zinguldak.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyZinguldak.secret.md)
+### [Zinguldak.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Zinguldak.personal.md) 
+
+### [Zinguldak.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Zinguldak.secret.md)
 

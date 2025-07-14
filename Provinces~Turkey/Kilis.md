@@ -41,15 +41,17 @@ markerFolder: ./Kilis/
 
 ## Confidential Links & Embeds: 
 
-### [Kilis.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.public.md) 
+### [Kilis](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.md) 
 
-### [Kilis.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.internal.md) 
+### [Kilis.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.public.md) 
 
-### [Kilis.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.protect.md) 
+### [Kilis.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.internal.md) 
 
-### [Kilis.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.private.md) 
+### [Kilis.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.protect.md) 
 
-### [Kilis.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.personal.md) 
+### [Kilis.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.private.md) 
 
-### [Kilis.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKilis.secret.md)
+### [Kilis.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.personal.md) 
+
+### [Kilis.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.secret.md)
 

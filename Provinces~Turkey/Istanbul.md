@@ -242,15 +242,17 @@ markerFolder: ./Istanbul/
 
 ## Confidential Links & Embeds: 
 
-### [Istanbul.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.public.md) 
+### [Istanbul](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.md) 
 
-### [Istanbul.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.internal.md) 
+### [Istanbul.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.public.md) 
 
-### [Istanbul.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.protect.md) 
+### [Istanbul.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.internal.md) 
 
-### [Istanbul.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.private.md) 
+### [Istanbul.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.protect.md) 
 
-### [Istanbul.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.personal.md) 
+### [Istanbul.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.private.md) 
 
-### [Istanbul.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIstanbul.secret.md)
+### [Istanbul.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.personal.md) 
+
+### [Istanbul.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.secret.md)
 

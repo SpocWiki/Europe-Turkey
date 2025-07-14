@@ -41,15 +41,17 @@ markerFolder: ./Elazig/
 
 ## Confidential Links & Embeds: 
 
-### [Elazig.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyElazig.public.md) 
+### [Elazig](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.md) 
 
-### [Elazig.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyElazig.internal.md) 
+### [Elazig.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.public.md) 
 
-### [Elazig.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyElazig.protect.md) 
+### [Elazig.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.internal.md) 
 
-### [Elazig.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyElazig.private.md) 
+### [Elazig.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.protect.md) 
 
-### [Elazig.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyElazig.personal.md) 
+### [Elazig.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.private.md) 
 
-### [Elazig.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyElazig.secret.md)
+### [Elazig.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.personal.md) 
+
+### [Elazig.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.secret.md)
 

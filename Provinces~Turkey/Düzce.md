@@ -41,15 +41,17 @@ markerFolder: ./Düzce/
 
 ## Confidential Links & Embeds: 
 
-### [Düzce.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDüzce.public.md) 
+### [Düzce](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.md) 
 
-### [Düzce.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDüzce.internal.md) 
+### [Düzce.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.public.md) 
 
-### [Düzce.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDüzce.protect.md) 
+### [Düzce.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.internal.md) 
 
-### [Düzce.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDüzce.private.md) 
+### [Düzce.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.protect.md) 
 
-### [Düzce.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDüzce.personal.md) 
+### [Düzce.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.private.md) 
 
-### [Düzce.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyDüzce.secret.md)
+### [Düzce.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.personal.md) 
+
+### [Düzce.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.secret.md)
 

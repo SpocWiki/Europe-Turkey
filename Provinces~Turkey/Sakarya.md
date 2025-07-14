@@ -41,15 +41,17 @@ markerFolder: ./Sakarya/
 
 ## Confidential Links & Embeds: 
 
-### [Sakarya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySakarya.public.md) 
+### [Sakarya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.md) 
 
-### [Sakarya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySakarya.internal.md) 
+### [Sakarya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.public.md) 
 
-### [Sakarya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySakarya.protect.md) 
+### [Sakarya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.internal.md) 
 
-### [Sakarya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySakarya.private.md) 
+### [Sakarya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.protect.md) 
 
-### [Sakarya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySakarya.personal.md) 
+### [Sakarya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.private.md) 
 
-### [Sakarya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySakarya.secret.md)
+### [Sakarya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.personal.md) 
+
+### [Sakarya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.secret.md)
 

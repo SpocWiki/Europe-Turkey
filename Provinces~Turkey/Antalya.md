@@ -41,15 +41,17 @@ markerFolder: ./Antalya/
 
 ## Confidential Links & Embeds: 
 
-### [Antalya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.public.md) 
+### [Antalya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.md) 
 
-### [Antalya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.internal.md) 
+### [Antalya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.public.md) 
 
-### [Antalya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.protect.md) 
+### [Antalya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.internal.md) 
 
-### [Antalya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.private.md) 
+### [Antalya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.protect.md) 
 
-### [Antalya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.personal.md) 
+### [Antalya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.private.md) 
 
-### [Antalya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyAntalya.secret.md)
+### [Antalya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.personal.md) 
+
+### [Antalya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.secret.md)
 

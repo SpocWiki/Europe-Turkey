@@ -41,15 +41,17 @@ markerFolder: ./Çankiri/
 
 ## Confidential Links & Embeds: 
 
-### [Çankiri.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.public.md) 
+### [Çankiri](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.md) 
 
-### [Çankiri.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.internal.md) 
+### [Çankiri.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.public.md) 
 
-### [Çankiri.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.protect.md) 
+### [Çankiri.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.internal.md) 
 
-### [Çankiri.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.private.md) 
+### [Çankiri.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.protect.md) 
 
-### [Çankiri.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.personal.md) 
+### [Çankiri.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.private.md) 
 
-### [Çankiri.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇankiri.secret.md)
+### [Çankiri.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.personal.md) 
+
+### [Çankiri.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.secret.md)
 

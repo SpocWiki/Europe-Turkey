@@ -41,15 +41,17 @@ markerFolder: ./Isparta/
 
 ## Confidential Links & Embeds: 
 
-### [Isparta.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.public.md) 
+### [Isparta](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.md) 
 
-### [Isparta.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.internal.md) 
+### [Isparta.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.public.md) 
 
-### [Isparta.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.protect.md) 
+### [Isparta.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.internal.md) 
 
-### [Isparta.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.private.md) 
+### [Isparta.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.protect.md) 
 
-### [Isparta.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.personal.md) 
+### [Isparta.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.private.md) 
 
-### [Isparta.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIsparta.secret.md)
+### [Isparta.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.personal.md) 
+
+### [Isparta.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.secret.md)
 

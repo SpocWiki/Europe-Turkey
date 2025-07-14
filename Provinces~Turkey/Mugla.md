@@ -41,15 +41,17 @@ markerFolder: ./Mugla/
 
 ## Confidential Links & Embeds: 
 
-### [Mugla.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMugla.public.md) 
+### [Mugla](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.md) 
 
-### [Mugla.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMugla.internal.md) 
+### [Mugla.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.public.md) 
 
-### [Mugla.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMugla.protect.md) 
+### [Mugla.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.internal.md) 
 
-### [Mugla.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMugla.private.md) 
+### [Mugla.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.protect.md) 
 
-### [Mugla.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMugla.personal.md) 
+### [Mugla.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.private.md) 
 
-### [Mugla.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMugla.secret.md)
+### [Mugla.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.personal.md) 
+
+### [Mugla.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.secret.md)
 

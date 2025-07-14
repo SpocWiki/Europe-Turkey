@@ -41,15 +41,17 @@ markerFolder: ./Bartın/
 
 ## Confidential Links & Embeds: 
 
-### [Bartın.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBartın.public.md) 
+### [Bartın](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.md) 
 
-### [Bartın.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBartın.internal.md) 
+### [Bartın.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.public.md) 
 
-### [Bartın.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBartın.protect.md) 
+### [Bartın.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.internal.md) 
 
-### [Bartın.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBartın.private.md) 
+### [Bartın.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.protect.md) 
 
-### [Bartın.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBartın.personal.md) 
+### [Bartın.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.private.md) 
 
-### [Bartın.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBartın.secret.md)
+### [Bartın.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.personal.md) 
+
+### [Bartın.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.secret.md)
 

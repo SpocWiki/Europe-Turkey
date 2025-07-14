@@ -41,15 +41,17 @@ markerFolder: ./Tekirdag/
 
 ## Confidential Links & Embeds: 
 
-### [Tekirdag.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.public.md) 
+### [Tekirdag](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.md) 
 
-### [Tekirdag.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.internal.md) 
+### [Tekirdag.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.public.md) 
 
-### [Tekirdag.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.protect.md) 
+### [Tekirdag.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.internal.md) 
 
-### [Tekirdag.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.private.md) 
+### [Tekirdag.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.protect.md) 
 
-### [Tekirdag.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.personal.md) 
+### [Tekirdag.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.private.md) 
 
-### [Tekirdag.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyTekirdag.secret.md)
+### [Tekirdag.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.personal.md) 
+
+### [Tekirdag.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.secret.md)
 

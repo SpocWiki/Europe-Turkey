@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adana.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Adana\CityAdana.public.md) 
+### [Adana](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.md) 
 
-### [Adana.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Adana\CityAdana.internal.md) 
+### [Adana.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.public.md) 
 
-### [Adana.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Adana\CityAdana.protect.md) 
+### [Adana.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.internal.md) 
 
-### [Adana.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Adana\CityAdana.private.md) 
+### [Adana.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.protect.md) 
 
-### [Adana.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Adana\CityAdana.personal.md) 
+### [Adana.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.private.md) 
 
-### [Adana.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~Turkey\Adana\CityAdana.secret.md)
+### [Adana.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.personal.md) 
+
+### [Adana.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.secret.md)
 

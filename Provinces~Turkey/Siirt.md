@@ -41,15 +41,17 @@ markerFolder: ./Siirt/
 
 ## Confidential Links & Embeds: 
 
-### [Siirt.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySiirt.public.md) 
+### [Siirt](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.md) 
 
-### [Siirt.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySiirt.internal.md) 
+### [Siirt.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.public.md) 
 
-### [Siirt.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySiirt.protect.md) 
+### [Siirt.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.internal.md) 
 
-### [Siirt.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySiirt.private.md) 
+### [Siirt.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.protect.md) 
 
-### [Siirt.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySiirt.personal.md) 
+### [Siirt.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.private.md) 
 
-### [Siirt.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeySiirt.secret.md)
+### [Siirt.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.personal.md) 
+
+### [Siirt.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.secret.md)
 

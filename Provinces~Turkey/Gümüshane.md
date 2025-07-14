@@ -41,15 +41,17 @@ markerFolder: ./Gümüshane/
 
 ## Confidential Links & Embeds: 
 
-### [Gümüshane.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGümüshane.public.md) 
+### [Gümüshane](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.md) 
 
-### [Gümüshane.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGümüshane.internal.md) 
+### [Gümüshane.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.public.md) 
 
-### [Gümüshane.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGümüshane.protect.md) 
+### [Gümüshane.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.internal.md) 
 
-### [Gümüshane.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGümüshane.private.md) 
+### [Gümüshane.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.protect.md) 
 
-### [Gümüshane.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGümüshane.personal.md) 
+### [Gümüshane.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.private.md) 
 
-### [Gümüshane.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGümüshane.secret.md)
+### [Gümüshane.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.personal.md) 
+
+### [Gümüshane.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.secret.md)
 

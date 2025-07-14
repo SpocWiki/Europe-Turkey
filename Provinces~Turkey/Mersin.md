@@ -41,15 +41,17 @@ markerFolder: ./Mersin/
 
 ## Confidential Links & Embeds: 
 
-### [Mersin.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMersin.public.md) 
+### [Mersin](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.md) 
 
-### [Mersin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMersin.internal.md) 
+### [Mersin.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.public.md) 
 
-### [Mersin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMersin.protect.md) 
+### [Mersin.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.internal.md) 
 
-### [Mersin.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMersin.private.md) 
+### [Mersin.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.protect.md) 
 
-### [Mersin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMersin.personal.md) 
+### [Mersin.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.private.md) 
 
-### [Mersin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMersin.secret.md)
+### [Mersin.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.personal.md) 
+
+### [Mersin.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.secret.md)
 

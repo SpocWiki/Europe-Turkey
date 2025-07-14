@@ -41,15 +41,17 @@ markerFolder: ./Giresun/
 
 ## Confidential Links & Embeds: 
 
-### [Giresun.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGiresun.public.md) 
+### [Giresun](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.md) 
 
-### [Giresun.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGiresun.internal.md) 
+### [Giresun.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.public.md) 
 
-### [Giresun.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGiresun.protect.md) 
+### [Giresun.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.internal.md) 
 
-### [Giresun.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGiresun.private.md) 
+### [Giresun.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.protect.md) 
 
-### [Giresun.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGiresun.personal.md) 
+### [Giresun.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.private.md) 
 
-### [Giresun.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyGiresun.secret.md)
+### [Giresun.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.personal.md) 
+
+### [Giresun.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.secret.md)
 

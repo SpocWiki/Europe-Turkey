@@ -41,15 +41,17 @@ markerFolder: ./Bilecik/
 
 ## Confidential Links & Embeds: 
 
-### [Bilecik.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.public.md) 
+### [Bilecik](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.md) 
 
-### [Bilecik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.internal.md) 
+### [Bilecik.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.public.md) 
 
-### [Bilecik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.protect.md) 
+### [Bilecik.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.internal.md) 
 
-### [Bilecik.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.private.md) 
+### [Bilecik.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.protect.md) 
 
-### [Bilecik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.personal.md) 
+### [Bilecik.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.private.md) 
 
-### [Bilecik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyBilecik.secret.md)
+### [Bilecik.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.personal.md) 
+
+### [Bilecik.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.secret.md)
 

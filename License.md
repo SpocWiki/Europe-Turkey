@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~East\TurkeyLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~East\TurkeyLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~East\TurkeyLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~East\TurkeyLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~East\TurkeyLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~East\TurkeyLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/License.secret.md)
 

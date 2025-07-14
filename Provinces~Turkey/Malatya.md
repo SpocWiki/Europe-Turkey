@@ -41,15 +41,17 @@ markerFolder: ./Malatya/
 
 ## Confidential Links & Embeds: 
 
-### [Malatya.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.public.md) 
+### [Malatya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.md) 
 
-### [Malatya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.internal.md) 
+### [Malatya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.public.md) 
 
-### [Malatya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.protect.md) 
+### [Malatya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.internal.md) 
 
-### [Malatya.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.private.md) 
+### [Malatya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.protect.md) 
 
-### [Malatya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.personal.md) 
+### [Malatya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.private.md) 
 
-### [Malatya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyMalatya.secret.md)
+### [Malatya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.personal.md) 
+
+### [Malatya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.secret.md)
 

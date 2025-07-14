@@ -41,15 +41,17 @@ markerFolder: ./Çorum/
 
 ## Confidential Links & Embeds: 
 
-### [Çorum.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.public.md) 
+### [Çorum](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.md) 
 
-### [Çorum.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.internal.md) 
+### [Çorum.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.public.md) 
 
-### [Çorum.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.protect.md) 
+### [Çorum.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.internal.md) 
 
-### [Çorum.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.private.md) 
+### [Çorum.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.protect.md) 
 
-### [Çorum.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.personal.md) 
+### [Çorum.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.private.md) 
 
-### [Çorum.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyÇorum.secret.md)
+### [Çorum.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.personal.md) 
+
+### [Çorum.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.secret.md)
 

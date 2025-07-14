@@ -41,15 +41,17 @@ markerFolder: ./Erzincan/
 
 ## Confidential Links & Embeds: 
 
-### [Erzincan.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzincan.public.md) 
+### [Erzincan](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.md) 
 
-### [Erzincan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzincan.internal.md) 
+### [Erzincan.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.public.md) 
 
-### [Erzincan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzincan.protect.md) 
+### [Erzincan.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.internal.md) 
 
-### [Erzincan.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzincan.private.md) 
+### [Erzincan.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.protect.md) 
 
-### [Erzincan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzincan.personal.md) 
+### [Erzincan.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.private.md) 
 
-### [Erzincan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyErzincan.secret.md)
+### [Erzincan.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.personal.md) 
+
+### [Erzincan.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.secret.md)
 

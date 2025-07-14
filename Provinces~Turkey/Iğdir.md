@@ -41,15 +41,17 @@ markerFolder: ./Iğdir/
 
 ## Confidential Links & Embeds: 
 
-### [Iğdir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIğdir.public.md) 
+### [Iğdir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.md) 
 
-### [Iğdir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIğdir.internal.md) 
+### [Iğdir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.public.md) 
 
-### [Iğdir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIğdir.protect.md) 
+### [Iğdir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.internal.md) 
 
-### [Iğdir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIğdir.private.md) 
+### [Iğdir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.protect.md) 
 
-### [Iğdir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIğdir.personal.md) 
+### [Iğdir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.private.md) 
 
-### [Iğdir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyIğdir.secret.md)
+### [Iğdir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.personal.md) 
+
+### [Iğdir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Hatay/
 
 ## Confidential Links & Embeds: 
 
-### [Hatay.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHatay.public.md) 
+### [Hatay](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.md) 
 
-### [Hatay.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHatay.internal.md) 
+### [Hatay.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.public.md) 
 
-### [Hatay.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHatay.protect.md) 
+### [Hatay.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.internal.md) 
 
-### [Hatay.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHatay.private.md) 
+### [Hatay.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.protect.md) 
 
-### [Hatay.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHatay.personal.md) 
+### [Hatay.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.private.md) 
 
-### [Hatay.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyHatay.secret.md)
+### [Hatay.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.personal.md) 
+
+### [Hatay.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.secret.md)
 

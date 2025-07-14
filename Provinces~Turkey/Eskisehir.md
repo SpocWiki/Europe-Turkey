@@ -41,15 +41,17 @@ markerFolder: ./Eskisehir/
 
 ## Confidential Links & Embeds: 
 
-### [Eskisehir.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.public.md) 
+### [Eskisehir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Eskisehir.md) 
 
-### [Eskisehir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.internal.md) 
+### [Eskisehir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Eskisehir.public.md) 
 
-### [Eskisehir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.protect.md) 
+### [Eskisehir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Eskisehir.internal.md) 
 
-### [Eskisehir.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.private.md) 
+### [Eskisehir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Eskisehir.protect.md) 
 
-### [Eskisehir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.personal.md) 
+### [Eskisehir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Eskisehir.private.md) 
 
-### [Eskisehir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyEskisehir.secret.md)
+### [Eskisehir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Eskisehir.personal.md) 
+
+### [Eskisehir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Eskisehir.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Karaman/
 
 ## Confidential Links & Embeds: 
 
-### [Karaman.public](/_public/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.public.md) 
+### [Karaman](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.md) 
 
-### [Karaman.internal](/_internal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.internal.md) 
+### [Karaman.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.public.md) 
 
-### [Karaman.protect](/_protect/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.protect.md) 
+### [Karaman.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.internal.md) 
 
-### [Karaman.private](/_private/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.private.md) 
+### [Karaman.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.protect.md) 
 
-### [Karaman.personal](/_personal/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.personal.md) 
+### [Karaman.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.private.md) 
 
-### [Karaman.secret](/_secret/\Earth\Continent\Europe\Europe~East\Turkey\Provinces~TurkeyKaraman.secret.md)
+### [Karaman.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.personal.md) 
+
+### [Karaman.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.secret.md)
 
