@@ -216,6 +216,10 @@ U_S_National_Archives_Identifier: 10044311
 
 # [[Istanbul]]
 
+#is_/same_as :: [[../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]] 
+
+## #has_/map 
+
 ```leaflet
 id: Istanbul
 zoomFeatures: true 
