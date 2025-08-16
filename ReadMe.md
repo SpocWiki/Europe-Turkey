@@ -121,7 +121,7 @@ markerFolder: .//
 [Area-Land::769630] 
 Continent :: [[Europe]]  
 [VehicleCode::TR] 
-Capital :: [[Istanbul]]  
+Capital :: [[Provinces~Turkey/Istanbul,Province]]  
 
 ![[Emblem_of_Turkey.svg|350]] 
 

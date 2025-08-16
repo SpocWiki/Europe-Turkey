@@ -214,9 +214,10 @@ coordinate_location: "Point(28.960277777 41.01)"
 U_S_National_Archives_Identifier: 10044311
 ---
 
-# [[Istanbul]]
+# [[Istanbul,Province]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]] 
+- In **2004**, with **Law No. 5216**, the metropolitan municipality’s authority was extended to cover the entire provincial area. 
+- Since **2012**, with **Law No. 6360**, Istanbul Province and Istanbul Metropolitan Municipality share the same boundaries.
 
 ## #has_/map 
 
@@ -225,23 +226,9 @@ id: Istanbul
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Istanbul/
-markerFolder: ./Istanbul/
+geojsonFolder: ./Istanbul,Province//
+markerFolder: ./Istanbul,Province//
 ```
-
-
-
-## #has_/text_of_/abstract 
-
-> **Istanbul** is the largest city in Turkey, straddling the Bosporus Strait, the boundary between Europe and Asia. It is considered the country's economic, cultural and historic capital. The city has a population of over 15 million residents, comprising 19% of the population of Turkey, and is the most populous city in Europe and the world's sixteenth-largest city.
->
-> The city was founded as Byzantium in the 7th century BCE by Greek settlers from Megara. In 330 CE, the Roman emperor Constantine the Great made it his imperial capital, renaming it first as New Rome (Ancient Greek: Νέα Ῥώμη Nea Rhomē; Latin: Nova Roma) and then finally as Constantinople (Constantinopolis) after himself. In 1930, the city's name was officially changed to Istanbul, the Turkish rendering of εἰς τὴν Πόλιν eis tḕn Pólin 'to the City', the appellation Greek speakers used since the 11th century to colloquially refer to the city.
->
-> The city served as an imperial capital for almost 1600 years: during the Byzantine (330–1204), Latin (1204–1261), late Byzantine (1261–1453), and Ottoman (1453–1922) empires. The city grew in size and influence, eventually becoming a beacon of the Silk Road and one of the most important cities in history. The city played a key role in the advancement of Christianity during Roman and Byzantine times, hosting four of the first seven ecumenical councils before its transformation to an Islamic stronghold following the fall of Constantinople in 1453 CE—especially after becoming the seat of the Ottoman Caliphate in 1517. In 1923, after the Turkish War of Independence, Ankara replaced the city as the capital of the newly formed Republic of Turkey.
->
-> Istanbul was the 2010 European Capital of Culture. The city has surpassed London and Dubai to become the most visited city in the world, with more than 20 million foreign visitors in 2023. In 2024, Euromonitor International ranked Istanbul as the second most visited city in the world, welcoming 23 million visitors. The historic centre of Istanbul is a UNESCO World Heritage Site, and the city hosts the headquarters of numerous Turkish companies, accounting for more than thirty percent of the country's economy.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Istanbul) 
 
 
 ## Confidential Links & Embeds: 
