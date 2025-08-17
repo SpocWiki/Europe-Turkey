@@ -26,7 +26,7 @@ Country :: [[Turkey]]
 [Population::] 
 [Unknown::] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]]  
 
 ## #has_/map 
 
