@@ -1,30 +1,29 @@
 ---
-location: [ 40.86359284061912 , 30.525390625 ] 
+location:
+  - 40.86359284061912
+  - 30.525390625
 type: geo-Region
 title: Sakarya
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Sakarya
-
+  - Sakarya
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Sakarya

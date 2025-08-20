@@ -1,40 +1,41 @@
 ---
 location:
-- 39.3233
-- 32.37
+  - 39.3233
+  - 32.37
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27039
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Turkey
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Turkey
-- Turquía
-- Turquie
-- تركيا
-- 土耳其
-- Турция
-- the Republic of Turkey
-- la República de Turquía
+  - Turkey
+  - Turquía
+  - Turquie
+  - تركيا
+  - 土耳其
+  - Турция
+  - the Republic of Turkey
+  - la República de Turquía
 Languages:
-- tr-TR
-- ku
-- diq
-- az
-- av
+  - tr-TR
+  - ku
+  - diq
+  - az
+  - av
 ---
 
 
