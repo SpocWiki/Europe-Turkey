@@ -224,7 +224,7 @@ U_S_National_Archives_Identifier: 10044311
 ```leaflet
 id: Istanbul
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Istanbul,Province//
 markerFolder: ./Istanbul,Province//

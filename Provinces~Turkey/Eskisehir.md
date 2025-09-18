@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Eskisehir
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Eskisehir/
 markerFolder: ./Eskisehir/

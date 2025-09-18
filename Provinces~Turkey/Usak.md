@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Usak
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Usak/
 markerFolder: ./Usak/

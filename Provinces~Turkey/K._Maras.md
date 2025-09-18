@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: K._Maras
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./K._Maras/
 markerFolder: ./K._Maras/
