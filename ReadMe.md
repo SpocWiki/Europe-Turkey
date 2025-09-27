@@ -122,7 +122,7 @@ markerFolder: .//
 [Area-Land::769630] 
 Continent :: [[Europe]]  
 [VehicleCode::TR] 
-Capital :: [[Provinces~Turkey/Istanbul,Province]]  
+Capital :: [[Regions~Turkey/Marmara_Region/Istanbul,Province]]  
 
 ![[Emblem_of_Turkey.svg|350]] 
 
