@@ -65,7 +65,6 @@ coordinates: [[Lake_Van]]
 markerFile: [[Lake_Van]] 
 ```
 
-
 ## #has_/text_of_/abstract 
 
 > Lake Van (Turkish: Van Gölü; Armenian: Վանա լիճ, romanized: Vana lič̣; Kurdish: Gola Wanê) 
