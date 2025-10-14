@@ -21,7 +21,7 @@ State ::
 Country :: [[Turkey]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

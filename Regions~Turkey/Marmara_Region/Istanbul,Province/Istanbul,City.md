@@ -226,7 +226,7 @@ State ::
 Country :: [[Turkey]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]]  
 
