@@ -26,7 +26,7 @@ Commons_category: History of Turkey
 After [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I|World War I]], the [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] was dissolved into many States like Iraq, Syria, Palestine etc. 
 Turkish Nationalists around [[../../../../../Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal|Atatürk]] reformed and modernized Turkey, 
 picking Structures and Laws from different European Countries and introducing [[Laicism]]. 
-The previous [[../../../../../Philosophy/Metaphysic/Religion/Islam/Ummah|Ummah]] Community was replaced by a national Identity, 
+The previous [[../../../../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah|Ummah]] Community was replaced by a national Identity, 
 which was also enforced by suppressing or relocating minor Ethnicities like 
 [[../../../Asia/Asia~West/Jewish_People|Jews]], [[Alawites]] and [[Kurds]]. 
 
