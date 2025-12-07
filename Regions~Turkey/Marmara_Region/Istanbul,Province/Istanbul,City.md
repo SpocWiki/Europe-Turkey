@@ -236,6 +236,8 @@ Country :: [[Turkey]]
 id: Istanbul
 coordinates: [[Istanbul,City]] 
 markerFile: [[Istanbul,City]] 
+geojsonFolder: ./Istanbul,City//
+markerFolder: ./Istanbul,City//
 defaultZoom: 11 
 maxZoom: 18
 ```
