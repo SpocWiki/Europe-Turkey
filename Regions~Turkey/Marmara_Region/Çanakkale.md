@@ -26,15 +26,19 @@ publishDate:
 expiryDate:
 ---
 
-# Çanakkale
+# [[Çanakkale]]
+
+## #has_/map  
 
 ```leaflet
 id: Çanakkale
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Çanakkale/
+geojsonFolder: ./Çanakkale//
 markerFolder: ./Çanakkale/
+coordinates: [[Çanakkale]] 
+markerFile: [[Çanakkale]] 
 ```
 
 
