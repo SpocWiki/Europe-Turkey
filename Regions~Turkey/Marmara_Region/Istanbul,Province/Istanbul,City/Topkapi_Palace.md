@@ -19,7 +19,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]"
   - "[[_Standards/WikiData/WD~palace,16560]]"
   - "[[_Standards/WikiData/WD~museum,33506]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 payment_types_accepted:
   - "[[_Standards/WikiData/WD~cash,693464]]"
   - "[[_Standards/WikiData/WD~Müzekart,1118621]]"

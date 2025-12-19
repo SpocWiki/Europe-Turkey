@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q519263
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Dictionary_of_Place_Names_in_Armenia_and_Adjacent_Areas,18400705]]"
 part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514]]"

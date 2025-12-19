@@ -28,7 +28,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~Middle_Easterners,100448011]]"
   - "[[_Standards/WikiData/WD~inhabitant,22947]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Turkish,256]]"

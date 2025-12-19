@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q22647
-location: [ 39.9575, 26.238888888]
+location:
+  - 39.9575
+  - 26.238888888
 coordinate_location: Point(26.238888888 39.9575)
 native_label:
   - Τροία
@@ -15,7 +17,7 @@ director_of_archaeological_fieldwork:
   - "[[_Standards/WikiData/WD~Wilhelm_Dörpfeld,60239]]"
   - "[[_Standards/WikiData/WD~Manfred_Korfmann,63063]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
