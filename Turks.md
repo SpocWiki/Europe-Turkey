@@ -4,62 +4,63 @@ aliases:
   - Türken
   - Türke
   - Turkish people
+  - Turks
 has_id_wikidata: Q84072
 different_from:
-  - "[[_Standards/WikiData/WD~Turkic_peoples,83328]]"
-  - "[[_Standards/WikiData/WD~Turki,16282220]]"
-part_of: "[[_Standards/WikiData/WD~Turkic_peoples,83328]]"
+  - '[[_Standards/WikiData/WD~Turkic_peoples,83328]]'
+  - '[[_Standards/WikiData/WD~Turki,16282220]]'
+part_of: '[[_Standards/WikiData/WD~Turkic_peoples,83328]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Alevism,137097]]"
-  - "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
-  - "[[_Standards/WikiData/WD~Sufism,9603]]"
+  - '[[_Standards/WikiData/WD~Alevism,137097]]'
+  - '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
+  - '[[_Standards/WikiData/WD~Sufism,9603]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~nationality,231002]]"
-  - "[[_Standards/WikiData/WD~people,2472587]]"
-  - "[[_Standards/WikiData/WD~nation,6266]]"
-  - "[[_Standards/WikiData/WD~human_population,33829]]"
-  - "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+  - '[[_Standards/WikiData/WD~nationality,231002]]'
+  - '[[_Standards/WikiData/WD~people,2472587]]'
+  - '[[_Standards/WikiData/WD~nation,6266]]'
+  - '[[_Standards/WikiData/WD~human_population,33829]]'
+  - '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Turkish_Cypriots,245807]]"
-  - "[[_Standards/WikiData/WD~Meskhetian_(Turks),1055319]]"
+  - '[[_Standards/WikiData/WD~Turkish_Cypriots,245807]]'
+  - '[[_Standards/WikiData/WD~Meskhetian_(Turks),1055319]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~European_people,394067]]"
-  - "[[_Standards/WikiData/WD~Asian_people,4058325]]"
-  - "[[_Standards/WikiData/WD~Middle_Easterners,100448011]]"
-  - "[[_Standards/WikiData/WD~inhabitant,22947]]"
+  - '[[_Standards/WikiData/WD~European_people,394067]]'
+  - '[[_Standards/WikiData/WD~Asian_people,4058325]]'
+  - '[[_Standards/WikiData/WD~Middle_Easterners,100448011]]'
+  - '[[_Standards/WikiData/WD~inhabitant,22947]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Turkish,256]]"
-native_language: "[[_Standards/WikiData/WD~Turkish,256]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Turkish,256]]'
+native_language: '[[_Standards/WikiData/WD~Turkish,256]]'
 country:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - '[[_Standards/WikiData/WD~Australia,408]]'
+  - '[[_Standards/WikiData/WD~Iraq,796]]'
+  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+  - '[[_Standards/WikiData/WD~Syria,858]]'
+  - '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
+  - '[[_Standards/WikiData/WD~Canada,16]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - '[[_Standards/WikiData/WD~Belgium,31]]'
+  - '[[_Standards/WikiData/WD~Sweden,34]]'
+  - '[[_Standards/WikiData/WD~Denmark,35]]'
+  - '[[_Standards/WikiData/WD~Italy,38]]'
+  - '[[_Standards/WikiData/WD~Switzerland,39]]'
+  - '[[_Standards/WikiData/WD~Turkey,43]]'
+  - '[[_Standards/WikiData/WD~Austria,40]]'
+  - '[[_Standards/WikiData/WD~Greece,41]]'
+  - '[[_Standards/WikiData/WD~Netherlands,55]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - '[[_Standards/WikiData/WD~Russia,159]]'
+  - '[[_Standards/WikiData/WD~Germany,183]]'
+  - '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - '[[_Standards/WikiData/WD~Romania,218]]'
+  - '[[_Standards/WikiData/WD~Bulgaria,219]]'
+  - '[[_Standards/WikiData/WD~North_Macedonia,221]]'
+  - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 population:
   - 65000000
   - 81000000

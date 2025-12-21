@@ -11,29 +11,29 @@ aliases:
   - Hellḗspontos
 has_id_wikidata: Q6514
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Helle,638578]]"
-  - "[[_Standards/WikiData/WD~Dardanos,950952]]"
-heritage_designation: "[[_Standards/WikiData/WD~Important_Bird_Area,1139892]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Hellespont,1250462]]"
-inflows: "[[_Standards/WikiData/WD~Karamenderes_River,2488636]]"
-country: "[[_Standards/WikiData/WD~Turkey,43]]"
+  - '[[_Standards/WikiData/WD~Helle,638578]]'
+  - '[[_Standards/WikiData/WD~Dardanos,950952]]'
+heritage_designation: '[[_Standards/WikiData/WD~Important_Bird_Area,1139892]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Hellespont,1250462]]'
+inflows: '[[_Standards/WikiData/WD~Karamenderes_River,2488636]]'
+country: '[[_Standards/WikiData/WD~Turkey,43]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Black_Sea,166]]"
-  - "[[_Standards/WikiData/WD~Sea_of_Marmara,35367]]"
+  - '[[_Standards/WikiData/WD~Black_Sea,166]]'
+  - '[[_Standards/WikiData/WD~Sea_of_Marmara,35367]]'
 length: 61
 vertical_depth: 82
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Çanakkale_Province,47813]]"
-U_S_National_Archives_Identifier: "10044370"
+instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Çanakkale_Province,47813]]'
+U_S_National_Archives_Identifier: 10044370
 native_label:
   - Δαρδανέλλια
   - Çanakkale Boğazı

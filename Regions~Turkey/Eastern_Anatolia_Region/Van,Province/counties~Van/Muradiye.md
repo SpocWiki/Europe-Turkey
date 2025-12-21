@@ -1,16 +1,19 @@
 ---
-location: [38.98,43.77] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Muradiye
+location:
+  - 38.98
+  - 43.77
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32626
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Muradiye]] 

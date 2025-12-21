@@ -3,6 +3,8 @@ aliases:
   - Mediterranean region
   - Mediterranea
   - Mediterranean basin
+  - Mediterranean_Region
+  - Mediterranean Region
 ---
 
 # [[Mediterranean_Region]] 

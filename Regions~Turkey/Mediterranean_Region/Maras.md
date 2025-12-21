@@ -1,4 +1,9 @@
 ---
+aliases:
+  - K._Maras
+  - Maras
+  - Karaman_Maras
+  - Karamanmaras
 location:
   - 37.9
   - 37
@@ -12,21 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - K._Maras
-  - Maras
-  - Karaman_Maras
-  - Karamanmaras
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # K._Maras

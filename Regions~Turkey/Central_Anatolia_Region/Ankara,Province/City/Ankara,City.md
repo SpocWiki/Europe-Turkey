@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Ankara
+  - Ancyra
+  - Angora
+  - Ankara,City
 location:
   - 39.92
   - 32.84
@@ -12,10 +17,6 @@ tags:
 SpocWebEntityId: 28831
 isDeleted: false
 confidential: public
-aliases:
-  - Ankara
-  - Ancyra
-  - Angora
 ---
 
 # [[Ankara,City]] 

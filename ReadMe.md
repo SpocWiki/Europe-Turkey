@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Turkey
+  - Turquía
+  - Turquie
+  - تركيا
+  - 土耳其
+  - Турция
+  - the Republic of Turkey
+  - la República de Turquía
+  - ReadMe
 location:
   - 39.3233
   - 32.37
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Turkey
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Turkey
-  - Turquía
-  - Turquie
-  - تركيا
-  - 土耳其
-  - Турция
-  - the Republic of Turkey
-  - la República de Turquía
+publishDate: ''
+expiryDate: ''
 Languages:
   - tr-TR
   - ku

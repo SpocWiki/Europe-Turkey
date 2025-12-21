@@ -2,33 +2,37 @@
 aliases:
   - Temple of Artemis
   - Artemision
+  - Temple_of_Artemis,Ephesus
+  - Temple of Artemis,Ephesus
 has_id_wikidata: Q43018
-location: [ 37.949722, 27.363889]
+location:
+  - 37.949722
+  - 27.363889
 coordinate_location: Point(27.363889 37.949722)
 inception: -0322-01-01T00:00:00Z
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Aegean_Region,155564]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Aegean_Region,155564]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ancient_Greek_temple,267596]]"
-  - "[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]"
-  - "[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]"
-  - "[[_Standards/WikiData/WD~temple,44539]]"
-architectural_style: "[[_Standards/WikiData/WD~ancient_Greek_architecture,331273]]"
+  - '[[_Standards/WikiData/WD~ancient_Greek_temple,267596]]'
+  - '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]'
+  - '[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]'
+  - '[[_Standards/WikiData/WD~temple,44539]]'
+architectural_style: '[[_Standards/WikiData/WD~ancient_Greek_architecture,331273]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]"
-  - "[[_Standards/WikiData/WD~Ephesus,64699469]]"
-  - "[[_Standards/WikiData/WD~Artemision_(Ephesus),104629988]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Selçuk,876176]]"
+  - '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]'
+  - '[[_Standards/WikiData/WD~Ephesus,64699469]]'
+  - '[[_Standards/WikiData/WD~Artemision_(Ephesus),104629988]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Selçuk,876176]]'
 architect:
-  - "[[_Standards/WikiData/WD~Chersiphron,1070392]]"
-  - "[[_Standards/WikiData/WD~Paeonius_of_Ephesus,9058133]]"
-dedicated_to: "[[_Standards/WikiData/WD~Artemis_of_Ephesus,10858700]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-state_of_conservation: "[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]"
-state_of_use: "[[_Standards/WikiData/WD~permanently_closed,104664889]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_Archaeological_excavations_in_Ephesos,127699306]]"
-country: "[[_Standards/WikiData/WD~Turkey,43]]"
-locations: "[[_Standards/WikiData/WD~Ephesus,47611]]"
+  - '[[_Standards/WikiData/WD~Chersiphron,1070392]]'
+  - '[[_Standards/WikiData/WD~Paeonius_of_Ephesus,9058133]]'
+dedicated_to: '[[_Standards/WikiData/WD~Artemis_of_Ephesus,10858700]]'
+heritage_designation: '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+state_of_conservation: '[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]'
+state_of_use: '[[_Standards/WikiData/WD~permanently_closed,104664889]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_Archaeological_excavations_in_Ephesos,127699306]]'
+country: '[[_Standards/WikiData/WD~Turkey,43]]'
+locations: '[[_Standards/WikiData/WD~Ephesus,47611]]'
 area: 45.82
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ephesos.jpg

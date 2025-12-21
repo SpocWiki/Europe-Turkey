@@ -3,43 +3,45 @@ aliases:
   - Topkapı_Palace
   - Topkapı Palace
   - Seraglio
+  - Topkapi_Palace
+  - Topkapi Palace
 has_id_wikidata: Q170495
 location:
   - 41.013
   - 28.984
 coordinate_location: Point(28.984 41.013)
 inception: 1460-01-01T00:00:00Z
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Marmara_Region,155583]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Marmara_Region,155583]]'
 has_use:
-  - "[[_Standards/WikiData/WD~official_residence,481289]]"
-  - "[[_Standards/WikiData/WD~museum,33506]]"
-architectural_style: "[[_Standards/WikiData/WD~Ottoman_architecture,527449]]"
+  - '[[_Standards/WikiData/WD~official_residence,481289]]'
+  - '[[_Standards/WikiData/WD~museum,33506]]'
+architectural_style: '[[_Standards/WikiData/WD~Ottoman_architecture,527449]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
-  - "[[_Standards/WikiData/WD~museum,33506]]"
-described_by_source: "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~building_or_structure_under_construction,12377751]]'
+  - '[[_Standards/WikiData/WD~palace,16560]]'
+  - '[[_Standards/WikiData/WD~museum,33506]]'
+described_by_source: '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 payment_types_accepted:
-  - "[[_Standards/WikiData/WD~cash,693464]]"
-  - "[[_Standards/WikiData/WD~Müzekart,1118621]]"
-different_from: "[[_Standards/WikiData/WD~Topkapi,1516287]]"
+  - '[[_Standards/WikiData/WD~cash,693464]]'
+  - '[[_Standards/WikiData/WD~Müzekart,1118621]]'
+different_from: '[[_Standards/WikiData/WD~Topkapi,1516287]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Eminönü,1767191]]"
-  - "[[_Standards/WikiData/WD~Istanbul,406]]"
-part_of: "[[_Standards/WikiData/WD~Historic_Areas_of_Istanbul,5773394]]"
-operator: "[[_Standards/WikiData/WD~Directorate_of_National_Palaces,6037469]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32660632,32660632]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32660638,32660638]]"
-state_of_conservation: "[[_Standards/WikiData/WD~preserved,56557591]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Topkapı_Palace_Museum,64682290]]"
-has_part_s_: "[[_Standards/WikiData/WD~Third_Courtyard_of_Topkapı_Palace,124628427]]"
-owned_by: "[[_Standards/WikiData/WD~Turkey,43]]"
-country: "[[_Standards/WikiData/WD~Turkey,43]]"
-founded_by: "[[_Standards/WikiData/WD~Mehmed_II,34503]]"
-architect: "[[_Standards/WikiData/WD~Mehmed_II,34503]]"
-OmegaWiki_Defined_Meaning: "1256447"
-inventory_number: "49615"
+  - '[[_Standards/WikiData/WD~Eminönü,1767191]]'
+  - '[[_Standards/WikiData/WD~Istanbul,406]]'
+part_of: '[[_Standards/WikiData/WD~Historic_Areas_of_Istanbul,5773394]]'
+operator: '[[_Standards/WikiData/WD~Directorate_of_National_Palaces,6037469]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32660632,32660632]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32660638,32660638]]'
+state_of_conservation: '[[_Standards/WikiData/WD~preserved,56557591]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Topkapı_Palace_Museum,64682290]]'
+has_part_s_: '[[_Standards/WikiData/WD~Third_Courtyard_of_Topkapı_Palace,124628427]]'
+owned_by: '[[_Standards/WikiData/WD~Turkey,43]]'
+country: '[[_Standards/WikiData/WD~Turkey,43]]'
+founded_by: '[[_Standards/WikiData/WD~Mehmed_II,34503]]'
+architect: '[[_Standards/WikiData/WD~Mehmed_II,34503]]'
+OmegaWiki_Defined_Meaning: 1256447
+inventory_number: 49615
 official_website:
   - https://www.millisaraylar.gov.tr/en/palaces/topkapi-palace
   - https://www.millisaraylar.gov.tr/saraylar/topkapi-sarayi
