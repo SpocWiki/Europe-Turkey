@@ -21,7 +21,7 @@ confidential: public
 [has_place_latitude::37.02] 
 [name::Adana] 
 State ::  
-Country :: [[Turkey]]  
+Country :: [[../../../../../Turkey]]  
 [StateId::] 
 [Population::] 
 

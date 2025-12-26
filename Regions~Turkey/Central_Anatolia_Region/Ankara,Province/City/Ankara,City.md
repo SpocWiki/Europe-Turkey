@@ -27,7 +27,7 @@ confidential: public
 [has_place_latitude::39.92] 
 [name::Ankara] 
 State ::  
-Country :: [[Turkey]]  
+Country :: [[../../../../../Turkey]]  
 [StateId::] 
 [Population::] 
 

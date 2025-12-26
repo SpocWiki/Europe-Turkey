@@ -224,7 +224,7 @@ name: Eshanebul
 [has_place_latitude::41.03] 
 [name::Istanbul] 
 State ::  
-Country :: [[Turkey]]  
+Country :: [[../../../../Turkey]]  
 [StateId::] 
 [Population::] 
 
