@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1494-01-01 
 aliases:
   - Mausoleum at Halicarnassus
   - Tomb of Mausolus

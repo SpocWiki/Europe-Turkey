@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1460-01-01 
 aliases:
   - Topkapı_Palace
   - Topkapı Palace

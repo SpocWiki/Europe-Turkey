@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1453-06-07 
 aliases:
   - Byzanz
   - Constantinople
