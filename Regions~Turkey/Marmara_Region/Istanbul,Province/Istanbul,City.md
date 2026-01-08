@@ -230,7 +230,7 @@ name: Eshanebul
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-[name::Istanbul] 
+[has_/name::Istanbul] 
 State ::  
 Country :: [[../../../../Turkey]]  
 [StateId::] 
