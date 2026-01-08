@@ -40,17 +40,17 @@ markerFolder: ./Kars/
 
 ## Confidential Links & Embeds: 
 
-### [Kars](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars|Kars]] 
 
-### [Kars.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars.public|Kars.public]] 
 
-### [Kars.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars.internal|Kars.internal]] 
 
-### [Kars.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars.protect|Kars.protect]] 
 
-### [Kars.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars.private|Kars.private]] 
 
-### [Kars.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars.personal|Kars.personal]] 
 
-### [Kars.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars.secret|Kars.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Artvin/
 
 ## Confidential Links & Embeds: 
 
-### [Artvin](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Artvin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Artvin|Artvin]] 
 
-### [Artvin.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Artvin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Artvin.public|Artvin.public]] 
 
-### [Artvin.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Artvin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Artvin.internal|Artvin.internal]] 
 
-### [Artvin.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Artvin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Artvin.protect|Artvin.protect]] 
 
-### [Artvin.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Artvin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Artvin.private|Artvin.private]] 
 
-### [Artvin.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Artvin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Artvin.personal|Artvin.personal]] 
 
-### [Artvin.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Artvin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Artvin.secret|Artvin.secret]] 
 

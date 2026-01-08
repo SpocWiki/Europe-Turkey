@@ -40,17 +40,17 @@ markerFolder: ./Denizli/
 
 ## Confidential Links & Embeds: 
 
-### [Denizli](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Denizli|Denizli]] 
 
-### [Denizli.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Denizli.public|Denizli.public]] 
 
-### [Denizli.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Denizli.internal|Denizli.internal]] 
 
-### [Denizli.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Denizli.protect|Denizli.protect]] 
 
-### [Denizli.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Denizli.private|Denizli.private]] 
 
-### [Denizli.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Denizli.personal|Denizli.personal]] 
 
-### [Denizli.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Denizli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Denizli.secret|Denizli.secret]] 
 

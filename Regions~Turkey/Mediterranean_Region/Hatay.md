@@ -40,17 +40,17 @@ markerFolder: ./Hatay/
 
 ## Confidential Links & Embeds: 
 
-### [Hatay](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Hatay|Hatay]] 
 
-### [Hatay.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Hatay.public|Hatay.public]] 
 
-### [Hatay.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Hatay.internal|Hatay.internal]] 
 
-### [Hatay.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Hatay.protect|Hatay.protect]] 
 
-### [Hatay.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Hatay.private|Hatay.private]] 
 
-### [Hatay.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Hatay.personal|Hatay.personal]] 
 
-### [Hatay.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hatay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Hatay.secret|Hatay.secret]] 
 

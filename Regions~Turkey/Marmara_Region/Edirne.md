@@ -40,17 +40,17 @@ markerFolder: ./Edirne/
 
 ## Confidential Links & Embeds: 
 
-### [Edirne](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Edirne|Edirne]] 
 
-### [Edirne.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Edirne.public|Edirne.public]] 
 
-### [Edirne.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Edirne.internal|Edirne.internal]] 
 
-### [Edirne.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Edirne.protect|Edirne.protect]] 
 
-### [Edirne.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Edirne.private|Edirne.private]] 
 
-### [Edirne.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Edirne.personal|Edirne.personal]] 
 
-### [Edirne.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Edirne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Edirne.secret|Edirne.secret]] 
 

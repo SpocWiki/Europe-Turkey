@@ -40,17 +40,17 @@ markerFolder: ./Samsun/
 
 ## Confidential Links & Embeds: 
 
-### [Samsun](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Samsun|Samsun]] 
 
-### [Samsun.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Samsun.public|Samsun.public]] 
 
-### [Samsun.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Samsun.internal|Samsun.internal]] 
 
-### [Samsun.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Samsun.protect|Samsun.protect]] 
 
-### [Samsun.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Samsun.private|Samsun.private]] 
 
-### [Samsun.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Samsun.personal|Samsun.personal]] 
 
-### [Samsun.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Samsun.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Samsun.secret|Samsun.secret]] 
 

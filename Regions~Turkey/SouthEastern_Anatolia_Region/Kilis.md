@@ -40,17 +40,17 @@ markerFolder: ./Kilis/
 
 ## Confidential Links & Embeds: 
 
-### [Kilis](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Kilis|Kilis]] 
 
-### [Kilis.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Kilis.public|Kilis.public]] 
 
-### [Kilis.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Kilis.internal|Kilis.internal]] 
 
-### [Kilis.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Kilis.protect|Kilis.protect]] 
 
-### [Kilis.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Kilis.private|Kilis.private]] 
 
-### [Kilis.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Kilis.personal|Kilis.personal]] 
 
-### [Kilis.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kilis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Kilis.secret|Kilis.secret]] 
 

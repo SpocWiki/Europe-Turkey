@@ -40,17 +40,17 @@ markerFolder: ./Kastamonu/
 
 ## Confidential Links & Embeds: 
 
-### [Kastamonu](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Kastamonu|Kastamonu]] 
 
-### [Kastamonu.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Kastamonu.public|Kastamonu.public]] 
 
-### [Kastamonu.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Kastamonu.internal|Kastamonu.internal]] 
 
-### [Kastamonu.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Kastamonu.protect|Kastamonu.protect]] 
 
-### [Kastamonu.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Kastamonu.private|Kastamonu.private]] 
 
-### [Kastamonu.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Kastamonu.personal|Kastamonu.personal]] 
 
-### [Kastamonu.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kastamonu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Kastamonu.secret|Kastamonu.secret]] 
 

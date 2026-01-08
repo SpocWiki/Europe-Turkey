@@ -40,17 +40,17 @@ markerFolder: ./Kayseri/
 
 ## Confidential Links & Embeds: 
 
-### [Kayseri](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kayseri|Kayseri]] 
 
-### [Kayseri.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kayseri.public|Kayseri.public]] 
 
-### [Kayseri.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kayseri.internal|Kayseri.internal]] 
 
-### [Kayseri.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kayseri.protect|Kayseri.protect]] 
 
-### [Kayseri.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kayseri.private|Kayseri.private]] 
 
-### [Kayseri.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kayseri.personal|Kayseri.personal]] 
 
-### [Kayseri.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kayseri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kayseri.secret|Kayseri.secret]] 
 

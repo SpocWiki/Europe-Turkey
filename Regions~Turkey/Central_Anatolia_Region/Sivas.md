@@ -40,17 +40,17 @@ markerFolder: ./Sivas/
 
 ## Confidential Links & Embeds: 
 
-### [Sivas](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sivas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Sivas|Sivas]] 
 
-### [Sivas.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sivas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Sivas.public|Sivas.public]] 
 
-### [Sivas.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sivas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Sivas.internal|Sivas.internal]] 
 
-### [Sivas.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sivas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Sivas.protect|Sivas.protect]] 
 
-### [Sivas.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sivas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Sivas.private|Sivas.private]] 
 
-### [Sivas.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sivas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Sivas.personal|Sivas.personal]] 
 
-### [Sivas.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sivas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Sivas.secret|Sivas.secret]] 
 

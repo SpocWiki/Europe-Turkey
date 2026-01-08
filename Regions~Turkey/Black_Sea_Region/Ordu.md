@@ -40,17 +40,17 @@ markerFolder: ./Ordu/
 
 ## Confidential Links & Embeds: 
 
-### [Ordu](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Ordu|Ordu]] 
 
-### [Ordu.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Ordu.public|Ordu.public]] 
 
-### [Ordu.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Ordu.internal|Ordu.internal]] 
 
-### [Ordu.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Ordu.protect|Ordu.protect]] 
 
-### [Ordu.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Ordu.private|Ordu.private]] 
 
-### [Ordu.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Ordu.personal|Ordu.personal]] 
 
-### [Ordu.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ordu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Ordu.secret|Ordu.secret]] 
 

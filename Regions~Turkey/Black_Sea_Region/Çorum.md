@@ -40,17 +40,17 @@ markerFolder: ./Çorum/
 
 ## Confidential Links & Embeds: 
 
-### [Çorum](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Çorum|Çorum]] 
 
-### [Çorum.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Çorum.public|Çorum.public]] 
 
-### [Çorum.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Çorum.internal|Çorum.internal]] 
 
-### [Çorum.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Çorum.protect|Çorum.protect]] 
 
-### [Çorum.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Çorum.private|Çorum.private]] 
 
-### [Çorum.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Çorum.personal|Çorum.personal]] 
 
-### [Çorum.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çorum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Çorum.secret|Çorum.secret]] 
 

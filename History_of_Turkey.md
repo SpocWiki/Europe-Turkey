@@ -17,11 +17,14 @@ facet_of: "[[_Standards/WikiData/WD~Turkey,43]]"
 country: "[[_Standards/WikiData/WD~Turkey,43]]"
 Basisklassifikation: "15.68"
 Commons_category: History of Turkey
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Turkey,190876|WD~History_of_Turkey,190876]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Turkey,190876|WD~History_of_Turkey,190876]]"
 ---
 
 # [[History_of_Turkey]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Turkey,190876|WD~History_of_Turkey,190876]] 
+is_same_as = `=this.dv_is_same_as`
 
 After [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I|World War I]], the [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] was dissolved into many States like Iraq, Syria, Palestine etc. 
 Turkish Nationalists around [[../../../../../Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal|Atatürk]] reformed and modernized Turkey, 
@@ -51,4 +54,19 @@ which was also enforced by suppressing or relocating minor Ethnicities like
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Turkey) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey|History_of_Turkey]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey.public|History_of_Turkey.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey.internal|History_of_Turkey.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey.protect|History_of_Turkey.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey.private|History_of_Turkey.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey.personal|History_of_Turkey.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey.secret|History_of_Turkey.secret]] 
 

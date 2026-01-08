@@ -40,17 +40,17 @@ markerFolder: ./Tekirdag/
 
 ## Confidential Links & Embeds: 
 
-### [Tekirdag](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Tekirdag|Tekirdag]] 
 
-### [Tekirdag.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Tekirdag.public|Tekirdag.public]] 
 
-### [Tekirdag.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Tekirdag.internal|Tekirdag.internal]] 
 
-### [Tekirdag.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Tekirdag.protect|Tekirdag.protect]] 
 
-### [Tekirdag.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Tekirdag.private|Tekirdag.private]] 
 
-### [Tekirdag.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Tekirdag.personal|Tekirdag.personal]] 
 
-### [Tekirdag.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tekirdag.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Tekirdag.secret|Tekirdag.secret]] 
 

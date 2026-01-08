@@ -40,17 +40,17 @@ markerFolder: ./Kirsehir/
 
 ## Confidential Links & Embeds: 
 
-### [Kirsehir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kirsehir|Kirsehir]] 
 
-### [Kirsehir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kirsehir.public|Kirsehir.public]] 
 
-### [Kirsehir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kirsehir.internal|Kirsehir.internal]] 
 
-### [Kirsehir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kirsehir.protect|Kirsehir.protect]] 
 
-### [Kirsehir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kirsehir.private|Kirsehir.private]] 
 
-### [Kirsehir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kirsehir.personal|Kirsehir.personal]] 
 
-### [Kirsehir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirsehir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kirsehir.secret|Kirsehir.secret]] 
 

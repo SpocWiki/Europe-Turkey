@@ -41,17 +41,17 @@ markerFolder: ./Ankara/
 
 ## Confidential Links & Embeds: 
 
-### [Ankara](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province|Ankara,Province]] 
 
-### [Ankara.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province.public|Ankara,Province.public]] 
 
-### [Ankara.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province.internal|Ankara,Province.internal]] 
 
-### [Ankara.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province.protect|Ankara,Province.protect]] 
 
-### [Ankara.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province.private|Ankara,Province.private]] 
 
-### [Ankara.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province.personal|Ankara,Province.personal]] 
 
-### [Ankara.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province.secret|Ankara,Province.secret]] 
 

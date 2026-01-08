@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31325
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.08
+dv_has_place_latitude: 40.62
+dv_name: Kars
+dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.08] 
-[has_place_latitude::40.62] 
-[name::Kars] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kars](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars/City/Kars.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars/City/Kars|Kars]] 
 
-### [Kars.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars/City/Kars.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars/City/Kars.public|Kars.public]] 
 
-### [Kars.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars/City/Kars.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars/City/Kars.internal|Kars.internal]] 
 
-### [Kars.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars/City/Kars.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars/City/Kars.protect|Kars.protect]] 
 
-### [Kars.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars/City/Kars.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars/City/Kars.private|Kars.private]] 
 
-### [Kars.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars/City/Kars.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars/City/Kars.personal|Kars.personal]] 
 
-### [Kars.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kars/City/Kars.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Kars/City/Kars.secret|Kars.secret]] 
 

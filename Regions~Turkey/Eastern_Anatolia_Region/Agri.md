@@ -40,17 +40,17 @@ markerFolder: ./Agri/
 
 ## Confidential Links & Embeds: 
 
-### [Agri](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Agri|Agri]] 
 
-### [Agri.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Agri.public|Agri.public]] 
 
-### [Agri.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Agri.internal|Agri.internal]] 
 
-### [Agri.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Agri.protect|Agri.protect]] 
 
-### [Agri.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Agri.private|Agri.private]] 
 
-### [Agri.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Agri.personal|Agri.personal]] 
 
-### [Agri.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Agri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Agri.secret|Agri.secret]] 
 

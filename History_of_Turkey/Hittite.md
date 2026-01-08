@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Hittites,5406|WD~Hittites,5406]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Hittites,5406|WD~Hittites,5406]]"
+
 has_time_started: 1500-01-01 
 aliases:
 has_id_wikidata: Q5406
@@ -36,7 +40,7 @@ inception: 1500-01-01T00:00:00Z
 
 # [[Hittite]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Hittites,5406|WD~Hittites,5406]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -56,4 +60,21 @@ inception: 1500-01-01T00:00:00Z
 > Modern interest in the Hittites increased with the founding of the Republic of Turkey in 1923. The Hittites attracted the attention of Turkish archaeologists such as Halet Çambel and Tahsin Özgüç. During this period, the new field of Hittitology also influenced the naming of Turkish institutions, such as the state-owned Etibank ("Hittite bank"), and the foundation of the Museum of Anatolian Civilizations in Ankara, built 200 kilometers (120 mi) west of the Hittite capital of Hattusa, which houses the world's most comprehensive exhibition of Hittite art and artifacts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hittites) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey/Hittite|Hittite]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey/Hittite.public|Hittite.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey/Hittite.internal|Hittite.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey/Hittite.protect|Hittite.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey/Hittite.private|Hittite.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey/Hittite.personal|Hittite.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/History_of_Turkey/Hittite.secret|Hittite.secret]] 
 

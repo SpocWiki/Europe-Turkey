@@ -24,3 +24,20 @@
 | [Mediterranean region](https://en.wikipedia.org/wiki/Mediterranean_region,_Turkey "Mediterranean region, Turkey")         | [Antalya](https://en.wikipedia.org/wiki/Antalya "Antalya")                 | 122,927 | 47,462 | 8                    | 10,584,506        | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mediterranean_Region_in_Turkey.svg/120px-Mediterranean_Region_in_Turkey.svg.png)](https://en.wikipedia.org/wiki/File:Mediterranean_Region_in_Turkey.svg)                         |
 | [Southeastern Anatolia region](https://en.wikipedia.org/wiki/Southeastern_Anatolia_region "Southeastern Anatolia region") | [Şanlıurfa](https://en.wikipedia.org/wiki/%C5%9Eanl%C4%B1urfa "Şanlıurfa") | 59,176  | 22,848 | 9                    | 8,576,391         | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Southeastern_Anatolia_Region_in_Turkey.svg/120px-Southeastern_Anatolia_Region_in_Turkey.svg.png)](https://en.wikipedia.org/wiki/File:Southeastern_Anatolia_Region_in_Turkey.svg) |
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey|Regions~Turkey]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey.public|Regions~Turkey.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey.internal|Regions~Turkey.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey.protect|Regions~Turkey.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey.private|Regions~Turkey.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey.personal|Regions~Turkey.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey.secret|Regions~Turkey.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Yalova/
 
 ## Confidential Links & Embeds: 
 
-### [Yalova](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yalova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Yalova|Yalova]] 
 
-### [Yalova.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yalova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Yalova.public|Yalova.public]] 
 
-### [Yalova.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yalova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Yalova.internal|Yalova.internal]] 
 
-### [Yalova.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yalova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Yalova.protect|Yalova.protect]] 
 
-### [Yalova.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yalova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Yalova.private|Yalova.private]] 
 
-### [Yalova.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yalova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Yalova.personal|Yalova.personal]] 
 
-### [Yalova.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yalova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Yalova.secret|Yalova.secret]] 
 

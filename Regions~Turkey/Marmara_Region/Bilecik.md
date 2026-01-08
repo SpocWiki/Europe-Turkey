@@ -40,17 +40,17 @@ markerFolder: ./Bilecik/
 
 ## Confidential Links & Embeds: 
 
-### [Bilecik](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bilecik|Bilecik]] 
 
-### [Bilecik.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bilecik.public|Bilecik.public]] 
 
-### [Bilecik.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bilecik.internal|Bilecik.internal]] 
 
-### [Bilecik.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bilecik.protect|Bilecik.protect]] 
 
-### [Bilecik.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bilecik.private|Bilecik.private]] 
 
-### [Bilecik.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bilecik.personal|Bilecik.personal]] 
 
-### [Bilecik.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bilecik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bilecik.secret|Bilecik.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Manisa/
 
 ## Confidential Links & Embeds: 
 
-### [Manisa](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Manisa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Manisa|Manisa]] 
 
-### [Manisa.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Manisa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Manisa.public|Manisa.public]] 
 
-### [Manisa.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Manisa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Manisa.internal|Manisa.internal]] 
 
-### [Manisa.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Manisa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Manisa.protect|Manisa.protect]] 
 
-### [Manisa.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Manisa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Manisa.private|Manisa.private]] 
 
-### [Manisa.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Manisa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Manisa.personal|Manisa.personal]] 
 
-### [Manisa.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Manisa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Manisa.secret|Manisa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Nevsehir/
 
 ## Confidential Links & Embeds: 
 
-### [Nevsehir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Nevsehir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Nevsehir|Nevsehir]] 
 
-### [Nevsehir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Nevsehir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Nevsehir.public|Nevsehir.public]] 
 
-### [Nevsehir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Nevsehir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Nevsehir.internal|Nevsehir.internal]] 
 
-### [Nevsehir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Nevsehir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Nevsehir.protect|Nevsehir.protect]] 
 
-### [Nevsehir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Nevsehir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Nevsehir.private|Nevsehir.private]] 
 
-### [Nevsehir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Nevsehir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Nevsehir.personal|Nevsehir.personal]] 
 
-### [Nevsehir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Nevsehir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Nevsehir.secret|Nevsehir.secret]] 
 

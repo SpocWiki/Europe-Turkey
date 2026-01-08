@@ -17,17 +17,25 @@ tags:
 SpocWebEntityId: 28831
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 32.84
+dv_has_place_latitude: 39.92
+dv_name: Ankara
+dv_Country: "[[../../../../../Turkey]]"
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Ankara,3640|WD~Ankara,3640]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Ankara,3640|WD~Ankara,3640]]"
 ---
 
 # [[Ankara,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::32.84] 
-[has_place_latitude::39.92] 
-[name::Ankara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Turkey]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,7 +49,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Ankara,3640|WD~Ankara,3640]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -73,19 +81,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ankara)
 
+
 ## Confidential Links & Embeds: 
 
-### [Ankara](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara/City/Ankara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province/City/Ankara,City|Ankara,City]] 
 
-### [Ankara.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara/City/Ankara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province/City/Ankara,City.public|Ankara,City.public]] 
 
-### [Ankara.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara/City/Ankara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province/City/Ankara,City.internal|Ankara,City.internal]] 
 
-### [Ankara.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara/City/Ankara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province/City/Ankara,City.protect|Ankara,City.protect]] 
 
-### [Ankara.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara/City/Ankara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province/City/Ankara,City.private|Ankara,City.private]] 
 
-### [Ankara.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara/City/Ankara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province/City/Ankara,City.personal|Ankara,City.personal]] 
 
-### [Ankara.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ankara/City/Ankara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Ankara,Province/City/Ankara,City.secret|Ankara,City.secret]] 
 

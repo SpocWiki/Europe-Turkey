@@ -44,17 +44,17 @@ markerFile: [[Çanakkale]]
 
 ## Confidential Links & Embeds: 
 
-### [Çanakkale](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çanakkale.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale|Çanakkale]] 
 
-### [Çanakkale.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çanakkale.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale.public|Çanakkale.public]] 
 
-### [Çanakkale.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çanakkale.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale.internal|Çanakkale.internal]] 
 
-### [Çanakkale.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çanakkale.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale.protect|Çanakkale.protect]] 
 
-### [Çanakkale.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çanakkale.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale.private|Çanakkale.private]] 
 
-### [Çanakkale.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çanakkale.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale.personal|Çanakkale.personal]] 
 
-### [Çanakkale.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çanakkale.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale.secret|Çanakkale.secret]] 
 

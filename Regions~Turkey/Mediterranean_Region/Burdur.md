@@ -40,17 +40,17 @@ markerFolder: ./Burdur/
 
 ## Confidential Links & Embeds: 
 
-### [Burdur](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Burdur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Burdur|Burdur]] 
 
-### [Burdur.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Burdur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Burdur.public|Burdur.public]] 
 
-### [Burdur.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Burdur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Burdur.internal|Burdur.internal]] 
 
-### [Burdur.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Burdur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Burdur.protect|Burdur.protect]] 
 
-### [Burdur.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Burdur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Burdur.private|Burdur.private]] 
 
-### [Burdur.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Burdur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Burdur.personal|Burdur.personal]] 
 
-### [Burdur.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Burdur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Burdur.secret|Burdur.secret]] 
 

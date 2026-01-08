@@ -40,17 +40,17 @@ markerFolder: ./Antalya/
 
 ## Confidential Links & Embeds: 
 
-### [Antalya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Antalya|Antalya]] 
 
-### [Antalya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Antalya.public|Antalya.public]] 
 
-### [Antalya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Antalya.internal|Antalya.internal]] 
 
-### [Antalya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Antalya.protect|Antalya.protect]] 
 
-### [Antalya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Antalya.private|Antalya.private]] 
 
-### [Antalya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Antalya.personal|Antalya.personal]] 
 
-### [Antalya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Antalya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Antalya.secret|Antalya.secret]] 
 

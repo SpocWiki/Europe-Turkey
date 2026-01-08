@@ -39,17 +39,17 @@ markerFolder: ./Mus/
 
 ## Confidential Links & Embeds: 
 
-### [Mus](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Mus|Mus]] 
 
-### [Mus.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Mus.public|Mus.public]] 
 
-### [Mus.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Mus.internal|Mus.internal]] 
 
-### [Mus.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Mus.protect|Mus.protect]] 
 
-### [Mus.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Mus.private|Mus.private]] 
 
-### [Mus.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Mus.personal|Mus.personal]] 
 
-### [Mus.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Mus.secret|Mus.secret]] 
 

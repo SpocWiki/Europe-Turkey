@@ -40,17 +40,17 @@ markerFolder: ./Elazig/
 
 ## Confidential Links & Embeds: 
 
-### [Elazig](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Elazig|Elazig]] 
 
-### [Elazig.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Elazig.public|Elazig.public]] 
 
-### [Elazig.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Elazig.internal|Elazig.internal]] 
 
-### [Elazig.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Elazig.protect|Elazig.protect]] 
 
-### [Elazig.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Elazig.private|Elazig.private]] 
 
-### [Elazig.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Elazig.personal|Elazig.personal]] 
 
-### [Elazig.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Elazig.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Elazig.secret|Elazig.secret]] 
 

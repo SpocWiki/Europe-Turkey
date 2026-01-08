@@ -40,17 +40,17 @@ markerFolder: ./Amasya/
 
 ## Confidential Links & Embeds: 
 
-### [Amasya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Amasya|Amasya]] 
 
-### [Amasya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Amasya.public|Amasya.public]] 
 
-### [Amasya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Amasya.internal|Amasya.internal]] 
 
-### [Amasya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Amasya.protect|Amasya.protect]] 
 
-### [Amasya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Amasya.private|Amasya.private]] 
 
-### [Amasya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Amasya.personal|Amasya.personal]] 
 
-### [Amasya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Amasya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Amasya.secret|Amasya.secret]] 
 

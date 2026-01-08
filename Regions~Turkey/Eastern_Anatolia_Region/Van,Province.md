@@ -62,17 +62,17 @@ markerFile: [[Van,Province]]
 
 ## Confidential Links & Embeds: 
 
-### [Van](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province|Van,Province]] 
 
-### [Van.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province.public|Van,Province.public]] 
 
-### [Van.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province.internal|Van,Province.internal]] 
 
-### [Van.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province.protect|Van,Province.protect]] 
 
-### [Van.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province.private|Van,Province.private]] 
 
-### [Van.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province.personal|Van,Province.personal]] 
 
-### [Van.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province.secret|Van,Province.secret]] 
 

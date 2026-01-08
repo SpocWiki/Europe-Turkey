@@ -40,17 +40,17 @@ markerFolder: ./Bolu/
 
 ## Confidential Links & Embeds: 
 
-### [Bolu](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bolu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bolu|Bolu]] 
 
-### [Bolu.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bolu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bolu.public|Bolu.public]] 
 
-### [Bolu.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bolu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bolu.internal|Bolu.internal]] 
 
-### [Bolu.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bolu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bolu.protect|Bolu.protect]] 
 
-### [Bolu.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bolu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bolu.private|Bolu.private]] 
 
-### [Bolu.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bolu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bolu.personal|Bolu.personal]] 
 
-### [Bolu.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bolu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bolu.secret|Bolu.secret]] 
 

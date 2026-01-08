@@ -40,17 +40,17 @@ markerFolder: ./Sirnak/
 
 ## Confidential Links & Embeds: 
 
-### [Sirnak](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sirnak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Sirnak|Sirnak]] 
 
-### [Sirnak.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sirnak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Sirnak.public|Sirnak.public]] 
 
-### [Sirnak.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sirnak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Sirnak.internal|Sirnak.internal]] 
 
-### [Sirnak.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sirnak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Sirnak.protect|Sirnak.protect]] 
 
-### [Sirnak.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sirnak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Sirnak.private|Sirnak.private]] 
 
-### [Sirnak.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sirnak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Sirnak.personal|Sirnak.personal]] 
 
-### [Sirnak.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sirnak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Sirnak.secret|Sirnak.secret]] 
 

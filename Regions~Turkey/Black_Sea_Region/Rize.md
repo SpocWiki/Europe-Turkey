@@ -40,17 +40,17 @@ markerFolder: ./Rize/
 
 ## Confidential Links & Embeds: 
 
-### [Rize](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Rize|Rize]] 
 
-### [Rize.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Rize.public|Rize.public]] 
 
-### [Rize.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Rize.internal|Rize.internal]] 
 
-### [Rize.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Rize.protect|Rize.protect]] 
 
-### [Rize.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Rize.private|Rize.private]] 
 
-### [Rize.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Rize.personal|Rize.personal]] 
 
-### [Rize.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Rize.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Rize.secret|Rize.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Erzincan/
 
 ## Confidential Links & Embeds: 
 
-### [Erzincan](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzincan|Erzincan]] 
 
-### [Erzincan.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzincan.public|Erzincan.public]] 
 
-### [Erzincan.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzincan.internal|Erzincan.internal]] 
 
-### [Erzincan.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzincan.protect|Erzincan.protect]] 
 
-### [Erzincan.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzincan.private|Erzincan.private]] 
 
-### [Erzincan.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzincan.personal|Erzincan.personal]] 
 
-### [Erzincan.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzincan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzincan.secret|Erzincan.secret]] 
 

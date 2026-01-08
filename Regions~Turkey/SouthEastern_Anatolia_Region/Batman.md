@@ -40,17 +40,17 @@ markerFolder: ./Batman/
 
 ## Confidential Links & Embeds: 
 
-### [Batman](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Batman|Batman]] 
 
-### [Batman.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Batman.public|Batman.public]] 
 
-### [Batman.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Batman.internal|Batman.internal]] 
 
-### [Batman.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Batman.protect|Batman.protect]] 
 
-### [Batman.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Batman.private|Batman.private]] 
 
-### [Batman.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Batman.personal|Batman.personal]] 
 
-### [Batman.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Batman.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Batman.secret|Batman.secret]] 
 

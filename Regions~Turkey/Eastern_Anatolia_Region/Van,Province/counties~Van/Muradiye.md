@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 32626
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 43.77
+dv_has_place_latitude: 38.98
+dv_name: Muradiye
+dv_Country: "[[../../../../../Russia]]"
 ---
 
 # [[Muradiye]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::43.77] 
-[has_place_latitude::38.98] 
-[name::Muradiye] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -51,17 +56,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muradiye](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van/City/Muradiye.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province/counties~Van/Muradiye|Muradiye]] 
 
-### [Muradiye.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van/City/Muradiye.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province/counties~Van/Muradiye.public|Muradiye.public]] 
 
-### [Muradiye.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van/City/Muradiye.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province/counties~Van/Muradiye.internal|Muradiye.internal]] 
 
-### [Muradiye.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van/City/Muradiye.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province/counties~Van/Muradiye.protect|Muradiye.protect]] 
 
-### [Muradiye.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van/City/Muradiye.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province/counties~Van/Muradiye.private|Muradiye.private]] 
 
-### [Muradiye.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van/City/Muradiye.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province/counties~Van/Muradiye.personal|Muradiye.personal]] 
 
-### [Muradiye.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Van/City/Muradiye.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Van,Province/counties~Van/Muradiye.secret|Muradiye.secret]] 
 

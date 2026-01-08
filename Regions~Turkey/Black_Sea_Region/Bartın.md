@@ -40,17 +40,17 @@ markerFolder: ./Bartın/
 
 ## Confidential Links & Embeds: 
 
-### [Bartın](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bartın|Bartın]] 
 
-### [Bartın.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bartın.public|Bartın.public]] 
 
-### [Bartın.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bartın.internal|Bartın.internal]] 
 
-### [Bartın.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bartın.protect|Bartın.protect]] 
 
-### [Bartın.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bartın.private|Bartın.private]] 
 
-### [Bartın.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bartın.personal|Bartın.personal]] 
 
-### [Bartın.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bartın.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Bartın.secret|Bartın.secret]] 
 

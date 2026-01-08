@@ -40,17 +40,17 @@ markerFolder: ./Düzce/
 
 ## Confidential Links & Embeds: 
 
-### [Düzce](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Düzce|Düzce]] 
 
-### [Düzce.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Düzce.public|Düzce.public]] 
 
-### [Düzce.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Düzce.internal|Düzce.internal]] 
 
-### [Düzce.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Düzce.protect|Düzce.protect]] 
 
-### [Düzce.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Düzce.private|Düzce.private]] 
 
-### [Düzce.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Düzce.personal|Düzce.personal]] 
 
-### [Düzce.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Düzce.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Düzce.secret|Düzce.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Mardin/
 
 ## Confidential Links & Embeds: 
 
-### [Mardin](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Mardin|Mardin]] 
 
-### [Mardin.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Mardin.public|Mardin.public]] 
 
-### [Mardin.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Mardin.internal|Mardin.internal]] 
 
-### [Mardin.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Mardin.protect|Mardin.protect]] 
 
-### [Mardin.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Mardin.private|Mardin.private]] 
 
-### [Mardin.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Mardin.personal|Mardin.personal]] 
 
-### [Mardin.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mardin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Mardin.secret|Mardin.secret]] 
 

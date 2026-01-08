@@ -40,17 +40,17 @@ markerFolder: ./Aksaray/
 
 ## Confidential Links & Embeds: 
 
-### [Aksaray](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aksaray.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Aksaray|Aksaray]] 
 
-### [Aksaray.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aksaray.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Aksaray.public|Aksaray.public]] 
 
-### [Aksaray.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aksaray.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Aksaray.internal|Aksaray.internal]] 
 
-### [Aksaray.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aksaray.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Aksaray.protect|Aksaray.protect]] 
 
-### [Aksaray.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aksaray.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Aksaray.private|Aksaray.private]] 
 
-### [Aksaray.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aksaray.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Aksaray.personal|Aksaray.personal]] 
 
-### [Aksaray.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aksaray.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Aksaray.secret|Aksaray.secret]] 
 

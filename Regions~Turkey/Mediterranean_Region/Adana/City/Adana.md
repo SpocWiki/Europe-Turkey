@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28666
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.3
+dv_has_place_latitude: 37.02
+dv_name: Adana
+dv_Country: "[[../../../../../Turkey]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.3] 
-[has_place_latitude::37.02] 
-[name::Adana] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Turkey]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Adana](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana/City/Adana|Adana]] 
 
-### [Adana.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana/City/Adana.public|Adana.public]] 
 
-### [Adana.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana/City/Adana.internal|Adana.internal]] 
 
-### [Adana.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana/City/Adana.protect|Adana.protect]] 
 
-### [Adana.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana/City/Adana.private|Adana.private]] 
 
-### [Adana.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana/City/Adana.personal|Adana.personal]] 
 
-### [Adana.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana/City/Adana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana/City/Adana.secret|Adana.secret]] 
 

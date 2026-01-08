@@ -40,17 +40,17 @@ markerFolder: ./Kocaeli/
 
 ## Confidential Links & Embeds: 
 
-### [Kocaeli](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kocaeli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kocaeli|Kocaeli]] 
 
-### [Kocaeli.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kocaeli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kocaeli.public|Kocaeli.public]] 
 
-### [Kocaeli.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kocaeli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kocaeli.internal|Kocaeli.internal]] 
 
-### [Kocaeli.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kocaeli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kocaeli.protect|Kocaeli.protect]] 
 
-### [Kocaeli.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kocaeli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kocaeli.private|Kocaeli.private]] 
 
-### [Kocaeli.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kocaeli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kocaeli.personal|Kocaeli.personal]] 
 
-### [Kocaeli.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kocaeli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kocaeli.secret|Kocaeli.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Aydin/
 
 ## Confidential Links & Embeds: 
 
-### [Aydin](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Aydin|Aydin]] 
 
-### [Aydin.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Aydin.public|Aydin.public]] 
 
-### [Aydin.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Aydin.internal|Aydin.internal]] 
 
-### [Aydin.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Aydin.protect|Aydin.protect]] 
 
-### [Aydin.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Aydin.private|Aydin.private]] 
 
-### [Aydin.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Aydin.personal|Aydin.personal]] 
 
-### [Aydin.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Aydin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Aydin.secret|Aydin.secret]] 
 

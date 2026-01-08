@@ -40,17 +40,17 @@ markerFolder: ./Karaman/
 
 ## Confidential Links & Embeds: 
 
-### [Karaman](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Karaman|Karaman]] 
 
-### [Karaman.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Karaman.public|Karaman.public]] 
 
-### [Karaman.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Karaman.internal|Karaman.internal]] 
 
-### [Karaman.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Karaman.protect|Karaman.protect]] 
 
-### [Karaman.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Karaman.private|Karaman.private]] 
 
-### [Karaman.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Karaman.personal|Karaman.personal]] 
 
-### [Karaman.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karaman.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Karaman.secret|Karaman.secret]] 
 

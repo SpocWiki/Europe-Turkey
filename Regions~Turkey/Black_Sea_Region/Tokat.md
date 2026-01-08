@@ -40,17 +40,17 @@ markerFolder: ./Tokat/
 
 ## Confidential Links & Embeds: 
 
-### [Tokat](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tokat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Tokat|Tokat]] 
 
-### [Tokat.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tokat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Tokat.public|Tokat.public]] 
 
-### [Tokat.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tokat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Tokat.internal|Tokat.internal]] 
 
-### [Tokat.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tokat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Tokat.protect|Tokat.protect]] 
 
-### [Tokat.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tokat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Tokat.private|Tokat.private]] 
 
-### [Tokat.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tokat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Tokat.personal|Tokat.personal]] 
 
-### [Tokat.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tokat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Tokat.secret|Tokat.secret]] 
 

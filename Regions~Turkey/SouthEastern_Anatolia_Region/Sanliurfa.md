@@ -40,17 +40,17 @@ markerFolder: ./Sanliurfa/
 
 ## Confidential Links & Embeds: 
 
-### [Sanliurfa](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Sanliurfa|Sanliurfa]] 
 
-### [Sanliurfa.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Sanliurfa.public|Sanliurfa.public]] 
 
-### [Sanliurfa.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Sanliurfa.internal|Sanliurfa.internal]] 
 
-### [Sanliurfa.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Sanliurfa.protect|Sanliurfa.protect]] 
 
-### [Sanliurfa.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Sanliurfa.private|Sanliurfa.private]] 
 
-### [Sanliurfa.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Sanliurfa.personal|Sanliurfa.personal]] 
 
-### [Sanliurfa.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sanliurfa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Sanliurfa.secret|Sanliurfa.secret]] 
 

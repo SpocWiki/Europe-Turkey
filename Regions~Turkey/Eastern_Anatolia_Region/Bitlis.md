@@ -40,17 +40,17 @@ markerFolder: ./Bitlis/
 
 ## Confidential Links & Embeds: 
 
-### [Bitlis](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis|Bitlis]] 
 
-### [Bitlis.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis.public|Bitlis.public]] 
 
-### [Bitlis.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis.internal|Bitlis.internal]] 
 
-### [Bitlis.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis.protect|Bitlis.protect]] 
 
-### [Bitlis.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis.private|Bitlis.private]] 
 
-### [Bitlis.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis.personal|Bitlis.personal]] 
 
-### [Bitlis.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bitlis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis.secret|Bitlis.secret]] 
 

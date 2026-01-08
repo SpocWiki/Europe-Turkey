@@ -40,17 +40,17 @@ markerFolder: ./Gaziantep/
 
 ## Confidential Links & Embeds: 
 
-### [Gaziantep](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Gaziantep|Gaziantep]] 
 
-### [Gaziantep.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Gaziantep.public|Gaziantep.public]] 
 
-### [Gaziantep.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Gaziantep.internal|Gaziantep.internal]] 
 
-### [Gaziantep.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Gaziantep.protect|Gaziantep.protect]] 
 
-### [Gaziantep.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Gaziantep.private|Gaziantep.private]] 
 
-### [Gaziantep.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Gaziantep.personal|Gaziantep.personal]] 
 
-### [Gaziantep.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gaziantep.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Gaziantep.secret|Gaziantep.secret]] 
 

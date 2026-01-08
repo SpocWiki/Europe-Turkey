@@ -40,17 +40,17 @@ markerFolder: ./Sinop/
 
 ## Confidential Links & Embeds: 
 
-### [Sinop](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Sinop|Sinop]] 
 
-### [Sinop.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Sinop.public|Sinop.public]] 
 
-### [Sinop.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Sinop.internal|Sinop.internal]] 
 
-### [Sinop.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Sinop.protect|Sinop.protect]] 
 
-### [Sinop.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Sinop.private|Sinop.private]] 
 
-### [Sinop.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Sinop.personal|Sinop.personal]] 
 
-### [Sinop.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sinop.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Sinop.secret|Sinop.secret]] 
 

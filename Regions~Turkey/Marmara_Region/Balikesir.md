@@ -40,17 +40,17 @@ markerFolder: ./Balikesir/
 
 ## Confidential Links & Embeds: 
 
-### [Balikesir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Balikesir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Balikesir|Balikesir]] 
 
-### [Balikesir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Balikesir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Balikesir.public|Balikesir.public]] 
 
-### [Balikesir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Balikesir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Balikesir.internal|Balikesir.internal]] 
 
-### [Balikesir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Balikesir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Balikesir.protect|Balikesir.protect]] 
 
-### [Balikesir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Balikesir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Balikesir.private|Balikesir.private]] 
 
-### [Balikesir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Balikesir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Balikesir.personal|Balikesir.personal]] 
 
-### [Balikesir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Balikesir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Balikesir.secret|Balikesir.secret]] 
 

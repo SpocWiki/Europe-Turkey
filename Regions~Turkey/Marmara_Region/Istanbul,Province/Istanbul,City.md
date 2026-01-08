@@ -1,4 +1,11 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.97
+dv_has_place_latitude: 41.03
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]]"
+
 has_time_started: 1453-06-07 
 aliases:
   - Byzanz
@@ -220,9 +227,9 @@ name: Eshanebul
 # [[Istanbul,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.97] 
-[has_place_latitude::41.03] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [name::Istanbul] 
 State ::  
 Country :: [[../../../../Turkey]]  
@@ -230,7 +237,7 @@ Country :: [[../../../../Turkey]]
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Istanbul,406|WD~Istanbul,406]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -292,19 +299,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Istanbul)
 
+
 ## Confidential Links & Embeds: 
 
-### [Istanbul](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul/City/Istanbul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City|Istanbul,City]] 
 
-### [Istanbul.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul/City/Istanbul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City.public|Istanbul,City.public]] 
 
-### [Istanbul.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul/City/Istanbul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City.internal|Istanbul,City.internal]] 
 
-### [Istanbul.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul/City/Istanbul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City.protect|Istanbul,City.protect]] 
 
-### [Istanbul.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul/City/Istanbul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City.private|Istanbul,City.private]] 
 
-### [Istanbul.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul/City/Istanbul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City.personal|Istanbul,City.personal]] 
 
-### [Istanbul.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul/City/Istanbul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City.secret|Istanbul,City.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Trabzon/
 
 ## Confidential Links & Embeds: 
 
-### [Trabzon](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Trabzon|Trabzon]] 
 
-### [Trabzon.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Trabzon.public|Trabzon.public]] 
 
-### [Trabzon.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Trabzon.internal|Trabzon.internal]] 
 
-### [Trabzon.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Trabzon.protect|Trabzon.protect]] 
 
-### [Trabzon.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Trabzon.private|Trabzon.private]] 
 
-### [Trabzon.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Trabzon.personal|Trabzon.personal]] 
 
-### [Trabzon.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Trabzon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Trabzon.secret|Trabzon.secret]] 
 

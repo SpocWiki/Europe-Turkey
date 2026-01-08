@@ -40,17 +40,17 @@ markerFolder: ./Karabük/
 
 ## Confidential Links & Embeds: 
 
-### [Karabük](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karabük.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Karabük|Karabük]] 
 
-### [Karabük.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karabük.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Karabük.public|Karabük.public]] 
 
-### [Karabük.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karabük.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Karabük.internal|Karabük.internal]] 
 
-### [Karabük.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karabük.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Karabük.protect|Karabük.protect]] 
 
-### [Karabük.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karabük.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Karabük.private|Karabük.private]] 
 
-### [Karabük.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karabük.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Karabük.personal|Karabük.personal]] 
 
-### [Karabük.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Karabük.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Karabük.secret|Karabük.secret]] 
 

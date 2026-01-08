@@ -40,17 +40,17 @@ markerFolder: ./Konya/
 
 ## Confidential Links & Embeds: 
 
-### [Konya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Konya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Konya|Konya]] 
 
-### [Konya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Konya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Konya.public|Konya.public]] 
 
-### [Konya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Konya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Konya.internal|Konya.internal]] 
 
-### [Konya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Konya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Konya.protect|Konya.protect]] 
 
-### [Konya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Konya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Konya.private|Konya.private]] 
 
-### [Konya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Konya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Konya.personal|Konya.personal]] 
 
-### [Konya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Konya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Konya.secret|Konya.secret]] 
 

@@ -5,31 +5,31 @@ aliases:
   - Bosporus Strait
 has_id_wikidata: Q35958
 different_from:
-  - '[[_Standards/WikiData/WD~Bosporan_Kingdom,321371]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Istanbul_Province,534799]]'
+  - "[[_Standards/WikiData/WD~Bosporan_Kingdom,321371]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Istanbul_Province,534799]]"
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
-heritage_designation: '[[_Standards/WikiData/WD~Important_Bird_Area,1139892]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
+heritage_designation: "[[_Standards/WikiData/WD~Important_Bird_Area,1139892]]"
 view: http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20asv2020-02%20img51%20Dolmabah%C3%A7e%20Palace.jpg
 coordinate_location: Point(29.08 41.12)
-country: '[[_Standards/WikiData/WD~Turkey,43]]'
+country: "[[_Standards/WikiData/WD~Turkey,43]]"
 continent:
-  - '[[_Standards/WikiData/WD~Europe,46]]'
-  - '[[_Standards/WikiData/WD~Asia,48]]'
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+  - "[[_Standards/WikiData/WD~Asia,48]]"
 part_of:
-  - '[[_Standards/WikiData/WD~Black_Sea,166]]'
-  - '[[_Standards/WikiData/WD~Sea_of_Marmara,35367]]'
+  - "[[_Standards/WikiData/WD~Black_Sea,166]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Marmara,35367]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~strait,37901]]'
+  - "[[_Standards/WikiData/WD~strait,37901]]"
 vertical_depth: 186
 length: 29.9
 BHCL_UUID:
@@ -39,14 +39,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20and%20Bospo
 native_label: İstanbul Boğazı
 U_S_National_Archives_Identifier: 10038195
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20asv2020-02%20img74%20Bosphorus%20Bridge%20BANNER.jpg
-P8189: 987007283829705171
+P8189: 987007283829705200
 Commons_gallery: Bosphorus
 Commons_category: Bosphorus
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Bosporus_Strait,35958|WD~Bosporus_Strait,35958]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Bosporus_Strait,35958|WD~Bosporus_Strait,35958]]"
 ---
 
 # [[Bosporus]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Bosporus_Strait,35958|WD~Bosporus_Strait,35958]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -67,4 +70,21 @@ Commons_category: Bosphorus
 > Sections of the shore of the Bosporus in Istanbul have been reinforced with concrete or rubble and those sections of the strait prone to deposition are periodically dredged.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bosporus) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Bosporus|Bosporus]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Bosporus.public|Bosporus.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Bosporus.internal|Bosporus.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Bosporus.protect|Bosporus.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Bosporus.private|Bosporus.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Bosporus.personal|Bosporus.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Bosporus.secret|Bosporus.secret]] 
 

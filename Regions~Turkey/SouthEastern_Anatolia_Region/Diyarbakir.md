@@ -40,17 +40,17 @@ markerFolder: ./Diyarbakir/
 
 ## Confidential Links & Embeds: 
 
-### [Diyarbakir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Diyarbakir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Diyarbakir|Diyarbakir]] 
 
-### [Diyarbakir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Diyarbakir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Diyarbakir.public|Diyarbakir.public]] 
 
-### [Diyarbakir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Diyarbakir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Diyarbakir.internal|Diyarbakir.internal]] 
 
-### [Diyarbakir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Diyarbakir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Diyarbakir.protect|Diyarbakir.protect]] 
 
-### [Diyarbakir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Diyarbakir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Diyarbakir.private|Diyarbakir.private]] 
 
-### [Diyarbakir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Diyarbakir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Diyarbakir.personal|Diyarbakir.personal]] 
 
-### [Diyarbakir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Diyarbakir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Diyarbakir.secret|Diyarbakir.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Hakkari/
 
 ## Confidential Links & Embeds: 
 
-### [Hakkari](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Hakkari|Hakkari]] 
 
-### [Hakkari.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Hakkari.public|Hakkari.public]] 
 
-### [Hakkari.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Hakkari.internal|Hakkari.internal]] 
 
-### [Hakkari.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Hakkari.protect|Hakkari.protect]] 
 
-### [Hakkari.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Hakkari.private|Hakkari.private]] 
 
-### [Hakkari.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Hakkari.personal|Hakkari.personal]] 
 
-### [Hakkari.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Hakkari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Hakkari.secret|Hakkari.secret]] 
 

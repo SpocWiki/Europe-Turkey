@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Mausoleum_of_Maussollos,45368|WD~Mausoleum_of_Maussollos,45368]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Mausoleum_of_Maussollos,45368|WD~Mausoleum_of_Maussollos,45368]]"
+
 has_time_stopped: 1494-01-01 
 aliases:
   - Mausoleum at Halicarnassus
@@ -48,7 +52,7 @@ dissolved_abolished_or_demolished_date: 1494-01-01T00:00:00Z
 
 # [[Mausoleum_of_Maussollos]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Mausoleum_of_Maussollos,45368|WD~Mausoleum_of_Maussollos,45368]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -68,4 +72,20 @@ dissolved_abolished_or_demolished_date: 1494-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mausoleum%20at%20Halicarnassus) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla/counties~Mugla/Bodrum/Mausoleum_of_Maussollos|Mausoleum_of_Maussollos]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla/counties~Mugla/Bodrum/Mausoleum_of_Maussollos.public|Mausoleum_of_Maussollos.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla/counties~Mugla/Bodrum/Mausoleum_of_Maussollos.internal|Mausoleum_of_Maussollos.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla/counties~Mugla/Bodrum/Mausoleum_of_Maussollos.protect|Mausoleum_of_Maussollos.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla/counties~Mugla/Bodrum/Mausoleum_of_Maussollos.private|Mausoleum_of_Maussollos.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla/counties~Mugla/Bodrum/Mausoleum_of_Maussollos.personal|Mausoleum_of_Maussollos.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla/counties~Mugla/Bodrum/Mausoleum_of_Maussollos.secret|Mausoleum_of_Maussollos.secret]] 
 

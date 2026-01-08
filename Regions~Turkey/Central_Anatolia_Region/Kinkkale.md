@@ -40,17 +40,17 @@ markerFolder: ./Kinkkale/
 
 ## Confidential Links & Embeds: 
 
-### [Kinkkale](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kinkkale|Kinkkale]] 
 
-### [Kinkkale.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kinkkale.public|Kinkkale.public]] 
 
-### [Kinkkale.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kinkkale.internal|Kinkkale.internal]] 
 
-### [Kinkkale.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kinkkale.protect|Kinkkale.protect]] 
 
-### [Kinkkale.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kinkkale.private|Kinkkale.private]] 
 
-### [Kinkkale.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kinkkale.personal|Kinkkale.personal]] 
 
-### [Kinkkale.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kinkkale.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Kinkkale.secret|Kinkkale.secret]] 
 

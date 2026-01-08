@@ -11,31 +11,31 @@ location:
   - 38.633333333
   - 42.816666666
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Van_Province,80550]]'
-  - '[[_Standards/WikiData/WD~Bitlis_Province,83239]]'
+  - "[[_Standards/WikiData/WD~Van_Province,80550]]"
+  - "[[_Standards/WikiData/WD~Bitlis_Province,83239]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~salt_lake,188025]]'
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~tectonic_lake,3511952]]'
-  - '[[_Standards/WikiData/WD~soda_lake,11349558]]'
-different_from: '[[_Standards/WikiData/WD~Q295051,295051]]'
+  - "[[_Standards/WikiData/WD~salt_lake,188025]]"
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~tectonic_lake,3511952]]"
+  - "[[_Standards/WikiData/WD~soda_lake,11349558]]"
+different_from: "[[_Standards/WikiData/WD~Q295051,295051]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Dictionary_of_Place_Names_in_Armenia_and_Adjacent_Areas,18400705]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~Dictionary_of_Place_Names_in_Armenia_and_Adjacent_Areas,18400705]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 inflows:
-  - '[[_Standards/WikiData/WD~Hoşap_Suyu,3141685]]'
-  - '[[_Standards/WikiData/WD~Delicav,13050776]]'
-  - '[[_Standards/WikiData/WD~Ankyusner,21209757]]'
-  - '[[_Standards/WikiData/WD~Artske,21209984]]'
-  - '[[_Standards/WikiData/WD~Artshesh,21210001]]'
-  - '[[_Standards/WikiData/WD~Berkri,21210289]]'
-  - '[[_Standards/WikiData/WD~Garala,21589180]]'
-  - '[[_Standards/WikiData/WD~Gayl,21696411]]'
-basin_country: '[[_Standards/WikiData/WD~Turkey,43]]'
-country: '[[_Standards/WikiData/WD~Turkey,43]]'
+  - "[[_Standards/WikiData/WD~Hoşap_Suyu,3141685]]"
+  - "[[_Standards/WikiData/WD~Delicav,13050776]]"
+  - "[[_Standards/WikiData/WD~Ankyusner,21209757]]"
+  - "[[_Standards/WikiData/WD~Artske,21209984]]"
+  - "[[_Standards/WikiData/WD~Artshesh,21210001]]"
+  - "[[_Standards/WikiData/WD~Berkri,21210289]]"
+  - "[[_Standards/WikiData/WD~Garala,21589180]]"
+  - "[[_Standards/WikiData/WD~Gayl,21696411]]"
+basin_country: "[[_Standards/WikiData/WD~Turkey,43]]"
+country: "[[_Standards/WikiData/WD~Turkey,43]]"
 width: 80
 length: 120
 salinity: 23
@@ -49,11 +49,14 @@ perimeter: 5764
 coordinate_location: Point(42.816666666 38.633333333)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lakevanlandsat.jpeg
 Commons_category: Lake Van
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Lake_Van,126307|WD~Lake_Van,126307]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Lake_Van,126307|WD~Lake_Van,126307]]"
 ---
 
 # [[Lake_Van]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Lake_Van,126307|WD~Lake_Van,126307]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -90,4 +93,21 @@ markerFile: [[Lake_Van]]
 > high salinity usually prevents it from freezing; the shallow northern section can freeze, but rarely.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Van) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis/Lake_Van|Lake_Van]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis/Lake_Van.public|Lake_Van.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis/Lake_Van.internal|Lake_Van.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis/Lake_Van.protect|Lake_Van.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis/Lake_Van.private|Lake_Van.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis/Lake_Van.personal|Lake_Van.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bitlis/Lake_Van.secret|Lake_Van.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Isparta/
 
 ## Confidential Links & Embeds: 
 
-### [Isparta](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Isparta|Isparta]] 
 
-### [Isparta.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Isparta.public|Isparta.public]] 
 
-### [Isparta.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Isparta.internal|Isparta.internal]] 
 
-### [Isparta.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Isparta.protect|Isparta.protect]] 
 
-### [Isparta.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Isparta.private|Isparta.private]] 
 
-### [Isparta.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Isparta.personal|Isparta.personal]] 
 
-### [Isparta.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Isparta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Isparta.secret|Isparta.secret]] 
 

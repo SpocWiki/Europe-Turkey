@@ -40,17 +40,17 @@ markerFolder: ./Kirklareli/
 
 ## Confidential Links & Embeds: 
 
-### [Kirklareli](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirklareli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kirklareli|Kirklareli]] 
 
-### [Kirklareli.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirklareli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kirklareli.public|Kirklareli.public]] 
 
-### [Kirklareli.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirklareli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kirklareli.internal|Kirklareli.internal]] 
 
-### [Kirklareli.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirklareli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kirklareli.protect|Kirklareli.protect]] 
 
-### [Kirklareli.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirklareli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kirklareli.private|Kirklareli.private]] 
 
-### [Kirklareli.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirklareli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kirklareli.personal|Kirklareli.personal]] 
 
-### [Kirklareli.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kirklareli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Kirklareli.secret|Kirklareli.secret]] 
 

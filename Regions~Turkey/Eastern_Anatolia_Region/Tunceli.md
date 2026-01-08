@@ -40,17 +40,17 @@ markerFolder: ./Tunceli/
 
 ## Confidential Links & Embeds: 
 
-### [Tunceli](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Tunceli|Tunceli]] 
 
-### [Tunceli.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Tunceli.public|Tunceli.public]] 
 
-### [Tunceli.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Tunceli.internal|Tunceli.internal]] 
 
-### [Tunceli.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Tunceli.protect|Tunceli.protect]] 
 
-### [Tunceli.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Tunceli.private|Tunceli.private]] 
 
-### [Tunceli.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Tunceli.personal|Tunceli.personal]] 
 
-### [Tunceli.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Tunceli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Tunceli.secret|Tunceli.secret]] 
 

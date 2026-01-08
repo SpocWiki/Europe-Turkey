@@ -40,17 +40,17 @@ markerFolder: ./Mugla/
 
 ## Confidential Links & Embeds: 
 
-### [Mugla](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla|Mugla]] 
 
-### [Mugla.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla.public|Mugla.public]] 
 
-### [Mugla.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla.internal|Mugla.internal]] 
 
-### [Mugla.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla.protect|Mugla.protect]] 
 
-### [Mugla.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla.private|Mugla.private]] 
 
-### [Mugla.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla.personal|Mugla.personal]] 
 
-### [Mugla.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mugla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Mugla.secret|Mugla.secret]] 
 

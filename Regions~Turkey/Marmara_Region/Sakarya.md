@@ -40,17 +40,17 @@ markerFolder: ./Sakarya/
 
 ## Confidential Links & Embeds: 
 
-### [Sakarya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Sakarya|Sakarya]] 
 
-### [Sakarya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Sakarya.public|Sakarya.public]] 
 
-### [Sakarya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Sakarya.internal|Sakarya.internal]] 
 
-### [Sakarya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Sakarya.protect|Sakarya.protect]] 
 
-### [Sakarya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Sakarya.private|Sakarya.private]] 
 
-### [Sakarya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Sakarya.personal|Sakarya.personal]] 
 
-### [Sakarya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Sakarya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Sakarya.secret|Sakarya.secret]] 
 

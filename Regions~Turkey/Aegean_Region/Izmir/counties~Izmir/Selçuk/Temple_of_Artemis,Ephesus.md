@@ -10,29 +10,29 @@ location:
   - 27.363889
 coordinate_location: Point(27.363889 37.949722)
 inception: -0322-01-01T00:00:00Z
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Aegean_Region,155564]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Aegean_Region,155564]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~ancient_Greek_temple,267596]]'
-  - '[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]'
-  - '[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]'
-  - '[[_Standards/WikiData/WD~temple,44539]]'
-architectural_style: '[[_Standards/WikiData/WD~ancient_Greek_architecture,331273]]'
+  - "[[_Standards/WikiData/WD~ancient_Greek_temple,267596]]"
+  - "[[_Standards/WikiData/WD~Wonder_of_the_Ancient_World,66108498]]"
+  - "[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]"
+  - "[[_Standards/WikiData/WD~temple,44539]]"
+architectural_style: "[[_Standards/WikiData/WD~ancient_Greek_architecture,331273]]"
 part_of:
-  - '[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]'
-  - '[[_Standards/WikiData/WD~Ephesus,64699469]]'
-  - '[[_Standards/WikiData/WD~Artemision_(Ephesus),104629988]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Selçuk,876176]]'
+  - "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]"
+  - "[[_Standards/WikiData/WD~Ephesus,64699469]]"
+  - "[[_Standards/WikiData/WD~Artemision_(Ephesus),104629988]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Selçuk,876176]]"
 architect:
-  - '[[_Standards/WikiData/WD~Chersiphron,1070392]]'
-  - '[[_Standards/WikiData/WD~Paeonius_of_Ephesus,9058133]]'
-dedicated_to: '[[_Standards/WikiData/WD~Artemis_of_Ephesus,10858700]]'
-heritage_designation: '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
-state_of_conservation: '[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]'
-state_of_use: '[[_Standards/WikiData/WD~permanently_closed,104664889]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_Archaeological_excavations_in_Ephesos,127699306]]'
-country: '[[_Standards/WikiData/WD~Turkey,43]]'
-locations: '[[_Standards/WikiData/WD~Ephesus,47611]]'
+  - "[[_Standards/WikiData/WD~Chersiphron,1070392]]"
+  - "[[_Standards/WikiData/WD~Paeonius_of_Ephesus,9058133]]"
+dedicated_to: "[[_Standards/WikiData/WD~Artemis_of_Ephesus,10858700]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+state_of_conservation: "[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]"
+state_of_use: "[[_Standards/WikiData/WD~permanently_closed,104664889]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_Archaeological_excavations_in_Ephesos,127699306]]"
+country: "[[_Standards/WikiData/WD~Turkey,43]]"
+locations: "[[_Standards/WikiData/WD~Ephesus,47611]]"
 area: 45.82
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ephesos.jpg
@@ -40,11 +40,14 @@ image:
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/HRAM_ARTEMIDI_V_EFESE.html
 Commons_category: Temple of Artemis
 native_label: Ναός της Αρτέμιδος
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Temple_of_Ephesian_Artemis,43018]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Temple_of_Ephesian_Artemis,43018]]"
 ---
 
 # [[Temple_of_Artemis,Ephesus]] 
 
-#is_/same_as :: [[WD~Temple_of_Ephesian_Artemis,43018]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -80,4 +83,20 @@ native_label: Ναός της Αρτέμιδος
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Temple%20of%20Artemis) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir/counties~Izmir/Selçuk/Temple_of_Artemis,Ephesus|Temple_of_Artemis,Ephesus]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir/counties~Izmir/Selçuk/Temple_of_Artemis,Ephesus.public|Temple_of_Artemis,Ephesus.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir/counties~Izmir/Selçuk/Temple_of_Artemis,Ephesus.internal|Temple_of_Artemis,Ephesus.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir/counties~Izmir/Selçuk/Temple_of_Artemis,Ephesus.protect|Temple_of_Artemis,Ephesus.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir/counties~Izmir/Selçuk/Temple_of_Artemis,Ephesus.private|Temple_of_Artemis,Ephesus.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir/counties~Izmir/Selçuk/Temple_of_Artemis,Ephesus.personal|Temple_of_Artemis,Ephesus.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir/counties~Izmir/Selçuk/Temple_of_Artemis,Ephesus.secret|Temple_of_Artemis,Ephesus.secret]] 
 

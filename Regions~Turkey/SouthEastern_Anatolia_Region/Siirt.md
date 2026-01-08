@@ -40,17 +40,17 @@ markerFolder: ./Siirt/
 
 ## Confidential Links & Embeds: 
 
-### [Siirt](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Siirt|Siirt]] 
 
-### [Siirt.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Siirt.public|Siirt.public]] 
 
-### [Siirt.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Siirt.internal|Siirt.internal]] 
 
-### [Siirt.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Siirt.protect|Siirt.protect]] 
 
-### [Siirt.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Siirt.private|Siirt.private]] 
 
-### [Siirt.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Siirt.personal|Siirt.personal]] 
 
-### [Siirt.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Siirt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Siirt.secret|Siirt.secret]] 
 

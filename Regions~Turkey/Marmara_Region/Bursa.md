@@ -40,17 +40,17 @@ markerFolder: ./Bursa/
 
 ## Confidential Links & Embeds: 
 
-### [Bursa](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bursa|Bursa]] 
 
-### [Bursa.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bursa.public|Bursa.public]] 
 
-### [Bursa.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bursa.internal|Bursa.internal]] 
 
-### [Bursa.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bursa.protect|Bursa.protect]] 
 
-### [Bursa.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bursa.private|Bursa.private]] 
 
-### [Bursa.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bursa.personal|Bursa.personal]] 
 
-### [Bursa.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bursa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Bursa.secret|Bursa.secret]] 
 

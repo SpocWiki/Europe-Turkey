@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Troy,22647|WD~Troy,22647]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Troy,22647|WD~Troy,22647]]"
+
 has_time_stopped: 0500-01-01 
 aliases:
 has_id_wikidata: Q22647
@@ -56,7 +60,7 @@ Krugosvet_article_archived_: istoriya/TROYA.html
 
 # [[Troy]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Troy,22647|WD~Troy,22647]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -77,4 +81,21 @@ Krugosvet_article_archived_: istoriya/TROYA.html
 > The site was excavated by Heinrich Schliemann and Frank Calvert starting in 1871. Under the ruins of the classical city, they found the remains of numerous earlier settlements. Several of these layers resemble literary depictions of Troy, leading some scholars to conclude that there is a kernel of truth underlying the legends. Subsequent excavations by others have added to the modern understanding of the site, though the exact relationship between myth and reality remains unclear and there is no definitive evidence for a Greek attack on the city.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Troy) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale/counties~Çanakkale/Merkez/Troy|Troy]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale/counties~Çanakkale/Merkez/Troy.public|Troy.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale/counties~Çanakkale/Merkez/Troy.internal|Troy.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale/counties~Çanakkale/Merkez/Troy.protect|Troy.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale/counties~Çanakkale/Merkez/Troy.private|Troy.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale/counties~Çanakkale/Merkez/Troy.personal|Troy.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Çanakkale/counties~Çanakkale/Merkez/Troy.secret|Troy.secret]] 
 

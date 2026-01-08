@@ -40,17 +40,17 @@ markerFolder: ./Iğdir/
 
 ## Confidential Links & Embeds: 
 
-### [Iğdir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Iğdir|Iğdir]] 
 
-### [Iğdir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Iğdir.public|Iğdir.public]] 
 
-### [Iğdir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Iğdir.internal|Iğdir.internal]] 
 
-### [Iğdir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Iğdir.protect|Iğdir.protect]] 
 
-### [Iğdir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Iğdir.private|Iğdir.private]] 
 
-### [Iğdir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Iğdir.personal|Iğdir.personal]] 
 
-### [Iğdir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Iğdir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Iğdir.secret|Iğdir.secret]] 
 

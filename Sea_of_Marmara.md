@@ -39,11 +39,14 @@ Libris_URI: 1zcfd73k4xb9fvj
 Commons_category: Sea of Marmara
 native_label: Marmara Denizi
 coordinate_location: Point(28.0 40.75)
+dv_is_:
+  same_as: "[[WD~Sea_of_Marmara,35367]]"
+dv_is_same_as: "[[WD~Sea_of_Marmara,35367]]"
 ---
 
 # [[Sea_of_Marmara]] 
 
-#is_/same_as :: [[WD~Sea_of_Marmara,35367]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -57,4 +60,21 @@ coordinate_location: Point(28.0 40.75)
 > Its greatest depth is 1,370 m (4,490 ft).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20of%20Marmara) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Sea_of_Marmara|Sea_of_Marmara]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Sea_of_Marmara.public|Sea_of_Marmara.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Sea_of_Marmara.internal|Sea_of_Marmara.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Sea_of_Marmara.protect|Sea_of_Marmara.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Sea_of_Marmara.private|Sea_of_Marmara.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Sea_of_Marmara.personal|Sea_of_Marmara.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Sea_of_Marmara.secret|Sea_of_Marmara.secret]] 
 

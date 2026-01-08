@@ -40,17 +40,17 @@ markerFolder: ./Adiyaman/
 
 ## Confidential Links & Embeds: 
 
-### [Adiyaman](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Adiyaman|Adiyaman]] 
 
-### [Adiyaman.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Adiyaman.public|Adiyaman.public]] 
 
-### [Adiyaman.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Adiyaman.internal|Adiyaman.internal]] 
 
-### [Adiyaman.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Adiyaman.protect|Adiyaman.protect]] 
 
-### [Adiyaman.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Adiyaman.private|Adiyaman.private]] 
 
-### [Adiyaman.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Adiyaman.personal|Adiyaman.personal]] 
 
-### [Adiyaman.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adiyaman.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/SouthEastern_Anatolia_Region/Adiyaman.secret|Adiyaman.secret]] 
 

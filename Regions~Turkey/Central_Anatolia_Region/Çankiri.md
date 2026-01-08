@@ -40,17 +40,17 @@ markerFolder: ./Çankiri/
 
 ## Confidential Links & Embeds: 
 
-### [Çankiri](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Çankiri|Çankiri]] 
 
-### [Çankiri.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Çankiri.public|Çankiri.public]] 
 
-### [Çankiri.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Çankiri.internal|Çankiri.internal]] 
 
-### [Çankiri.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Çankiri.protect|Çankiri.protect]] 
 
-### [Çankiri.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Çankiri.private|Çankiri.private]] 
 
-### [Çankiri.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Çankiri.personal|Çankiri.personal]] 
 
-### [Çankiri.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Çankiri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Çankiri.secret|Çankiri.secret]] 
 

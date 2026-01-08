@@ -40,17 +40,17 @@ markerFolder: ./Malatya/
 
 ## Confidential Links & Embeds: 
 
-### [Malatya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Malatya|Malatya]] 
 
-### [Malatya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Malatya.public|Malatya.public]] 
 
-### [Malatya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Malatya.internal|Malatya.internal]] 
 
-### [Malatya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Malatya.protect|Malatya.protect]] 
 
-### [Malatya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Malatya.private|Malatya.private]] 
 
-### [Malatya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Malatya.personal|Malatya.personal]] 
 
-### [Malatya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Malatya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Malatya.secret|Malatya.secret]] 
 

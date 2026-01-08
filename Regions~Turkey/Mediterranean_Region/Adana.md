@@ -40,17 +40,17 @@ markerFolder: ./Adana/
 
 ## Confidential Links & Embeds: 
 
-### [Adana](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana|Adana]] 
 
-### [Adana.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana.public|Adana.public]] 
 
-### [Adana.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana.internal|Adana.internal]] 
 
-### [Adana.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana.protect|Adana.protect]] 
 
-### [Adana.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana.private|Adana.private]] 
 
-### [Adana.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana.personal|Adana.personal]] 
 
-### [Adana.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Adana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Adana.secret|Adana.secret]] 
 

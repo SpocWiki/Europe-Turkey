@@ -40,17 +40,17 @@ markerFolder: ./Kütahya/
 
 ## Confidential Links & Embeds: 
 
-### [Kütahya](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kütahya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Kütahya|Kütahya]] 
 
-### [Kütahya.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kütahya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Kütahya.public|Kütahya.public]] 
 
-### [Kütahya.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kütahya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Kütahya.internal|Kütahya.internal]] 
 
-### [Kütahya.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kütahya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Kütahya.protect|Kütahya.protect]] 
 
-### [Kütahya.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kütahya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Kütahya.private|Kütahya.private]] 
 
-### [Kütahya.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kütahya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Kütahya.personal|Kütahya.personal]] 
 
-### [Kütahya.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Kütahya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Kütahya.secret|Kütahya.secret]] 
 

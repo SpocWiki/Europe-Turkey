@@ -20,16 +20,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~İzmir,35997]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~İzmir,35997]]"
 ---
 
 # [[Izmir]] 
 
-#is_/same_as :: [[WD~İzmir,35997]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -45,17 +48,17 @@ markerFolder: ./Izmir/
 
 ## Confidential Links & Embeds: 
 
-### [Izmir](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Izmir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir|Izmir]] 
 
-### [Izmir.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Izmir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir.public|Izmir.public]] 
 
-### [Izmir.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Izmir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir.internal|Izmir.internal]] 
 
-### [Izmir.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Izmir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir.protect|Izmir.protect]] 
 
-### [Izmir.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Izmir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir.private|Izmir.private]] 
 
-### [Izmir.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Izmir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir.personal|Izmir.personal]] 
 
-### [Izmir.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Izmir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Izmir.secret|Izmir.secret]] 
 

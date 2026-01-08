@@ -40,17 +40,17 @@ markerFolder: ./Mersin/
 
 ## Confidential Links & Embeds: 
 
-### [Mersin](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Mersin|Mersin]] 
 
-### [Mersin.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Mersin.public|Mersin.public]] 
 
-### [Mersin.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Mersin.internal|Mersin.internal]] 
 
-### [Mersin.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Mersin.protect|Mersin.protect]] 
 
-### [Mersin.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Mersin.private|Mersin.private]] 
 
-### [Mersin.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Mersin.personal|Mersin.personal]] 
 
-### [Mersin.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Mersin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Mediterranean_Region/Mersin.secret|Mersin.secret]] 
 

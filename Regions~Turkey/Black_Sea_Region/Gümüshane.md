@@ -40,17 +40,17 @@ markerFolder: ./Gümüshane/
 
 ## Confidential Links & Embeds: 
 
-### [Gümüshane](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Gümüshane|Gümüshane]] 
 
-### [Gümüshane.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Gümüshane.public|Gümüshane.public]] 
 
-### [Gümüshane.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Gümüshane.internal|Gümüshane.internal]] 
 
-### [Gümüshane.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Gümüshane.protect|Gümüshane.protect]] 
 
-### [Gümüshane.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Gümüshane.private|Gümüshane.private]] 
 
-### [Gümüshane.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Gümüshane.personal|Gümüshane.personal]] 
 
-### [Gümüshane.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Gümüshane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Gümüshane.secret|Gümüshane.secret]] 
 

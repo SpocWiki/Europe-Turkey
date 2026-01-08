@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1453-06-07 
 aliases:
   - Istanbul
@@ -237,17 +237,17 @@ markerFile: [[Istanbul,Province]]
 
 ## Confidential Links & Embeds: 
 
-### [Istanbul](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province|Istanbul,Province]] 
 
-### [Istanbul.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province.public|Istanbul,Province.public]] 
 
-### [Istanbul.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province.internal|Istanbul,Province.internal]] 
 
-### [Istanbul.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province.protect|Istanbul,Province.protect]] 
 
-### [Istanbul.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province.private|Istanbul,Province.private]] 
 
-### [Istanbul.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province.personal|Istanbul,Province.personal]] 
 
-### [Istanbul.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Istanbul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province.secret|Istanbul,Province.secret]] 
 

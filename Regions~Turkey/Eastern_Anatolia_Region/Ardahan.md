@@ -40,17 +40,17 @@ markerFolder: ./Ardahan/
 
 ## Confidential Links & Embeds: 
 
-### [Ardahan](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Ardahan|Ardahan]] 
 
-### [Ardahan.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Ardahan.public|Ardahan.public]] 
 
-### [Ardahan.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Ardahan.internal|Ardahan.internal]] 
 
-### [Ardahan.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Ardahan.protect|Ardahan.protect]] 
 
-### [Ardahan.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Ardahan.private|Ardahan.private]] 
 
-### [Ardahan.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Ardahan.personal|Ardahan.personal]] 
 
-### [Ardahan.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Ardahan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Ardahan.secret|Ardahan.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Topkapı_Palace,170495]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Topkapı_Palace,170495]]"
+
 has_time_started: 1460-01-01 
 aliases:
   - Topkapı_Palace
@@ -60,7 +64,7 @@ Commons_gallery: Topkapı Sarayı
 
 # [[Topkapi_Palace]] 
 
-#is_/same_as :: [[WD~Topkapı_Palace,170495]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -96,4 +100,21 @@ Commons_gallery: Topkapı Sarayı
 > Turkey's Ministry of Culture and Tourism now administers the Topkapı Palace Museum. The palace complex has hundreds of rooms and chambers, but only the most important are accessible to the public as of 2020, including the Ottoman Imperial Harem and the treasury, called hazine where the Spoonmaker's Diamond and the Topkapi Dagger are on display. The museum collection also includes Ottoman clothing, weapons, armor, miniatures, religious relics, and illuminated manuscripts such as the Topkapi manuscript. Officials of the ministry as well as armed guards of the Turkish military guard the complex. The Topkapı Palace forms a part the Historic Areas of Istanbul, a group of sites in Istanbul that UNESCO recognised as a World Heritage Site in 1985.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Topkap%C4%B1%20Palace) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City/Topkapi_Palace|Topkapi_Palace]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City/Topkapi_Palace.public|Topkapi_Palace.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City/Topkapi_Palace.internal|Topkapi_Palace.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City/Topkapi_Palace.protect|Topkapi_Palace.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City/Topkapi_Palace.private|Topkapi_Palace.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City/Topkapi_Palace.personal|Topkapi_Palace.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province/Istanbul,City/Topkapi_Palace.secret|Topkapi_Palace.secret]] 
 

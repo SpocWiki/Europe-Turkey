@@ -40,17 +40,17 @@ markerFolder: ./Yozgat/
 
 ## Confidential Links & Embeds: 
 
-### [Yozgat](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Yozgat|Yozgat]] 
 
-### [Yozgat.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Yozgat.public|Yozgat.public]] 
 
-### [Yozgat.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Yozgat.internal|Yozgat.internal]] 
 
-### [Yozgat.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Yozgat.protect|Yozgat.protect]] 
 
-### [Yozgat.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Yozgat.private|Yozgat.private]] 
 
-### [Yozgat.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Yozgat.personal|Yozgat.personal]] 
 
-### [Yozgat.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Yozgat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Central_Anatolia_Region/Yozgat.secret|Yozgat.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Bingöl/
 
 ## Confidential Links & Embeds: 
 
-### [Bingöl](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bingöl|Bingöl]] 
 
-### [Bingöl.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bingöl.public|Bingöl.public]] 
 
-### [Bingöl.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bingöl.internal|Bingöl.internal]] 
 
-### [Bingöl.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bingöl.protect|Bingöl.protect]] 
 
-### [Bingöl.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bingöl.private|Bingöl.private]] 
 
-### [Bingöl.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bingöl.personal|Bingöl.personal]] 
 
-### [Bingöl.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Bingöl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Bingöl.secret|Bingöl.secret]] 
 

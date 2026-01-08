@@ -40,17 +40,17 @@ markerFolder: ./Erzurum/
 
 ## Confidential Links & Embeds: 
 
-### [Erzurum](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzurum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzurum|Erzurum]] 
 
-### [Erzurum.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzurum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzurum.public|Erzurum.public]] 
 
-### [Erzurum.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzurum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzurum.internal|Erzurum.internal]] 
 
-### [Erzurum.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzurum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzurum.protect|Erzurum.protect]] 
 
-### [Erzurum.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzurum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzurum.private|Erzurum.private]] 
 
-### [Erzurum.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzurum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzurum.personal|Erzurum.personal]] 
 
-### [Erzurum.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Erzurum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Eastern_Anatolia_Region/Erzurum.secret|Erzurum.secret]] 
 

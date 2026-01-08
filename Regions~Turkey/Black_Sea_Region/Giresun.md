@@ -40,17 +40,17 @@ markerFolder: ./Giresun/
 
 ## Confidential Links & Embeds: 
 
-### [Giresun](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Giresun|Giresun]] 
 
-### [Giresun.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Giresun.public|Giresun.public]] 
 
-### [Giresun.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Giresun.internal|Giresun.internal]] 
 
-### [Giresun.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Giresun.protect|Giresun.protect]] 
 
-### [Giresun.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Giresun.private|Giresun.private]] 
 
-### [Giresun.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Giresun.personal|Giresun.personal]] 
 
-### [Giresun.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Giresun.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Black_Sea_Region/Giresun.secret|Giresun.secret]] 
 

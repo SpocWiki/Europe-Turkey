@@ -40,17 +40,17 @@ markerFolder: ./Usak/
 
 ## Confidential Links & Embeds: 
 
-### [Usak](/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Usak|Usak]] 
 
-### [Usak.public](/_public/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Usak.public|Usak.public]] 
 
-### [Usak.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Usak.internal|Usak.internal]] 
 
-### [Usak.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Usak.protect|Usak.protect]] 
 
-### [Usak.private](/_private/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Usak.private|Usak.private]] 
 
-### [Usak.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Usak.personal|Usak.personal]] 
 
-### [Usak.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey/Provinces~Turkey/Usak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/Regions~Turkey/Aegean_Region/Usak.secret|Usak.secret]] 
 
