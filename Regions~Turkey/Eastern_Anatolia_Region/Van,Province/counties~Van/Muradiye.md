@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.77
 dv_has_place_latitude: 38.98
-dv_name: Muradiye
+dv_has_name_: Muradiye
 dv_Country: "[[../../../../../Russia]]"
 ---
 

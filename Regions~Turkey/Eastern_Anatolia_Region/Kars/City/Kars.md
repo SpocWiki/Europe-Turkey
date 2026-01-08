@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 43.08
 dv_has_place_latitude: 40.62
-dv_name: Kars
+dv_has_name_: Kars
 dv_Country: "[[../../../../../Russia]]"
 ---
 #is_a_/Place  

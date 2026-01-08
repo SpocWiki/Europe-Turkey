@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 32.84
 dv_has_place_latitude: 39.92
-dv_name: Ankara
+dv_has_name_: Ankara
 dv_Country: "[[../../../../../Turkey]]"
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Ankara,3640|WD~Ankara,3640]]"

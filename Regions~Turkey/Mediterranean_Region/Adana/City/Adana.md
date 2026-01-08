@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 35.3
 dv_has_place_latitude: 37.02
-dv_name: Adana
+dv_has_name_: Adana
 dv_Country: "[[../../../../../Turkey]]"
 ---
 #is_a_/Place  
