@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"TUR","country":"Turkey","id":"99?","name":null},
-"geometry":{"type": "Polygon","coordinates": [[[33.78761,36.1815,0.0],[33.78126,36.17874,0.0],[33.77801,36.17369,0.0],[33.78761,36.1815,0.0]]]}}
+{"type": "Feature","id": "99?","bbox": [33.77801,36.17369,33.78761,36.1815],"geometry": {"type": "Polygon","coordinates": [[[33.78761,36.1815,0.0],[33.78126,36.17874,0.0],[33.77801,36.17369,0.0],[33.78761,36.1815,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "TUR","country": "Turkey","name": null,"area_km2": 0.08557037,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 0.08557037}}}
