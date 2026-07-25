@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 土耳其共和国
 dv_UNTERM_French_Formal: la République turque
 dv_UNTERM_Russian: Турция
 dv_UNTERM_Russian_Formal: Турецкая Республика
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Turkey]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -52,7 +52,7 @@ dv_ISO2: TR
 dv_ISO3: TUR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]'
+  - '[[../../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]]'
   - '[[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]]'
@@ -446,17 +446,17 @@ dv_has_:
 dv_has_name_de: Türkei
 dv_Area-Total: 779452
 dv_Area-Land: 769630
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: TR
-dv_Capital: '[[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province|Istanbul,Province]]'
+dv_Capital: '[[Regions~Turkey/Marmara_Region/Istanbul,Province|Istanbul,Province]]'
 dv_Alcohol-l: 2.9
 dv_Language-Id: 456
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 32.37
 dv_has_place_latitude: 39.3233
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[../../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]]'
 - '[[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]]'
@@ -753,7 +753,7 @@ contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Balıkesir_Province,47117|WD~Balıkesir_Province,47117]]'
 - '[[/_Standards/WikiData/WD~Çanakkale_Province,47813|WD~Çanakkale_Province,47813]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -920,7 +920,7 @@ anthem: '[[/_Standards/WikiData/WD~İstiklâl_Marşı,344452|WD~İstiklâl_Marş
 economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Turkey,431095|WD~economy_of_Turkey,431095]]'
 central_bank: '[[/_Standards/WikiData/WD~Central_Bank_of_the_Republic_of_Turkey,580829|WD~Central_Bank_of_the_Republic_of_Turkey,580829]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 - '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -1292,7 +1292,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Turkey/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1312,7 +1312,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Turkey_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1340,7 +1340,7 @@ Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Turkey.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Turkey.mp3|Anthem-Turkey.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Turkey.mp3|Anthem-Turkey.mp3]]
 
 ![[Flag_of_Turkey.svg|350]]
 
