@@ -1,42 +1,4 @@
 ---
-aliases:
-  - Turkey
-  - Turquía
-  - Turquie
-  - تركيا
-  - 土耳其
-  - Турция
-  - the Republic of Turkey
-  - la República de Turquía
-  - ReadMe
-location:
-  - 39.3233
-  - 32.37
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 27039
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Turkey
-linkTitle: ""
-keywords: ""
-layout: ""
-draft: false
-publishDate: ""
-expiryDate: ""
-Languages:
-  - tr-TR
-  - ku
-  - diq
-  - az
-  - av
 dv_ISO4217-currency_alphabetic: TRY
 dv_ISO4217-currency_name: Turkish Lira
 dv_ISO4217-currency_numeric: 949
@@ -65,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 土耳其共和国
 dv_UNTERM_French_Formal: la République turque
 dv_UNTERM_Russian: Турция
 dv_UNTERM_Russian_Formal: Турецкая Республика
-dv_Region_Name: "[[../../../Asia]]"
-dv_Intermediate_Region_Name: "[[ReadMe]]"
-dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Intermediate_Region_Name: '[[Turkey]]'
+dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
 dv_Sub-region: 145
 dv_Geoname-ID: 298795
@@ -88,133 +50,1338 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 792
 dv_ISO2: TR
 dv_ISO3: TUR
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~East/Turkey.private|Turkey.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]]'
+dv_has_:
+  name_:
+    ab: Ҭырқәтәыла
+    ace: Tureuki
+    ady: Тыркуе
+    aeb_arab: تركيا
+    af: Turkye
+    alt: Türkiye
+    am: ቱርክ
+    ami: Turkey
+    an: Turquía
+    ang: Turcland
+    ann: Türkiye
+    anp: तुर्की
+    apc: تركيا
+    ar: تركيا
+    arc: ܛܘܪܩܝܐ
+    arq: تركيا
+    ary: توركيا
+    arz: توركيا
+    as: তুৰস্ক
+    ast: Turquía
+    atj: Turkia
+    av: Турция
+    avk: Turka
+    awa: टर्की
+    ay: Turkiya
+    az: Türkiyə
+    azb: تورکیه
+    ba: Төркиә
+    ban: Turki
+    bar: Tiakei
+    bbc: Turki
+    bcl: Turkiya
+    bdr: Türkiye
+    be: Турцыя
+    be_tarask: Турэччына
+    bew: Turki
+    bg: Турция
+    bgn: تورکیه
+    bho: तुर्की
+    bi: Turkey
+    bjn: Turki
+    blk: တူရကီခမ်းထီ
+    bm: Türkiye
+    bn: তুরস্ক
+    bo: ཏུར་ཀི།
+    bpy: তুরস্ক
+    br: Turkia
+    brh: Turkí
+    bs: Turska
+    btm: Turki
+    bug: Turki
+    bxr: Турк
+    ca: Turquia
+    cbk_zam: Turquía
+    cdo: Tū-ī-gì
+    ce: Туркойчоь
+    ceb: Turkiya
+    ch: Turkey
+    chr: ᎬᏂᏱ
+    chy: Turkey
+    ckb: تورکیا
+    co: Turchia
+    cr: ᑐᕒᑭ
+    crh: Türkiye
+    crh_latn: Türkiye
+    crh-ro: Túrkiye
+    cs: Turecko
+    csb: Tëreckô
+    cu: Тѷрци
+    cv: Турци
+    cy: Twrci
+    da: Tyrkiet
+    dag: Turkey
+    de: Türkei
+    de-at: Türkei
+    de_ch: Türkei
+    dga: Türkiye
+    din: Turkia
+    diq: Tırkiya
+    dsb: Turkojska
+    dtp: Turki
+    dty: टर्की
+    dv: ތުރުކީވިލާތް
+    dz: Turkey
+    ee: Turkey
+    el: Τουρκία
+    eml: Turchî
+    en: Turkey
+    en_ca: Turkey
+    en_gb: Turkey
+    en-us: Turkey
+    eo: Turkio
+    es: Turquía
+    et: Türgi
+    eu: Turkia
+    ext: Turquia
+    fa: ترکیه
+    ff: Türkiye
+    fi: Turkki
+    fj: Turkey
+    fo: Turkaland
+    fon: Türkiye
+    fr: Turquie
+    frp: Turquie
+    frr: Türkei
+    fur: Turchie
+    fy: Turkije
+    ga: an Tuirc
+    gag: Türkiye
+    gan: 土耳其
+    gcr: Tirki
+    gd: An Tuirc
+    gl: Turquía
+    glk: تۊرکيه
+    gn: Tuykia
+    gom: तुर्की
+    gom-deva: तुर्की
+    gom_latn: Turkey
+    gor: Turki
+    got: "\U00010344\U00010345\U00010342\U0001033A\U0001033E\U00010330"
+    gpe: Turkey
+    gsw: Türkei
+    gu: તુર્કસ્તાન
+    guc: Türkiye
+    gur: Türkiye
+    guw: Türkiye
+    gv: y Turkee
+    ha: Turkiyya
+    hak: Thú-ngí-khì
+    haw: Tureke
+    he: טורקיה
+    hi: तुर्की
+    hif: Turkey
+    hr: Turska
+    hsb: Turkowska
+    ht: Tiki
+    hu: Törökország
+    hy: Թուրքիա
+    hyw: Թուրքիա
+    ia: Turchia
+    iba: Turki
+    id: Turki
+    ie: Turcia
+    ig: Turkéy
+    igl: Türkiye
+    ik: Turkey
+    ilo: Turkia
+    inh: Туркий мохк
+    io: Turkia
+    is: Tyrkland
+    it: Turchia
+    iu: ᑑᕐᑭ
+    ja: トルコ
+    jam: Torki
+    jbo: turk
+    jv: Turki
+    ka: თურქეთი
+    kaa: Túrkiya
+    kab: Tturk
+    kbd: Тырку
+    kbp: Tuurkii
+    kcg: Turkiya
+    kea: Turkia
+    kg: Turki
+    kge: Turki
+    ki: Turkey
+    kk: Түркия
+    kl: Tyrkia
+    km: តួកគី
+    kn: ಟರ್ಕಿ
+    knc: Turkey
+    ko: 튀르키예
+    koi: Тюркия
+    ko-kp: 뛰르끼예
+    krc: Тюрк
+    krj: Turkiya
+    ks: تُرکی
+    ksh: Türkei
+    ku: Tirkiye
+    ku_latn: Tirkiye
+    kv: Турция
+    kw: Turki
+    ky: Түркия
+    la: Turcia
+    lad: Turkiya
+    lb: Tierkei
+    lbe: Туркия
+    lez: Туьркия
+    lfn: Turcia
+    lg: Buturuki
+    li: Turkije
+    lij: Turchia
+    liv: Tirkmō
+    lld: Turchia
+    lmo: Türchia
+    ln: Turkí
+    lo: ປະເທດຕຸຣກີ
+    lrc: ترکیه
+    lt: Turkija
+    ltg: Turceja
+    lv: Turcija
+    lzh: 土耳其
+    mad: Turki
+    mai: टर्की
+    map_bms: Turki
+    mdf: Туркия
+    mg: Torkia
+    mhr: Турций
+    mi: Tākei
+    min: Turki
+    mk: Турција
+    ml: തുർക്കി
+    mn: Турк
+    mni: ꯇꯔꯀꯤ
+    mo: Турчия
+    mos: Turkey
+    mr: तुर्कस्तान
+    mrj: Турци
+    ms: Turki
+    ms_arab: تورکي
+    mt: Turkija
+    mwl: Turquie
+    my: တူရကီနိုင်ငံ
+    myv: Турция Мастор
+    mzn: تورکیه
+    na: Terki
+    nah: Turquia
+    nan: Thó͘-ní-kî
+    nap: Turchia
+    nb: Tyrkia
+    nds: Törkie
+    nds_nl: Turkije
+    ne: तुर्की
+    new: टर्की
+    ng: Turkey
+    nia: Turki
+    nl: Turkije
+    nn: Tyrkia
+    nov: Turkia
+    nqo: ߕߙߎߞߌ߫
+    nr: Türkiye
+    nrm: Turtchie
+    nso: Turkey
+    nv: Tʼóok Bikéyah
+    ny: Turkey
+    oc: Turquia
+    olo: Turtsii
+    om: Tarkii
+    or: ତୁର୍କୀ
+    os: Турк
+    ota: تركیه
+    pa: ਤੁਰਕੀ
+    pag: Turkiyo
+    pam: Turkiya
+    pap: Turkia
+    pcd: Turkie
+    pcm: Turkey
+    pdc: Turkie
+    pfl: Turkije
+    pi: तुर्किये
+    pih: Turkii
+    pl: Turcja
+    pms: Turchìa
+    pnb: ترکی
+    pnt: Τουρκία
+    ps: تورکيه
+    pt: Turquia
+    pt_br: Turquia
+    qu: Turkiya
+    rm: Tirchia
+    rmy: Turkiya
+    rn: Turukiya
+    ro: Turcia
+    roa-tara: Turchie
+    rsk: Турска
+    ru: Турция
+    rue: Турція
+    rup: Turchia
+    rw: Turukiya
+    sa: तुर्की
+    sah: Түркийэ
+    sat: ᱛᱩᱨᱠᱤ
+    sc: Turkia
+    scn: Turchìa
+    sco: Turkey
+    sd: ترڪي
+    se: Durka
+    sg: Turukïi
+    sgs: Torkėjė
+    sh: Turska
+    shi: Turkya
+    shn: မိူင်းၽိၼ်ႇလၢၼ
+    si: තුර්කිය
+    sk: Turecko
+    skr: ترکی
+    sl: Turčija
+    sm: Take
+    smn: Turkki
+    sms: Turkk
+    sn: Turkey
+    so: Turki
+    sq: Turqia
+    sr: Турска
+    sr_ec: Турска
+    sr_el: Turska
+    srn: Turkiyakondre
+    ss: IThekhi
+    st: Türkiye
+    stq: Turkäi
+    su: Turki
+    sv: Turkiet
+    sw: Uturuki
+    syl: ꠔꠥꠞ꠆ꠇꠤ
+    szl: Turcyjo
+    szy: Turkey
+    ta: துருக்கி
+    tay: Turkey
+    tcy: ಟರ್ಕಿ
+    te: టర్కీ
+    tet: Turkia
+    tg: Туркия
+    tg_cyrl: Туркия
+    th: ประเทศตุรกี
+    ti: ቱርኪ
+    tig: ቱርኪየ
+    tk: Türkiýe
+    tl: Turkiya
+    tly: Tyrkijə
+    tn: Turkey
+    to: Toake
+    tok: ma Tuki
+    tpi: Teki
+    tr: Türkiye
+    trv: Turkey
+    ts: Turkey
+    tt: Төркия
+    tt_cyrl: Төркия
+    tt_latn: Törkiä
+    tum: Turkey
+    tw: Turkey
+    ty: Turiti
+    tyv: Турция
+    udm: Турция
+    ug: تۈركىيە جۇمھۇرىيىتى
+    ug_arab: تۈركىيە جۇمھۇرىيىتى
+    ug_latn: Türkiye
+    uk: Туреччина
+    ur: ترکیہ
+    uz: Turkiya
+    ve: Turkey
+    vec: Turchia
+    vep: Turkanma
+    vi: Thổ Nhĩ Kỳ
+    vls: Turkeye
+    vo: Türkän
+    vro: Türgü
+    wa: Tourkeye
+    war: Turkeya
+    wo: Tirki
+    wuu: 土耳其
+    xal: Түргүдин Орн
+    xh: ITurkiya
+    xmf: თურქეთი
+    yi: טערקיי
+    yo: Túrkì
+    yue: 土耳其
+    za: Dujwjgiz
+    zea: Turkije
+    zgh: ⵜⵓⵔⴽⵢⴰ
+    zh: 土耳其
+    zh_cn: 土耳其
+    zh_hans: 土耳其
+    zh_hant: 土耳其
+    zh_hk: 土耳其
+    zh_mo: 土耳其
+    zh-my: 土耳其
+    zh_sg: 土耳其
+    zh_tw: 土耳其
+    zu: ITheki
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Turkey
 dv_has_name_de: Türkei
 dv_Area-Total: 779452
 dv_Area-Land: 769630
-dv_Continent: "[[../../../Europe]]"
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: TR
-dv_Capital: "[[Regions~Turkey/Marmara_Region/Istanbul,Province]]"
+dv_Capital: '[[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province|Istanbul,Province]]'
 dv_Alcohol-l: 2.9
 dv_Language-Id: 456
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 32.37
 dv_has_place_latitude: 39.3233
 dv_developed_developing_countries: Developing
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]]'
+- '[[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~East/Turkey.private|Turkey.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]]'
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Turkey
+aliases:
+- an Tuirc
+- Buturuki
+- Dujwjgiz
+- Durka
+- IThekhi
+- ITheki
+- ITurkiya
+- la República de Turquía
+- ma Tuki
+- Take
+- Tarkii
+- Teki
+- Terki
+- the Republic of Turkey
+- Thó͘-ní-kî
+- Thú-ngí-khì
+- Thổ Nhĩ Kỳ
+- Tiakei
+- Tierkei
+- Tiki
+- Tirchia
+- Tirki
+- Tirkiye
+- Tirkmō
+- Toake
+- Torki
+- Torkia
+- Torkėjė
+- Tourkeye
+- Tturk
+- Turceja
+- Turchia
+- Turchie
+- Turchìa
+- Turchî
+- Turcia
+- Turcija
+- Turcja
+- Turcland
+- Turcyjo
+- Turecko
+- Tureke
+- Tureuki
+- Turiti
+- turk
+- Turka
+- Turkaland
+- Turkanma
+- Turkey
+- Turkeya
+- Turkeye
+- Turki
+- Turkia
+- Turkie
+- Turkiet
+- Turkii
+- Turkija
+- Turkije
+- Turkio
+- Turkiya
+- Turkiyakondre
+- Turkiyo
+- Turkiyya
+- Turkk
+- Turkki
+- Turkojska
+- Turkowska
+- Turkya
+- Turkye
+- Turkäi
+- Turkéy
+- Turkí
+- Turqia
+- Turquia
+- Turquie
+- Turquía
+- Turska
+- Turtchie
+- Turtsii
+- Turukiya
+- Turukïi
+- Turčija
+- Tuurkii
+- Tuykia
+- Twrci
+- Tyrkia
+- Tyrkiet
+- Tyrkijə
+- Tyrkland
+- Tëreckô
+- Törkie
+- Törkiä
+- Törökország
+- Túrkiya
+- Túrkiye
+- Túrkì
+- Türchia
+- Türgi
+- Türgü
+- Türkei
+- Türkiye
+- Türkiyə
+- Türkiýe
+- Türkän
+- Tākei
+- Tırkiya
+- Tū-ī-gì
+- Tʼóok Bikéyah
+- Uturuki
+- y Turkee
+- Τουρκία
+- Туреччина
+- Турк
+- Туркий мохк
+- Туркия
+- Туркойчоь
+- Турска
+- Турція
+- Турци
+- Турција
+- Турций
+- Турция
+- Турция Мастор
+- Турцыя
+- Турчия
+- Турэччына
+- Туьркия
+- Тырку
+- Тыркуе
+- Тюрк
+- Тюркия
+- Тѷрци
+- Түргүдин Орн
+- Түркийэ
+- Түркия
+- Төркия
+- Төркиә
+- Ҭырқәтәыла
+- Թուրքիա
+- טורקיה
+- טערקיי
+- تركيا
+- تركیه
+- ترکی
+- ترکیه
+- ترکیہ
+- ترڪي
+- توركيا
+- تورکي
+- تورکيه
+- تورکیا
+- تورکیه
+- تُرکی
+- تۈركىيە جۇمھۇرىيىتى
+- تۊرکيه
+- ܛܘܪܩܝܐ
+- ތުރުކީވިލާތް
+- ߕߙߎߞߌ߫
+- टर्की
+- तुर्कस्तान
+- तुर्किये
+- तुर्की
+- তুরস্ক
+- তুৰস্ক
+- ਤੁਰਕੀ
+- તુર્કસ્તાન
+- ତୁର୍କୀ
+- துருக்கி
+- టర్కీ
+- ಟರ್ಕಿ
+- തുർക്കി
+- තුර්කිය
+- ประเทศตุรกี
+- ປະເທດຕຸຣກີ
+- ཏུར་ཀི།
+- တူရကီခမ်းထီ
+- တူရကီနိုင်ငံ
+- မိူင်းၽိၼ်ႇလၢၼ
+- თურქეთი
+- ቱርኪ
+- ቱርኪየ
+- ቱርክ
+- ᎬᏂᏱ
+- ᑐᕒᑭ
+- ᑑᕐᑭ
+- តួកគី
+- ᱛᱩᱨᱠᱤ
+- ⵜⵓⵔⴽⵢⴰ
+- トルコ
+- 土耳其
+- ꠔꠥꠞ꠆ꠇꠤ
+- ꯇꯔꯀꯤ
+- 뛰르끼예
+- 튀르키예
+- "\U00010344\U00010345\U00010342\U0001033A\U0001033E\U00010330"
+has_id_wikidata: Q43
+highest_point: '[[/_Standards/WikiData/WD~Mount_Ararat,72303|WD~Mount_Ararat,72303]]'
+part_of:
+- '[[/_Standards/WikiData/WD~Mediterranean_Basin,72499|WD~Mediterranean_Basin,72499]]'
+- '[[/_Standards/WikiData/WD~Black_Sea_Basin,12299139|WD~Black_Sea_Basin,12299139]]'
+- '[[/_Standards/WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]'
+- '[[/_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
+- '[[/_Standards/WikiData/WD~Balkans,23522|WD~Balkans,23522]]'
+- '[[/_Standards/WikiData/WD~West_Asia,27293|WD~West_Asia,27293]]'
+contains_the_administrative_territorial_entity:
+- '[[/_Standards/WikiData/WD~Yozgat_Province,75445|WD~Yozgat_Province,75445]]'
+- '[[/_Standards/WikiData/WD~Bingöl_Province,79760|WD~Bingöl_Province,79760]]'
+- '[[/_Standards/WikiData/WD~Ardahan_Province,79840|WD~Ardahan_Province,79840]]'
+- '[[/_Standards/WikiData/WD~Aydın_Province,79846|WD~Aydın_Province,79846]]'
+- '[[/_Standards/WikiData/WD~Amasya_Province,80036|WD~Amasya_Province,80036]]'
+- '[[/_Standards/WikiData/WD~Ağrı_Province,80051|WD~Ağrı_Province,80051]]'
+- '[[/_Standards/WikiData/WD~Burdur_Province,80088|WD~Burdur_Province,80088]]'
+- '[[/_Standards/WikiData/WD~Batman_Province,80370|WD~Batman_Province,80370]]'
+- '[[/_Standards/WikiData/WD~Van_Province,80550|WD~Van_Province,80550]]'
+- '[[/_Standards/WikiData/WD~Konya_Province,81551|WD~Konya_Province,81551]]'
+- '[[/_Standards/WikiData/WD~Bolu_Province,82089|WD~Bolu_Province,82089]]'
+- '[[/_Standards/WikiData/WD~Denizli_Province,82096|WD~Denizli_Province,82096]]'
+- '[[/_Standards/WikiData/WD~Sakarya_Province,83069|WD~Sakarya_Province,83069]]'
+- '[[/_Standards/WikiData/WD~Aksaray_Province,83073|WD~Aksaray_Province,83073]]'
+- '[[/_Standards/WikiData/WD~Kars_Province,83077|WD~Kars_Province,83077]]'
+- '[[/_Standards/WikiData/WD~Diyarbakır_Province,83081|WD~Diyarbakır_Province,83081]]'
+- '[[/_Standards/WikiData/WD~Edirne_Province,83102|WD~Edirne_Province,83102]]'
+- '[[/_Standards/WikiData/WD~Bitlis_Province,83239|WD~Bitlis_Province,83239]]'
+- '[[/_Standards/WikiData/WD~Hatay_Province,83274|WD~Hatay_Province,83274]]'
+- '[[/_Standards/WikiData/WD~Bartın_Province,83342|WD~Bartın_Province,83342]]'
+- '[[/_Standards/WikiData/WD~Kocaeli_Province,83965|WD~Kocaeli_Province,83965]]'
+- '[[/_Standards/WikiData/WD~Hakkâri_Province,93209|WD~Hakkâri_Province,93209]]'
+- '[[/_Standards/WikiData/WD~Muğla_Province,123934|WD~Muğla_Province,123934]]'
+- '[[/_Standards/WikiData/WD~Iğdır_Province,125506|WD~Iğdır_Province,125506]]'
+- '[[/_Standards/WikiData/WD~Kütahya_Province,126874|WD~Kütahya_Province,126874]]'
+- '[[/_Standards/WikiData/WD~Kilis_Province,128978|WD~Kilis_Province,128978]]'
+- '[[/_Standards/WikiData/WD~Tekirdağ_Province,129387|WD~Tekirdağ_Province,129387]]'
+- '[[/_Standards/WikiData/WD~Manisa_Province,130553|WD~Manisa_Province,130553]]'
+- '[[/_Standards/WikiData/WD~Mardin_Province,131293|WD~Mardin_Province,131293]]'
+- '[[/_Standards/WikiData/WD~Muş_Province,131387|WD~Muş_Province,131387]]'
+- '[[/_Standards/WikiData/WD~Malatya_Province,131384|WD~Malatya_Province,131384]]'
+- '[[/_Standards/WikiData/WD~Kırklareli_Province,131597|WD~Kırklareli_Province,131597]]'
+- '[[/_Standards/WikiData/WD~Mersin_Province,132637|WD~Mersin_Province,132637]]'
+- '[[/_Standards/WikiData/WD~Kırşehir_Province,134187|WD~Kırşehir_Province,134187]]'
+- '[[/_Standards/WikiData/WD~Sinop_Province,134413|WD~Sinop_Province,134413]]'
+- '[[/_Standards/WikiData/WD~Niğde_Province,155219|WD~Niğde_Province,155219]]'
+- '[[/_Standards/WikiData/WD~Zonguldak_Province,219956|WD~Zonguldak_Province,219956]]'
+- '[[/_Standards/WikiData/WD~Isparta_Province,268043|WD~Isparta_Province,268043]]'
+- '[[/_Standards/WikiData/WD~Çankırı_Province,272662|WD~Çankırı_Province,272662]]'
+- '[[/_Standards/WikiData/WD~Çorum_Province,272947|WD~Çorum_Province,272947]]'
+- '[[/_Standards/WikiData/WD~Osmaniye_Province,281206|WD~Osmaniye_Province,281206]]'
+- '[[/_Standards/WikiData/WD~İzmir_Province,344490|WD~İzmir_Province,344490]]'
+- '[[/_Standards/WikiData/WD~Erzurum_Province,376797|WD~Erzurum_Province,376797]]'
+- '[[/_Standards/WikiData/WD~Şanlıurfa_Province,388469|WD~Şanlıurfa_Province,388469]]'
+- '[[/_Standards/WikiData/WD~Trabzon_Province,388995|WD~Trabzon_Province,388995]]'
+- '[[/_Standards/WikiData/WD~Nevşehir_Province,430693|WD~Nevşehir_Province,430693]]'
+- '[[/_Standards/WikiData/WD~Düzce_Province,432391|WD~Düzce_Province,432391]]'
+- '[[/_Standards/WikiData/WD~Giresun_Province,482779|WD~Giresun_Province,482779]]'
+- '[[/_Standards/WikiData/WD~Gümüşhane_Province,482788|WD~Gümüşhane_Province,482788]]'
+- '[[/_Standards/WikiData/WD~Siirt_Province,482825|WD~Siirt_Province,482825]]'
+- '[[/_Standards/WikiData/WD~Kahramanmaraş_Province,482834|WD~Kahramanmaraş_Province,482834]]'
+- '[[/_Standards/WikiData/WD~Karaman_Province,482975|WD~Karaman_Province,482975]]'
+- '[[/_Standards/WikiData/WD~Samsun_Province,483040|WD~Samsun_Province,483040]]'
+- '[[/_Standards/WikiData/WD~Eskişehir_Province,483053|WD~Eskişehir_Province,483053]]'
+- '[[/_Standards/WikiData/WD~Bayburt_Province,483063|WD~Bayburt_Province,483063]]'
+- '[[/_Standards/WikiData/WD~Uşak_Province,483078|WD~Uşak_Province,483078]]'
+- '[[/_Standards/WikiData/WD~Yalova_Province,483083|WD~Yalova_Province,483083]]'
+- '[[/_Standards/WikiData/WD~Elazığ_Province,483091|WD~Elazığ_Province,483091]]'
+- '[[/_Standards/WikiData/WD~Sivas_Province,483100|WD~Sivas_Province,483100]]'
+- '[[/_Standards/WikiData/WD~Gaziantep_Province,483154|WD~Gaziantep_Province,483154]]'
+- '[[/_Standards/WikiData/WD~Karabük_Province,483168|WD~Karabük_Province,483168]]'
+- '[[/_Standards/WikiData/WD~Erzincan_Province,483173|WD~Erzincan_Province,483173]]'
+- '[[/_Standards/WikiData/WD~Ordu_Province,483180|WD~Ordu_Province,483180]]'
+- '[[/_Standards/WikiData/WD~Kastamonu_Province,483191|WD~Kastamonu_Province,483191]]'
+- '[[/_Standards/WikiData/WD~Tokat_Province,483195|WD~Tokat_Province,483195]]'
+- '[[/_Standards/WikiData/WD~Kayseri_Province,483472|WD~Kayseri_Province,483472]]'
+- '[[/_Standards/WikiData/WD~Rize_Province,483481|WD~Rize_Province,483481]]'
+- '[[/_Standards/WikiData/WD~Kırıkkale_Province,484392|WD~Kırıkkale_Province,484392]]'
+- '[[/_Standards/WikiData/WD~Istanbul_Province,534799|WD~Istanbul_Province,534799]]'
+- '[[/_Standards/WikiData/WD~Tunceli_Province,620742|WD~Tunceli_Province,620742]]'
+- '[[/_Standards/WikiData/WD~Şırnak_Province,647378|WD~Şırnak_Province,647378]]'
+- '[[/_Standards/WikiData/WD~Ankara_Province,2297724|WD~Ankara_Province,2297724]]'
+- '[[/_Standards/WikiData/WD~Antalya_Province,40249|WD~Antalya_Province,40249]]'
+- '[[/_Standards/WikiData/WD~Adana_Province,40549|WD~Adana_Province,40549]]'
+- '[[/_Standards/WikiData/WD~Bursa_Province,43690|WD~Bursa_Province,43690]]'
+- '[[/_Standards/WikiData/WD~Artvin_Province,43745|WD~Artvin_Province,43745]]'
+- '[[/_Standards/WikiData/WD~Adıyaman_Province,43924|WD~Adıyaman_Province,43924]]'
+- '[[/_Standards/WikiData/WD~Afyonkarahisar_Province,45220|WD~Afyonkarahisar_Province,45220]]'
+- '[[/_Standards/WikiData/WD~Bilecik_Province,46763|WD~Bilecik_Province,46763]]'
+- '[[/_Standards/WikiData/WD~Balıkesir_Province,47117|WD~Balıkesir_Province,47117]]'
+- '[[/_Standards/WikiData/WD~Çanakkale_Province,47813|WD~Çanakkale_Province,47813]]'
+member_of:
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[/_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
+- '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[/_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[/_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340|WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]'
+- '[[/_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535|WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[/_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496|WD~International_Centre_for_Migration_Policy_Development,498496]]'
+- '[[/_Standards/WikiData/WD~Organization_of_Turkic_States,596850|WD~Organization_of_Turkic_States,596850]]'
+- '[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[/_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[/_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]'
+- '[[/_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]'
+- '[[/_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[/_Standards/WikiData/WD~MIKTA,865479|WD~MIKTA,865479]]'
+- '[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[/_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]'
+- '[[/_Standards/WikiData/WD~European_Payments_Union,1377612|WD~European_Payments_Union,1377612]]'
+- '[[/_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[/_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537|WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[/_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]'
+- '[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[/_Standards/WikiData/WD~G20,19771|WD~G20,19771]]'
+- '[[/_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[/_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
+flag: '[[/_Standards/WikiData/WD~flag_of_Turkey,81952|WD~flag_of_Turkey,81952]]'
+ethnic_group:
+- '[[/_Standards/WikiData/WD~Turks,84072|WD~Turks,84072]]'
+- '[[/_Standards/WikiData/WD~Kurds,12223|WD~Kurds,12223]]'
+diplomatic_relation:
+- '[[/_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]'
+- '[[/_Standards/WikiData/WD~Palestine,219060|WD~Palestine,219060]]'
+- '[[/_Standards/WikiData/WD~Republic_of_Abkhazia,31354462|WD~Republic_of_Abkhazia,31354462]]'
+- '[[/_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[/_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[/_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[/_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[/_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[/_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[/_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[/_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+- '[[/_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[/_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
+- '[[/_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]'
+- '[[/_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]'
+- '[[/_Standards/WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
+- '[[/_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[/_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[/_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[/_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
+- '[[/_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]'
+- '[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[/_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+- '[[/_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
+- '[[/_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[/_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
+- '[[/_Standards/WikiData/WD~Tunisia,948|WD~Tunisia,948]]'
+- '[[/_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+- '[[/_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+- '[[/_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
+- '[[/_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[/_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+- '[[/_Standards/WikiData/WD~Northern_Cyprus,23681|WD~Northern_Cyprus,23681]]'
+- '[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[/_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[/_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[/_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[/_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
+- '[[/_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[/_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[/_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[/_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[/_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[/_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[/_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[/_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
+- '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[/_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[/_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[/_Standards/WikiData/WD~Romania,218|WD~Romania,218]]'
+- '[[/_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[/_Standards/WikiData/WD~Albania,222|WD~Albania,222]]'
+- '[[/_Standards/WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]'
+- '[[/_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[/_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]'
+- '[[/_Standards/WikiData/WD~Bosnia_and_Herzegovina,225|WD~Bosnia_and_Herzegovina,225]]'
+- '[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[/_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
+- '[[/_Standards/WikiData/WD~Malta,233|WD~Malta,233]]'
+- '[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+owner_of:
+- '[[/_Standards/WikiData/WD~Topkapı_Palace,170495|WD~Topkapı_Palace,170495]]'
+- '[[/_Standards/WikiData/WD~Atatürk_Olympic_Stadium,221122|WD~Atatürk_Olympic_Stadium,221122]]'
+- '[[/_Standards/WikiData/WD~Turkish_State_Railways,499967|WD~Turkish_State_Railways,499967]]'
+- '[[/_Standards/WikiData/WD~Ankara_19_Mayıs_Stadium,556417|WD~Ankara_19_Mayıs_Stadium,556417]]'
+- '[[/_Standards/WikiData/WD~Uluburun_shipwreck,573852|WD~Uluburun_shipwreck,573852]]'
+- '[[/_Standards/WikiData/WD~Hôtel_de_Lamballe,1643115|WD~Hôtel_de_Lamballe,1643115]]'
+- '[[/_Standards/WikiData/WD~Edirne_Palace,6092391|WD~Edirne_Palace,6092391]]'
+- '[[/_Standards/WikiData/WD~Presidential_Palace_of_Turkey,18324962|WD~Presidential_Palace_of_Turkey,18324962]]'
+- '[[/_Standards/WikiData/WD~TCDD_Taşımacılık,28220824|WD~TCDD_Taşımacılık,28220824]]'
+- '[[/_Standards/WikiData/WD~Olba_Aqueduct,30621554|WD~Olba_Aqueduct,30621554]]'
+- '[[/_Standards/WikiData/WD~Presidential_Complex_of_Turkey,40894456|WD~Presidential_Complex_of_Turkey,40894456]]'
+- '[[/_Standards/WikiData/WD~Mechanical_and_Chemical_Industry_Corporation,56884|WD~Mechanical_and_Chemical_Industry_Corporation,56884]]'
+basic_form_of_government:
+- '[[/_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]'
+- '[[/_Standards/WikiData/WD~presidential_system,49892|WD~presidential_system,49892]]'
+language_used:
+- '[[/_Standards/WikiData/WD~Western_Armenian,180945|WD~Western_Armenian,180945]]'
+- '[[/_Standards/WikiData/WD~Laz,1160372|WD~Laz,1160372]]'
+- '[[/_Standards/WikiData/WD~Balkan_Gagauz,2360396|WD~Balkan_Gagauz,2360396]]'
+- '[[/_Standards/WikiData/WD~South_Azerbaijani,3449805|WD~South_Azerbaijani,3449805]]'
+- '[[/_Standards/WikiData/WD~Northern_Zazaki,3944007|WD~Northern_Zazaki,3944007]]'
+- '[[/_Standards/WikiData/WD~North_Levantine_Arabic,22809485|WD~North_Levantine_Arabic,22809485]]'
+- '[[/_Standards/WikiData/WD~Turkish,256|WD~Turkish,256]]'
+- '[[/_Standards/WikiData/WD~Bulgarian,7918|WD~Bulgarian,7918]]'
+- '[[/_Standards/WikiData/WD~Georgian,8108|WD~Georgian,8108]]'
+- '[[/_Standards/WikiData/WD~Zazaki,10199|WD~Zazaki,10199]]'
+- '[[/_Standards/WikiData/WD~Hértevin,33290|WD~Hértevin,33290]]'
+- '[[/_Standards/WikiData/WD~Syriac,33538|WD~Syriac,33538]]'
+- '[[/_Standards/WikiData/WD~Turoyo,34040|WD~Turoyo,34040]]'
+- '[[/_Standards/WikiData/WD~Domari,35394|WD~Domari,35394]]'
+- '[[/_Standards/WikiData/WD~Kurmanji,36163|WD~Kurmanji,36163]]'
+- '[[/_Standards/WikiData/WD~Judaeo-Spanish,36196|WD~Judaeo-Spanish,36196]]'
+- '[[/_Standards/WikiData/WD~Pontic_Greek,36748|WD~Pontic_Greek,36748]]'
+- '[[/_Standards/WikiData/WD~Turkish_Sign_Language,36885|WD~Turkish_Sign_Language,36885]]'
+- '[[/_Standards/WikiData/WD~Ubykh,36931|WD~Ubykh,36931]]'
+- '[[/_Standards/WikiData/WD~North_Mesopotamian_Arabic,56577|WD~North_Mesopotamian_Arabic,56577]]'
+history_of_topic: '[[/_Standards/WikiData/WD~history_of_Turkey,190876|WD~history_of_Turkey,190876]]'
+coat_of_arms: '[[/_Standards/WikiData/WD~national_emblem_of_Turkey,199855|WD~national_emblem_of_Turkey,199855]]'
+geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Turkey,217035|WD~geography_of_Turkey,217035]]'
+legislative_body: '[[/_Standards/WikiData/WD~Grand_National_Assembly_of_Turkey,274918|WD~Grand_National_Assembly_of_Turkey,274918]]'
+instance_of:
+- '[[/_Standards/WikiData/WD~regional_power,339834|WD~regional_power,339834]]'
+- '[[/_Standards/WikiData/WD~social_state,619610|WD~social_state,619610]]'
+- '[[/_Standards/WikiData/WD~secular_state,859563|WD~secular_state,859563]]'
+- '[[/_Standards/WikiData/WD~transcontinental_country,1323642|WD~transcontinental_country,1323642]]'
+- '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[/_Standards/WikiData/WD~Mediterranean_country,51576574|WD~Mediterranean_country,51576574]]'
+- '[[/_Standards/WikiData/WD~successor_state,127693126|WD~successor_state,127693126]]'
+- '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+anthem: '[[/_Standards/WikiData/WD~İstiklâl_Marşı,344452|WD~İstiklâl_Marşı,344452]]'
+economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Turkey,431095|WD~economy_of_Turkey,431095]]'
+central_bank: '[[/_Standards/WikiData/WD~Central_Bank_of_the_Republic_of_Turkey,580829|WD~Central_Bank_of_the_Republic_of_Turkey,580829]]'
+described_by_source:
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+located_in_or_next_to_body_of_water:
+- '[[/_Standards/WikiData/WD~Levantine_Sea,748696|WD~Levantine_Sea,748696]]'
+- '[[/_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+- '[[/_Standards/WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]'
+- '[[/_Standards/WikiData/WD~Aegean_Sea,34575|WD~Aegean_Sea,34575]]'
+culture: '[[/_Standards/WikiData/WD~culture_of_Turkey,1082380|WD~culture_of_Turkey,1082380]]'
+electrical_plug_type:
+- '[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Turkey,1185988|WD~demographics_of_Turkey,1185988]]'
+different_from: '[[/_Standards/WikiData/WD~Turkey,1715478|WD~Turkey,1715478]]'
+office_held_by_head_of_state: '[[/_Standards/WikiData/WD~President_of_Turkey,1922067|WD~President_of_Turkey,1922067]]'
+office_held_by_head_of_government: '[[/_Standards/WikiData/WD~President_of_Turkey,1922067|WD~President_of_Turkey,1922067]]'
+participant_in: '[[/_Standards/WikiData/WD~Spain_Turkey_relations,6013315|WD~Spain_Turkey_relations,6013315]]'
+Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Turkey,7112494|WD~outline_of_Turkey,7112494]]'
+country_calling_code:
+- 36
+- 90
+has_cabinet: '[[/_Standards/WikiData/WD~Cabinet_of_Turkey,12812333|WD~Cabinet_of_Turkey,12812333]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Turkey,13341450|WD~WikiProject_Turkey,13341450]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Turkey,13365978|WD~Portal_Turkey,13365978]]'
+railway_traffic_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+driving_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+executive_body: '[[/_Standards/WikiData/WD~Government_of_Turkey,15462156|WD~Government_of_Turkey,15462156]]'
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~Europe_Istanbul,16837414|WD~Europe_Istanbul,16837414]]'
+- '[[/_Standards/WikiData/WD~Asia_Istanbul,109521557|WD~Asia_Istanbul,109521557]]'
+- '[[/_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]'
+topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Turkey_infobox,17586314|WD~Template_Turkey_infobox,17586314]]'
+permanent_duplicated_item:
+- '[[/_Standards/WikiData/WD~Turkey,20571352|WD~Turkey,20571352]]'
+- '[[/_Standards/WikiData/WD~Q27131980,27131980|WD~Q27131980,27131980]]'
+emergency_phone_number: '[[/_Standards/WikiData/WD~177,25743529|WD~177,25743529]]'
+has_characteristic: '[[/_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
+coordinates_of_easternmost_point: Point(44.817 39.65325)
+coordinate_location: Point(36.0 39.0)
+coordinates_of_southernmost_point: Point(36.1515 35.808777777)
+nominal_GDP:
+- 819034484303
+- 905987824096
+population: 85372377
+Baidu_Tieba_name: 土耳其
+Provenio_UUID:
+- 342e6663-ab12-423d-9ed4-aa7b2af2f086
+- 3616540a-9af9-4dd2-b138-c4cdb6445399
+UMLS_CUI: C0041400
+described_at_URL: http://68k.news/index.php?section=nation&loc=TR&lang=TR
+demonym:
+- турци
+- تواركا
+- توركي
+- توركية
+- توركيات
+- Turcach
+- أترك
+- Turek
+- Turk
+- török
+- تركي
+- تركية
+- turca
+- turco
+- turcos
+- turcu
+- turques
+- তুর্কি
+- Turkyně
+- Türke
+- Türkin
+- türkisch
+- Τουρκάλα
+- Τούρκος
+- Turkish
+- turko
+- Turc
+- Turque
+- טורקי
+- טורקייה
+- Turkiano
+- turca
+- turche
+- turchi
+- turco
+- თურქი
+- turces
+- turc
+- turci
+- turcoaică
+- турки
+- турок
+- турчанка
+- Türk
+- turca
+- turche
+- turchi
+- turco
+- Türkänan
+spoken_text_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B9%D5%B8%D6%82%D6%80%D6%84%D5%AB%D5%A1%20%28Turkey%29.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pt-Turquia%20intro.ogg
+IPA_transcription: ˈtyɾ.ci.je
+ISNI: 403699232
+motto_text:
+- Heddwch gartref, heddwch yn y byd
+- Yurtta sulh, cihanda sulh
+MeSH_tree_code: Z01.252.245.500.850
+IMDb_keyword: turkey-the-country
+coordinates_of_westernmost_point: Point(25.665472222 40.125)
+official_language: '[[/_Standards/WikiData/WD~Turkish,256|WD~Turkish,256]]'
+shares_border_with:
+- '[[/_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[/_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]'
+- '[[/_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
+- '[[/_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]'
+- '[[/_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[/_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
+- '[[/_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+capital: '[[/_Standards/WikiData/WD~Ankara,3640|WD~Ankara,3640]]'
+replaces: '[[/_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+located_in_on_physical_feature:
+- '[[/_Standards/WikiData/WD~Balkans,23522|WD~Balkans,23522]]'
+- '[[/_Standards/WikiData/WD~West_Asia,27293|WD~West_Asia,27293]]'
+country: '[[/_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+continent: '[[/_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+lowest_point: '[[/_Standards/WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]'
+VAT_rate: 20
+retirement_age:
+- 60
+- 58
+compulsory_education_minimum_age_: 6
+unemployment_rate: 9
+compulsory_education_maximum_age_: 18
+marriageable_age: 18
+age_of_majority: 18
+total_fertility_rate: 1.9
+mains_voltage: 230
+suicide_rate: 2.3
+BTI_Status_Index:
+- 7.3
+- 5.45
+- 5.51
+- 6.17
+- 6.92
+- 7.17
+- 7.51
+- 7.54
+life_expectancy: 78
+social_media_followers:
+- 103000
+- 154520
+head_of_state: '[[/_Standards/WikiData/WD~Recep_Tayyip_Erdoğan,39259|WD~Recep_Tayyip_Erdoğan,39259]]'
+head_of_government: '[[/_Standards/WikiData/WD~Recep_Tayyip_Erdoğan,39259|WD~Recep_Tayyip_Erdoğan,39259]]'
+top_level_Internet_domain: '[[/_Standards/WikiData/WD~.tr,41104|WD~.tr,41104]]'
+BTI_Governance_Index:
+- 3.98
+- 4.05
+- 4.72
+- 6.06
+- 6.31
+- 6.37
+- 6.49
+- 6.65
+- 6.69
+Happy_Planet_Index_score: 41.3
+Gini_coefficient: 41.9
+Democracy_Index: 4.35
+trunk_prefix: 0
+UIC_numerical_country_code: 75
+Inequality_adjusted_Human_Development_Index: 0.717
+Human_Development_Index: 0.838
+maritime_identification_digits: 271
+M49_code: 792
+ISO_3166_1_numeric_code: 792
+death_rate: 5.101
+mobile_country_code: 286
+birth_rate: 14.468
+UIC_alphabetical_country_code: TR
+NUTS_code: TR
+licence_plate_code: TR
+ISO_3166_1_alpha_2_code: TR
+WIPO_ST_3: TR
+hashtag:
+- Turkey
+- Türkiye
+Commons_category: Turkey
+subreddit: Turkey
+IAB_code: 1462
+OmegaWiki_Defined_Meaning: 7320
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg
+FIPS_10_4_countries_and_regions_: TU
+area: 783562
+INSEE_countries_and_foreign_territories_code: 99208
+PM20_geo_code: B21
+number_of_out_of_school_children: 1378723
+ITU_letter_code: TUR
+ISO_3166_1_alpha_3_code: TUR
+IOC_country_code: TUR
+rural_population:
+- 20124610
+- 19526684
+- 19716558
+- 19924769
+GS1_country_code: 868-869
+urban_population:
+- 62454830
+- 64430760
+- 63459911
+- 65453229
+U_S_National_Archives_Identifier: 10035803
+coordinates_of_northernmost_point: Point(27.240166666 42.104722222)
+geoshape: http://commons.wikimedia.org/data/main/Data:Turkey.map
+satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Anatolia%20composite%20NASA.png
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Turkey.svg
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Tierkei.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Turcia.wav
+winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Turkey.A2002013.0905.500m.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkey%20%28orthographic%20projection%29.svg
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Turkey%20at%20night%20September%202014.jpg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Turkey%20banner%20Suleymaniye%20Mosque.jpg
+exact_match: http://purl.obolibrary.org/obo/ENVO_02000071
+official_website: https://www.turkiye.gov.tr/
+BHCL_UUID: 0235138e-838e-4a77-b45b-068626936bab
+Basisklassifikation: 15.68
+Dewey_Decimal_Classification:
+- 2--561
+- 2--392
+Facebook_username: edevletkapi
+Instagram_username: edevletkapisi
+X_Twitter_username: ekapi
+Wolfram_Language_entity_code: Entity["Country", "Turkey"]
+Colon_Classification: SG--591
+Krugosvet_article: strany_mira/TURTSIYA.html
+CIVICUS_Monitor_country_entry: turkey
+GitHub_topic: turkey
+Commons_gallery: Türkiye
+short_name:
+- TC
+- Türkiye
+- Туреччина
+- "\U0001F1F9\U0001F1F7"
+native_label:
+- Türkiye
+- Türkiye Cumhuriyeti
+name_in_native_language: Türkiye Cumhuriyeti
+official_name: Türkiye Cumhuriyeti
+number_of_households: 26075365
+female_population:
+- 41164975
+- 41578108
+- 41972288
+- 42398537
+male_population:
+- 41414465
+- 41806571
+- 42175029
+- 42581376
+inception: 1923-10-29
+has_time_started: 1923-10-29
+location:
+- 39.3233
+- 32.37
+type: Country
+tags:
+- geo/Country
+SpocWebEntityId: 27039
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses: Country
+publish: true
+title: Turkey
+linkTitle: ''
+keywords: ''
+layout: ''
+draft: false
+publishDate: ''
+expiryDate: ''
+Languages:
+- tr-TR
+- ku
+- diq
+- az
+- av
+icon: flag-tr
 ---
 
+# [[Turkey]] 🇹🇷
+## #has_/properties 
 
-ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
-ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
-ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
-ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
-ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-Telephone = `=this.dv_Telephone` 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
 
 Global = `=this.dv_Global` 
-Global_Name = `=this.dv_Global_Name` 
+Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_has_name` 
-[	has_name_en	 :: Turkey ] 
-has_name_es = `=this.dv_has_name_es` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_cn = `=this.dv_has_name_cn` 
-has_name_ar = `=this.dv_has_name_ar` 
-has_name_ru = `=this.dv_has_name_ru` 
+name = `=this.dv_has_name`
+[	has_name_en	 :: Turkey ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-CLDR_display_name = `=this.dv_CLDR_display_name` 
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-UNTERM_English = `=this.dv_UNTERM_English` 
-UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
-UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
-UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
-UNTERM_French = `=this.dv_UNTERM_French` 
-UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
-UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
-UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
-UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
-UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
-UNTERM_Russian = `=this.dv_UNTERM_Russian` 
-UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
 Region_Name = `=this.dv_Region_Name`
 Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
 Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region = `=this.dv_Region` 
+Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
-Sub-region = `=this.dv_Sub-region` 
+Sub-region = `=this.dv_Sub-region`
 
-Geoname-ID = `=this.dv_Geoname-ID` 
-FIPS = `=this.dv_FIPS` 
-FIFA = `=this.dv_FIFA` 
-IOC = `=this.dv_IOC` 
-MARC = `=this.dv_MARC` 
-GAUL = `=this.dv_GAUL` 
-WMO = `=this.dv_WMO` 
-ITU = `=this.dv_ITU` 
-DS = `=this.dv_DS` 
-TLD = `=this.dv_TLD` 
-EDGAR = `=this.dv_EDGAR` 
-M49 = `=this.dv_M49` 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-is_independent = `=this.dv_is_independent` 
-developed_developing_countries = `=this.dv_developed_developing_countries` 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
-ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
-ISO2 = `=this.dv_ISO2` 
+ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
+
+is_a = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Turkey/ReadMe|ReadMe]] 
+
+## #has_/map  
 
 ```leaflet
 id: Turkey
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: .//
+geojsonFolder: ./Turkey///
+markerFolder: ./Turkey/
+coordinates: [[Turkey]] 
+markerFile: [[Turkey]] 
+defaultZoom: 6 
 ```
 
-[has_name_en::Turkey] 
-has_name_de = `=this.dv_has_name_de` 
-Area-Total = `=this.dv_Area-Total` 
-Area-Land = `=this.dv_Area-Land` 
-Continent = `=this.dv_Continent`
-VehicleCode = `=this.dv_VehicleCode` 
+### #has_map_/topologic 
+
+```leaflet
+id: Turkey_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Turkey//
+markerFolder: ./Turkey/
+coordinates: [[Turkey]] 
+markerFile: [[Turkey]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+[has_name_en::Turkey]
+has_name_de = `=this.dv_has_name_de`  
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-![[Emblem_of_Turkey.svg|350]] 
+![[Emblem_of_Turkey.svg|350]]
 
-![[Anthem-Turkey.mp3]] 
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Turkey.mp3|Anthem-Turkey.mp3]]
 
-![[Flag_of_Turkey.svg|350]] 
+![[Flag_of_Turkey.svg|350]]
 
-Alcohol-l = `=this.dv_Alcohol-l` 
-Language-Id = `=this.dv_Language-Id` 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
-has_place_latitude = `=this.dv_has_place_latitude` 
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> **Turkey**, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west. Turkey is home to over 85 million people; most are ethnic Turks, while ethnic Kurds are the largest ethnic minority. Officially a secular state, Turkey has a Muslim-majority population. Ankara is Turkey's capital and second-largest city, while Istanbul is its largest city and economic and financial center. Other major cities include İzmir, Bursa, and Antalya.
+>
+> Turkey was first inhabited by modern humans during the Late Paleolithic. Home to important Neolithic sites like Göbekli Tepe and some of the earliest farming areas, present-day Turkey was inhabited by various ancient peoples. The Hattians were assimilated by the Anatolian peoples, such as the Hittites. Classical Anatolia transitioned into cultural Hellenization following the conquests of Alexander the Great; Hellenization continued during the Roman and Byzantine eras. The Seljuk Turks began migrating into Anatolia in the 11th century, starting the Turkification process. The Seljuk Sultanate of Rum ruled Anatolia until the Mongol invasion in 1243, when it disintegrated into Turkish principalities. Beginning in 1299, the Ottomans united the principalities and expanded. Mehmed II conquered Constantinople (now known as Istanbul) in 1453. During the reigns of Selim I and Suleiman the Magnificent, the Ottoman Empire became a global power. From 1789 onwards, the empire saw a major transformation, reforms, and centralization while its territory declined.
+>
+> In the 19th and early 20th centuries, persecution of Muslims during the Ottoman contraction and in the Russian Empire resulted in large-scale loss of life and mass migration into modern-day Turkey from the Balkans, Caucasus, and Crimea. Under the control of the Three Pashas, the Ottoman Empire entered World War I in 1914, during which the Ottoman government committed genocides against its Armenian, Greek, and Assyrian subjects. Following Ottoman defeat, the Turkish War of Independence resulted in the abolition of the sultanate and the signing of the Treaty of Lausanne. The Republic was proclaimed on 29 October 1923, modelled on the reforms initiated by the country's first president, Mustafa Kemal Atatürk. Turkey remained neutral during most of World War II, but was involved in the Korean War. Several military interventions interfered with the transition to a multi-party system.
+>
+> Turkey is an upper-middle-income and emerging country; its economy is the world's 17th-largest by nominal and 12th-largest by PPP-adjusted GDP. It is a unitary presidential republic. Turkey is a founding member of the OECD, G20, and Organization of Turkic States. With a geopolitically significant location, Turkey is a regional power and an early member of NATO. An EU candidate, Turkey is part of the EU Customs Union, CoE, OIC, and TURKSOY.
+>
+> Turkey has coastal plains, a high central plateau, and various mountain ranges; its climate is temperate with harsher conditions in the interior. Home to three biodiversity hotspots, Turkey is prone to frequent earthquakes and is highly vulnerable to climate change. Turkey has a universal healthcare system, growing access to education, and increasing levels of innovativeness. It is a leading TV content exporter. With 21 UNESCO World Heritage sites, 30 UNESCO intangible cultural heritage inscriptions, and a rich and diverse cuisine, Turkey is the fifth most visited country in the world.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Turkey) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Turkey.private|Turkey.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]] 
 
